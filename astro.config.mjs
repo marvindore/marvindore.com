@@ -11,5 +11,12 @@ export default defineConfig({
     },
 
     imageService: "cloudflare"
-  })
+  }),
+  devToolbar: {
+    enabled: false
+  },
+
+  vite: {
+    plugins: []
+  }
 });

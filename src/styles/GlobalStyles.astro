@@ -1,0 +1,37 @@
+<style is:global>
+    /* Apply this to your body or main container */
+    body {
+        /* 1. Set a clean, professional base color (not harsh white, but very close) */
+        background-color: #f4f4f4;
+
+        /* 2. Stack radial gradients to create the "bursts" */
+        background-image: 
+    /* The Green Burst (Bottom Right or random spot) - low opacity for subtlety */
+            radial-gradient(
+                circle at 85% 90%,
+                rgba(150, 150, 150, 0.15) 0%,
+                transparent 40%
+        );
+        /* 3. Ensure the background covers the whole viewport and stays fixed when scrolling */
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+        overflow-x: hidden;
+        font-family:
+            "EB Garamond", Montserrat, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
+            sans-serif;
+    }
+
+    .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0); /* Deprecated, but good for older browsers */
+        white-space: nowrap; /* Keeps text on one line */
+        border-width: 0;
+    }
+</style>

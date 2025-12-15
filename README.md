@@ -3,7 +3,7 @@
 ```sh
 pnpm create astro@latest -- --template basics
 ```
-
+add prettier plugin: https://github.com/withastro/prettier-plugin-astro
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 ## 🚀 Project Structure

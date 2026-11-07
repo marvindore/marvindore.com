@@ -1,11 +1,86 @@
 ---
-import Home from '../components/Home.astro';
-import MainLayout from '../layouts/MainLayout.astro';
+import PostList from "../components/blog/PostList.astro";
+import LinkList from "../components/profile/LinkList.astro";
+import ProfileCard from "../components/profile/ProfileCard.astro";
+import Aurora from "../components/ui/Aurora.astro";
+import Section from "../components/ui/Section.astro";
+import Sheet from "../components/ui/Sheet.astro";
+import { links } from "../data/links";
+import { profile, socials } from "../data/profile";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getLatestPosts } from "../lib/posts";
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const latestPosts = await getLatestPosts(2);
 ---
 
-<MainLayout>
-	<Home />
-</MainLayout>
+<BaseLayout description={profile.bio}>
+    <div class="stage">
+        <Aurora />
+        <Sheet class="home-sheet">
+            <ProfileCard {profile} {socials} />
+            <div class="content">
+                <Section title="Links" id="links">
+                    <LinkList {links} />
+                </Section>
+                {
+                    latestPosts.length > 0 && (
+                        <Section title="Latest from the blog" id="latest">
+                            <PostList posts={latestPosts} />
+                            <a class="all" href="/blog">View all posts →</a>
+                        </Section>
+                    )
+                }
+            </div>
+        </Sheet>
+    </div>
+</BaseLayout>
+
+<style>
+    .stage {
+        position: relative;
+        padding-top: 11rem;
+        overflow: clip;
+    }
+
+    .content {
+        display: grid;
+        gap: 2rem;
+        margin-top: 1.75rem;
+    }
+
+    .all {
+        justify-self: center;
+        font-weight: 600;
+        color: var(--brand-from);
+        padding: 0.5rem 1rem;
+    }
+
+    @media (min-width: 48rem) {
+        .stage {
+            padding: 9rem var(--gutter) 3rem;
+        }
+    }
+
+    /* Desktop: sticky profile card on the left, content card on the right */
+    @media (min-width: 64rem) {
+        .stage :global(.sheet.home-sheet) {
+            display: grid;
+            grid-template-columns: var(--sidebar-width) 1fr;
+            gap: 2rem;
+            align-items: start;
+            max-width: 72rem;
+            padding: 0;
+            background: transparent;
+            box-shadow: none;
+            border-radius: 0;
+        }
+
+        .content {
+            margin-top: 0;
+            padding: 2.5rem;
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-card);
+        }
+    }
+</style>

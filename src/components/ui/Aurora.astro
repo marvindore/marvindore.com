@@ -1,0 +1,45 @@
+---
+interface Props {
+    /** "tall" for the home page, "short" for inner pages. */
+    size?: "tall" | "short";
+}
+const { size = "tall" } = Astro.props;
+---
+
+<div class:list={["aurora", size]} aria-hidden="true"></div>
+
+<style>
+    .aurora {
+        position: absolute;
+        inset: 0 0 auto 0;
+        height: 18rem;
+        overflow: hidden;
+        background:
+            radial-gradient(55% 90% at 12% 15%, rgb(43 108 255 / 0.85), transparent 62%),
+            radial-gradient(50% 80% at 88% 25%, rgb(206 40 220 / 0.85), transparent 60%),
+            radial-gradient(60% 70% at 55% 95%, rgb(124 58 237 / 0.6), transparent 65%),
+            var(--aurora-base);
+        background-size: 140% 140%;
+        mask-image: linear-gradient(#000 65%, transparent);
+        animation: drift 18s ease-in-out infinite alternate;
+    }
+
+    .short {
+        height: 12rem;
+    }
+
+    @media (min-width: 64rem) {
+        .aurora {
+            height: 26rem;
+        }
+        .short {
+            height: 16rem;
+        }
+    }
+
+    @keyframes drift {
+        to {
+            background-position: 100% 60%;
+        }
+    }
+</style>

@@ -1,0 +1,56 @@
+---
+import Icon from "./Icon.astro";
+import { isExternal } from "../../lib/links";
+
+interface Props {
+    href: string;
+    icon?: string;
+    variant?: "primary" | "secondary";
+    /** Filename: turns the link into a file download. */
+    download?: string;
+}
+const { href, icon, variant = "primary", download } = Astro.props;
+const external = isExternal(href);
+---
+
+<a
+    class:list={["btn", variant]}
+    {href}
+    download={download}
+    target={external ? "_blank" : undefined}
+    rel={external ? "noopener noreferrer" : undefined}
+>
+    {icon && <Icon name={icon} size={20} />}
+    <span><slot /></span>
+</a>
+
+<style>
+    .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.6rem;
+        min-height: 3.25rem;
+        padding-inline: 1.5rem;
+        border-radius: 999px;
+        font-weight: 600;
+        font-size: 1rem;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .btn:hover {
+        transform: translateY(-2px);
+    }
+
+    .primary {
+        color: var(--on-brand);
+        background: var(--brand-gradient);
+        box-shadow: var(--shadow-lift);
+    }
+
+    .secondary {
+        color: var(--text);
+        background: var(--surface-muted);
+        border: 1px solid var(--border);
+    }
+</style>

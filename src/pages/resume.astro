@@ -1,0 +1,61 @@
+---
+import Achievements from "../components/resume/Achievements.astro";
+import EducationEntry from "../components/resume/EducationEntry.astro";
+import ExperienceEntry from "../components/resume/ExperienceEntry.astro";
+import SkillChips from "../components/resume/SkillChips.astro";
+import Button from "../components/ui/Button.astro";
+import Section from "../components/ui/Section.astro";
+import { profile } from "../data/profile";
+import { resume } from "../data/resume";
+import PageLayout from "../layouts/PageLayout.astro";
+---
+
+<PageLayout
+    title="Resume"
+    heading={profile.name}
+    description={`${profile.name}: ${resume.headline}. View the resume or download the PDF.`}
+>
+    <div slot="lead" class="lead">
+        <p>{resume.headline}</p>
+        <Button href={resume.pdfHref} icon="download" download={resume.pdfFilename}>Download PDF</Button>
+    </div>
+
+    <Section title="Key achievements" id="achievements"><Achievements items={resume.achievements} /></Section>
+    <Section title="Skills" id="skills"><SkillChips skills={resume.skills} /></Section>
+    <Section title="Work history" id="work">
+        {resume.experience.map((entry) => <ExperienceEntry {entry} />)}
+    </Section>
+    <Section title="Education" id="education">
+        {resume.education.map((e) => <EducationEntry {...e} />)}
+    </Section>
+
+    <div class="bottom">
+        <Button href={resume.pdfHref} icon="download" download={resume.pdfFilename}>Download PDF</Button>
+    </div>
+</PageLayout>
+
+<style>
+    .lead {
+        display: grid;
+        gap: 1rem;
+        margin-top: 0.5rem;
+        color: var(--text-muted);
+        font-weight: 600;
+    }
+
+    .lead :global(.btn),
+    .bottom :global(.btn) {
+        width: 100%;
+    }
+
+    @media (min-width: 48rem) {
+        .lead :global(.btn),
+        .bottom :global(.btn) {
+            width: auto;
+        }
+        .lead {
+            grid-template-columns: 1fr auto;
+            align-items: center;
+        }
+    }
+</style>

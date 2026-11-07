@@ -1,0 +1,87 @@
+---
+import { render } from "astro:content";
+import YouTubeEmbed from "../../components/blog/YouTubeEmbed.astro";
+import PageLayout from "../../layouts/PageLayout.astro";
+import { formatDate } from "../../lib/format";
+import { getPosts, type Post } from "../../lib/posts";
+import { youtubeThumbnail } from "../../lib/youtube";
+
+export async function getStaticPaths() {
+    const posts = await getPosts();
+    return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props as { post: Post };
+const { title, description, pubDate, youtubeId, tags } = post.data;
+const { Content } = await render(post);
+---
+
+<PageLayout
+    {title}
+    {description}
+    image={youtubeId ? youtubeThumbnail(youtubeId) : undefined}
+    backHref="/blog"
+    backLabel="Blog"
+>
+    <p slot="lead" class="meta">
+        <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+        {tags.length > 0 && <span> · {tags.join(", ")}</span>}
+    </p>
+    {youtubeId && <YouTubeEmbed videoId={youtubeId} {title} />}
+    <article class="prose"><Content /></article>
+</PageLayout>
+
+<style>
+    .meta {
+        margin-top: 0.5rem;
+        color: var(--text-muted);
+        font-size: 0.9rem;
+    }
+
+    .prose {
+        font-size: 1.05rem;
+        line-height: 1.75;
+    }
+
+    .prose :global(p),
+    .prose :global(ul),
+    .prose :global(ol),
+    .prose :global(pre) {
+        margin-bottom: 1.1em;
+    }
+
+    .prose :global(h2),
+    .prose :global(h3) {
+        margin: 1.6em 0 0.6em;
+        line-height: 1.25;
+    }
+
+    .prose :global(a) {
+        color: var(--brand-from);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+    }
+
+    .prose :global(code) {
+        padding: 0.1em 0.35em;
+        border-radius: 6px;
+        background: var(--surface-muted);
+        font-size: 0.9em;
+    }
+
+    .prose :global(pre) {
+        padding: 1rem;
+        border-radius: var(--radius-sm);
+        overflow-x: auto;
+    }
+
+    .prose :global(ul),
+    .prose :global(ol) {
+        padding-left: 1.3rem;
+        list-style: revert;
+    }
+
+    .prose :global(img) {
+        border-radius: var(--radius-sm);
+    }
+</style>

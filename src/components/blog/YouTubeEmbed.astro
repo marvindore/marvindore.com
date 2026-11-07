@@ -1,0 +1,66 @@
+---
+import { youtubeThumbnail, youtubeEmbedUrl } from "../../lib/youtube";
+import Icon from "../ui/Icon.astro";
+
+interface Props {
+    videoId: string;
+    title: string;
+}
+const { videoId, title } = Astro.props;
+---
+
+<!-- Click-to-load: no YouTube JS or cookies until the visitor presses play. -->
+<div class="embed" data-embed-src={youtubeEmbedUrl(videoId)} data-title={title}>
+    <img src={youtubeThumbnail(videoId)} alt="" loading="lazy" />
+    <button type="button" aria-label={`Play video: ${title}`}>
+        <Icon name="play" size={28} />
+    </button>
+</div>
+
+<style>
+    .embed {
+        position: relative;
+        aspect-ratio: 16 / 9;
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        background: #000;
+        box-shadow: var(--shadow-card);
+    }
+
+    img,
+    :global(.embed iframe) {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border: 0;
+    }
+
+    button {
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 4.5rem;
+        height: 4.5rem;
+        border: 0;
+        border-radius: 50%;
+        color: #fff;
+        background: #ff0033;
+        display: grid;
+        place-items: center;
+        cursor: pointer;
+        box-shadow: 0 8px 24px rgb(0 0 0 / 0.4);
+        transition: transform 0.15s ease;
+    }
+
+    button:hover {
+        transform: scale(1.08);
+    }
+</style>
+
+<script>
+    import { activateEmbed } from "../../lib/embed";
+
+    document.querySelectorAll<HTMLElement>(".embed[data-embed-src]").forEach((el) => {
+        el.querySelector("button")?.addEventListener("click", () => activateEmbed(el), { once: true });
+    });
+</script>

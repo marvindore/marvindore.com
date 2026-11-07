@@ -1,0 +1,30 @@
+---
+import ChannelCard from "../components/youtube/ChannelCard.astro";
+import { channels } from "../data/youtube";
+import PageLayout from "../layouts/PageLayout.astro";
+---
+
+<PageLayout title="YouTube" description="Both of Marvin Dore's YouTube channels.">
+    <p slot="lead" class="lead">Two channels, two flavors. Pick where to start.</p>
+    <ul class="channels">
+        {channels.map((channel) => <li><ChannelCard {channel} /></li>)}
+    </ul>
+</PageLayout>
+
+<style>
+    .lead {
+        margin-top: 0.5rem;
+        color: var(--text-muted);
+    }
+
+    .channels {
+        display: grid;
+        gap: 1rem;
+    }
+
+    @media (min-width: 48rem) {
+        .channels {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+</style>

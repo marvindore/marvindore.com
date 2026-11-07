@@ -1,0 +1,11 @@
+---
+import PostList from "../../components/blog/PostList.astro";
+import PageLayout from "../../layouts/PageLayout.astro";
+import { getPosts } from "../../lib/posts";
+
+const posts = await getPosts();
+---
+
+<PageLayout title="Blog" description="Write-ups and the YouTube videos they go with.">
+    <PostList {posts} />
+</PageLayout>

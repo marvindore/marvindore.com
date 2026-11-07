@@ -1,0 +1,53 @@
+---
+import Icon from "../ui/Icon.astro";
+import { isExternal } from "../../lib/links";
+import type { SocialLink } from "../../types";
+
+interface Props {
+    socials: SocialLink[];
+}
+const { socials } = Astro.props;
+---
+
+<ul class="socials">
+    {
+        socials.map((s) => (
+            <li>
+                <a
+                    href={s.href}
+                    aria-label={s.label}
+                    title={s.label}
+                    target={isExternal(s.href) ? "_blank" : undefined}
+                    rel={isExternal(s.href) ? "noopener noreferrer" : undefined}
+                >
+                    <Icon name={s.icon} size={22} />
+                </a>
+            </li>
+        ))
+    }
+</ul>
+
+<style>
+    .socials {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.5rem;
+    }
+
+    a {
+        display: grid;
+        place-items: center;
+        width: 2.75rem;
+        height: 2.75rem;
+        border-radius: 50%;
+        color: #fff;
+        background: #14152b;
+        transition: transform 0.18s ease, background 0.18s ease;
+    }
+
+    a:hover {
+        transform: translateY(-3px) scale(1.06);
+        background: var(--brand-gradient);
+    }
+</style>

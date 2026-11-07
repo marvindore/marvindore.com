@@ -1,0 +1,33 @@
+---
+interface Props {
+    school: string;
+    period: string;
+    degree: string;
+    focus: string;
+}
+const { school, period, degree, focus } = Astro.props;
+---
+
+<article class="edu">
+    <h3>{school}</h3>
+    <p>{degree}</p>
+    <p class="muted">Specialization: {focus} · {period}</p>
+</article>
+
+<style>
+    .edu {
+        padding: 1rem 1.1rem;
+        border-radius: var(--radius-md);
+        background: var(--surface-muted);
+        border: 1px solid var(--border);
+    }
+
+    h3 {
+        font-size: 1.05rem;
+    }
+
+    .muted {
+        font-size: 0.88rem;
+        color: var(--text-muted);
+    }
+</style>

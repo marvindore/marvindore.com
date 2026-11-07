@@ -1,0 +1,61 @@
+---
+import Button from "../ui/Button.astro";
+import Icon from "../ui/Icon.astro";
+import type { YouTubeChannel } from "../../types";
+
+interface Props {
+    channel: YouTubeChannel;
+}
+const { channel } = Astro.props;
+---
+
+<article class="channel">
+    <span class="logo"><Icon name="youtube" size={30} /></span>
+    <div class="info">
+        <h2>{channel.name}</h2>
+        <p class="handle">{channel.handle}</p>
+        <p class="desc">{channel.description}</p>
+    </div>
+    <Button href={channel.href} icon="arrow-up-right">Visit channel</Button>
+</article>
+
+<style>
+    .channel {
+        display: grid;
+        gap: 1rem;
+        justify-items: start;
+        padding: 1.5rem;
+        border-radius: var(--radius-md);
+        background: var(--surface-muted);
+        border: 1px solid var(--border);
+    }
+
+    .logo {
+        display: grid;
+        place-items: center;
+        width: 3.5rem;
+        height: 3.5rem;
+        border-radius: 1rem;
+        color: #fff;
+        background: #ff0033;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+        line-height: 1.2;
+    }
+
+    .handle {
+        font-weight: 600;
+        color: var(--brand-from);
+    }
+
+    .desc {
+        margin-top: 0.4rem;
+        color: var(--text-muted);
+    }
+
+    .channel :global(.btn) {
+        width: 100%;
+    }
+</style>

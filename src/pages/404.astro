@@ -1,0 +1,31 @@
+---
+import Button from "../components/ui/Button.astro";
+import PageLayout from "../layouts/PageLayout.astro";
+---
+
+<PageLayout title="Page not found" heading="This page doesn't exist" description="That link may be broken or the page has moved.">
+    <p slot="lead" class="lead">The link may be broken, or the page has moved. Try the blog or the channel instead.</p>
+    <div class="actions">
+        <Button href="/blog" icon="pen">Read the blog</Button>
+        <Button href="https://youtube.com/@marvindore" icon="youtube" variant="secondary">Watch on YouTube</Button>
+    </div>
+</PageLayout>
+
+<style>
+    .lead {
+        margin-top: 0.5rem;
+        color: var(--text-muted);
+    }
+
+    .actions {
+        display: grid;
+        gap: 0.75rem;
+    }
+
+    @media (min-width: 48rem) {
+        .actions {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+</style>

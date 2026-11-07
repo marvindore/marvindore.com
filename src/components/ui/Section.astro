@@ -15,6 +15,8 @@ const { title, id } = Astro.props;
     .section {
         display: grid;
         gap: 1rem;
+        /* Keeps anchored headings clear of the sticky section nav */
+        scroll-margin-top: 4.5rem;
     }
 
     h2 {

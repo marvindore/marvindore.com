@@ -1,17 +1,20 @@
 ---
+import ThemeToggle from "../components/ui/ThemeToggle.astro";
 import "../styles/global.css";
 
 interface Props {
     title?: string;
     description?: string;
     image?: string;
+    noindex?: boolean;
 }
 
 const siteName = "Marvin Dore";
 const {
     title,
     description = "Full stack software engineer. YouTube, blog, resume and links.",
-    image = "/MD_Logo_200x120.webp",
+    image = "/og.jpg",
+    noindex = false,
 } = Astro.props;
 const pageTitle = title ? `${title} · ${siteName}` : siteName;
 const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin);
@@ -23,18 +26,31 @@ const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin);
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <meta name="theme-color" content="#080824" />
+        <meta name="color-scheme" content="light dark" />
+        <!-- Applies the saved theme before first paint so there is no flash. Key matches lib/theme.ts. -->
+        <script is:inline>
+            try {
+                var t = localStorage.getItem("theme");
+                if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+            } catch (e) {}
+        </script>
         <meta name="generator" content={Astro.generator} />
         <title>{pageTitle}</title>
         <meta name="description" content={description} />
         <link rel="canonical" href={canonical} />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <slot name="head" />
+        {noindex && <meta name="robots" content="noindex" />}
+        <link rel="icon" href="/favicon.ico" sizes="48x48" />
+        <link rel="icon" type="image/png" href="/icon-192.png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
         <meta property="og:type" content="website" />
+        <meta property="og:url" content={canonical} />
         <meta property="og:site_name" content={siteName} />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content={new URL(image, canonical)} />
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -44,6 +60,11 @@ const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin);
         />
     </head>
     <body>
+        <ThemeToggle />
         <slot />
+        <script>
+            import { plausibleProvider, trackClicks } from "../lib/analytics";
+            trackClicks(plausibleProvider);
+        </script>
     </body>
 </html>

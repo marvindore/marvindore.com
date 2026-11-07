@@ -1,17 +1,19 @@
 ---
+import type { EducationEntry } from "../../types";
+
 interface Props {
-    school: string;
-    period: string;
-    degree: string;
-    focus: string;
+    entry: EducationEntry;
 }
-const { school, period, degree, focus } = Astro.props;
+const { entry } = Astro.props;
 ---
 
 <article class="edu">
-    <h3>{school}</h3>
-    <p>{degree}</p>
-    <p class="muted">Specialization: {focus} · {period}</p>
+    <div class="title-row">
+        <h3>{entry.school}</h3>
+        <p class="period">{entry.period}</p>
+    </div>
+    <p>{entry.degree}</p>
+    <p class="muted">Specialization: {entry.focus}</p>
 </article>
 
 <style>
@@ -22,12 +24,27 @@ const { school, period, degree, focus } = Astro.props;
         border: 1px solid var(--border);
     }
 
+    .title-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 0.1rem 1rem;
+    }
+
     h3 {
         font-size: 1.05rem;
     }
 
+    .period {
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: var(--link);
+        white-space: nowrap;
+    }
+
     .muted {
-        font-size: 0.88rem;
+        font-size: 0.9rem;
         color: var(--text-muted);
     }
 </style>

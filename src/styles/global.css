@@ -20,6 +20,7 @@ body {
     font-size: 1rem;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
+    position: relative;
 }
 
 img,
@@ -70,5 +71,43 @@ ul {
         animation: none !important;
         transition: none !important;
         scroll-behavior: auto !important;
+    }
+}
+
+/* Shared entrance animation */
+@keyframes reveal {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+}
+
+/* Printing (and "Save as PDF"): plain, light, full-width, no controls */
+@media print {
+    :root,
+    :root[data-theme="dark"] {
+        color-scheme: light;
+    }
+
+    .aurora,
+    [data-theme-toggle],
+    .no-print {
+        display: none !important;
+    }
+
+    .stage {
+        padding: 0 !important;
+    }
+
+    .sheet {
+        max-width: none !important;
+        padding: 0 !important;
+        border-radius: 0 !important;
+        box-shadow: none !important;
+        min-height: 0 !important;
+    }
+
+    a {
+        text-decoration: none;
     }
 }

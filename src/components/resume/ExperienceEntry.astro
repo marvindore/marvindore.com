@@ -1,21 +1,30 @@
 ---
-import type { ResumeEntry } from "../../types";
+import type { ExperienceEntry } from "../../types";
 
 interface Props {
-    entry: ResumeEntry;
+    entry: ExperienceEntry;
 }
 const { entry } = Astro.props;
 ---
 
 <article class="entry">
     <header>
-        <h3>{entry.role}</h3>
+        <div class="title-row">
+            <h3>{entry.role}</h3>
+            <p class="period">{entry.period}</p>
+        </div>
         <p class="meta">{entry.company} · {entry.location}</p>
-        <p class="period">{entry.period}</p>
     </header>
     {entry.summary && <p class="summary">{entry.summary}</p>}
     <ul>
-        {entry.highlights.map((h) => <li>{h}</li>)}
+        {
+            entry.highlights.map((h) => (
+                <li>
+                    {h.lead && <strong>{h.lead}. </strong>}
+                    {h.text}
+                </li>
+            ))
+        }
     </ul>
 </article>
 
@@ -27,20 +36,29 @@ const { entry } = Astro.props;
         border-left: 2px solid var(--border);
     }
 
+    .title-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 0.1rem 1rem;
+    }
+
     h3 {
-        font-size: 1.1rem;
+        font-size: 1.15rem;
         line-height: 1.3;
+    }
+
+    .period {
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: var(--link);
+        white-space: nowrap;
     }
 
     .meta {
         color: var(--text-muted);
         font-size: 0.92rem;
-    }
-
-    .period {
-        font-size: 0.8rem;
-        font-weight: 600;
-        color: var(--brand-from);
     }
 
     .summary {
@@ -50,9 +68,10 @@ const { entry } = Astro.props;
 
     ul {
         display: grid;
-        gap: 0.6rem;
+        gap: 0.65rem;
         list-style: disc;
         padding-left: 1.1rem;
-        font-size: 0.93rem;
+        font-size: 0.95rem;
+        line-height: 1.55;
     }
 </style>

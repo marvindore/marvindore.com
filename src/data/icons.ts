@@ -19,6 +19,8 @@ export const icons = {
     "pen": { viewBox: "0 0 24 24", kind: "stroke", path: "M4 20h4L19 9a2.8 2.8 0 0 0-4-4L4 16zM13.5 6.5l4 4" },
     "play": { viewBox: "0 0 24 24", kind: "stroke", path: "M8 5v14l11-7z" },
     "external": { viewBox: "0 0 24 24", kind: "stroke", path: "M14 4h6v6M20 4 10 14M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" },
+    sun: { viewBox: "0 0 24 24", kind: "stroke", path: "M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8zM12 2v2m0 16v2M4.9 4.9l1.4 1.4m11.4 11.4 1.4 1.4M2 12h2m16 0h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" },
+    moon: { viewBox: "0 0 24 24", kind: "stroke", path: "M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z" },
 } as const satisfies Record<string, IconDefinition>;
 
 export type IconName = keyof typeof icons;

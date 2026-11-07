@@ -1,0 +1,20 @@
+---
+import Section from "../ui/Section.astro";
+import PostList from "./PostList.astro";
+import { getPosts } from "../../lib/posts";
+
+interface Props {
+    currentId: string;
+    count?: number;
+}
+const { currentId, count = 2 } = Astro.props;
+const posts = (await getPosts()).filter((p) => p.id !== currentId).slice(0, count);
+---
+
+{
+    posts.length > 0 && (
+        <Section title="Keep reading" id="keep-reading">
+            <PostList {posts} />
+        </Section>
+    )
+}

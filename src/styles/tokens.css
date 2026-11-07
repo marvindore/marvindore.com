@@ -1,18 +1,43 @@
+/*
+ * Theme tokens. light-dark() picks the first value in light mode and the second in dark mode.
+ * With no data-theme attribute the page follows the visitor's system setting;
+ * the toggle sets data-theme to force one.
+ */
 :root {
+    color-scheme: light dark;
+}
+
+:root[data-theme="light"] {
     color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+    color-scheme: dark;
+}
+
+:root {
     --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
-    --bg: #f3f4fa;
-    --surface: #ffffff;
-    --surface-muted: #f6f7fc;
-    --text: #0f1226;
-    --text-muted: #5a607a;
-    --border: #e4e7f2;
-    --ring: #6a6cf5;
+    --bg: light-dark(#f3f4fa, #090a18);
+    --surface: light-dark(#ffffff, #13152a);
+    --surface-muted: light-dark(#f6f7fc, #1b1e3a);
+    --text: light-dark(#0f1226, #eef0ff);
+    --text-muted: light-dark(#5a607a, #a4aac8);
+    --border: light-dark(#e4e7f2, #282c50);
+    --ring: light-dark(#6a6cf5, #9a9cff);
+    --link: light-dark(#4f52e0, #9fa1ff);
+    --social-bg: light-dark(#14152b, #2a2f5a);
 
-    --brand-from: #6a6cf5;
-    --brand-to: #3b82f6;
+    /* Dark enough for white text to pass WCAG AA (4.5:1) across the whole gradient */
+    --brand-from: #5457e6;
+    --brand-to: #2563eb;
     --brand-gradient: linear-gradient(135deg, var(--brand-from), var(--brand-to));
+    /* Gradient for text on page surfaces: lighter in dark mode so it stays readable */
+    --brand-text-gradient: linear-gradient(
+        135deg,
+        light-dark(#5457e6, #a5a7ff),
+        light-dark(#2563eb, #7cb1ff)
+    );
     --on-brand: #ffffff;
 
     --aurora-base: #080824;
@@ -21,8 +46,12 @@
     --radius-md: 18px;
     --radius-lg: 28px;
 
-    --shadow-card: 0 1px 2px rgb(20 24 60 / 0.04), 0 8px 24px -12px rgb(20 24 60 / 0.12);
-    --shadow-lift: 0 2px 4px rgb(20 24 60 / 0.06), 0 16px 32px -12px rgb(60 70 200 / 0.28);
+    --shadow-card:
+        0 1px 2px light-dark(rgb(20 24 60 / 0.04), rgb(0 0 0 / 0.3)),
+        0 8px 24px -12px light-dark(rgb(20 24 60 / 0.12), rgb(0 0 0 / 0.55));
+    --shadow-lift:
+        0 2px 4px light-dark(rgb(20 24 60 / 0.06), rgb(0 0 0 / 0.3)),
+        0 16px 32px -12px light-dark(rgb(60 70 200 / 0.28), rgb(106 108 245 / 0.35));
 
     --gutter: 1.25rem;
     --content-width: 46rem;

@@ -1,37 +1,48 @@
 ---
-import Achievements from "../components/resume/Achievements.astro";
-import EducationEntry from "../components/resume/EducationEntry.astro";
-import ExperienceEntry from "../components/resume/ExperienceEntry.astro";
-import SkillChips from "../components/resume/SkillChips.astro";
+import ContactLinks from "../components/resume/ContactLinks.astro";
+import SectionNav from "../components/resume/SectionNav.astro";
+import { resumeSections } from "../components/resume/sections";
 import Button from "../components/ui/Button.astro";
 import Section from "../components/ui/Section.astro";
-import { profile } from "../data/profile";
-import { resume } from "../data/resume";
+import { profile, socials } from "../data/profile";
+import { education, experience, meta, skills } from "../data/resume";
 import PageLayout from "../layouts/PageLayout.astro";
+import { fileLabel } from "../lib/fileInfo";
+import { buildPersonSchema, toJsonLd } from "../lib/resume/schema";
+
+const contact = meta.contactIcons
+    .map((icon) => socials.find((s) => s.icon === icon))
+    .filter((s): s is NonNullable<typeof s> => Boolean(s));
+
+const siteUrl = (Astro.site ?? Astro.url.origin).toString();
+const personJsonLd = toJsonLd(buildPersonSchema({ siteUrl, profile, socials, meta, experience, education, skills }));
 ---
 
 <PageLayout
     title="Resume"
     heading={profile.name}
-    description={`${profile.name}: ${resume.headline}. View the resume or download the PDF.`}
+    description={`${profile.name}: ${meta.headline}. View the resume online or download the PDF.`}
 >
+    <script slot="head" type="application/ld+json" set:html={personJsonLd} />
+
     <div slot="lead" class="lead">
-        <p>{resume.headline}</p>
-        <Button href={resume.pdfHref} icon="download" download={resume.pdfFilename}>Download PDF</Button>
+        <p class="headline">{meta.headline}</p>
+        <ContactLinks links={contact} />
+        <div class="download no-print">
+            <Button href={meta.pdfHref} icon="download" download={meta.pdfFilename}>Download PDF</Button>
+            <p class="file">{fileLabel(meta.pdfHref, "PDF")} · Updated {meta.updated}</p>
+        </div>
     </div>
 
-    <Section title="Key achievements" id="achievements"><Achievements items={resume.achievements} /></Section>
-    <Section title="Skills" id="skills"><SkillChips skills={resume.skills} /></Section>
-    <Section title="Work history" id="work">
-        {resume.experience.map((entry) => <ExperienceEntry {entry} />)}
-    </Section>
-    <Section title="Education" id="education">
-        {resume.education.map((e) => <EducationEntry {...e} />)}
-    </Section>
+    <SectionNav sections={resumeSections} />
 
-    <div class="bottom">
-        <Button href={resume.pdfHref} icon="download" download={resume.pdfFilename}>Download PDF</Button>
-    </div>
+    {
+        resumeSections.map(({ id, title, component: SectionContent, props }) => (
+            <Section {id} {title}>
+                <SectionContent {...props} />
+            </Section>
+        ))
+    }
 </PageLayout>
 
 <style>
@@ -39,23 +50,45 @@ import PageLayout from "../layouts/PageLayout.astro";
         display: grid;
         gap: 1rem;
         margin-top: 0.5rem;
-        color: var(--text-muted);
-        font-weight: 600;
     }
 
-    .lead :global(.btn),
-    .bottom :global(.btn) {
+    .headline {
+        font-weight: 600;
+        color: var(--text-muted);
+    }
+
+    .download {
+        display: grid;
+        gap: 0.4rem;
+        justify-items: start;
+    }
+
+    .download :global(.btn) {
         width: 100%;
     }
 
+    .file {
+        width: 100%;
+        text-align: center;
+        font-size: 0.8rem;
+        color: var(--text-muted);
+    }
+
     @media (min-width: 48rem) {
-        .lead :global(.btn),
-        .bottom :global(.btn) {
+        .download {
+            grid-auto-flow: column;
+            justify-content: start;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .download :global(.btn) {
             width: auto;
         }
-        .lead {
-            grid-template-columns: 1fr auto;
-            align-items: center;
+
+        .file {
+            width: auto;
+            text-align: left;
         }
     }
 </style>

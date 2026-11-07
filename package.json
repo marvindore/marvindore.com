@@ -8,10 +8,12 @@
 		"preview": "astro build && wrangler pages dev",
 		"astro": "astro",
 		"deploy": "astro build && wrangler pages deploy",
+		"deploy:preview": "astro build && wrangler pages deploy --branch preview",
 		"cf-typegen": "wrangler types"
 	},
 	"dependencies": {
 		"@astrojs/cloudflare": "^12.6.12",
+		"@astrojs/sitemap": "^3.7.4",
 		"astro": "^5.16.3"
 	},
 	"devDependencies": {

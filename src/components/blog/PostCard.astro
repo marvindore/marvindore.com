@@ -1,13 +1,16 @@
 ---
-import { formatDate } from "../../lib/format";
+import { formatDate, readingTime } from "../../lib/format";
 import { youtubeThumbnail } from "../../lib/youtube";
 import Icon from "../ui/Icon.astro";
 import type { Post } from "../../lib/posts";
 
 interface Props {
     post: Post;
+    /** Heading level for the title, so the page outline never skips a level. */
+    headingLevel?: 2 | 3;
 }
-const { post } = Astro.props;
+const { post, headingLevel = 3 } = Astro.props;
+const Heading = `h${headingLevel}` as "h2" | "h3";
 const { title, description, pubDate, youtubeId } = post.data;
 ---
 
@@ -23,8 +26,11 @@ const { title, description, pubDate, youtubeId } = post.data;
         )}
     </div>
     <div class="body">
-        <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
-        <h3>{title}</h3>
+        <p class="meta">
+            <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+            {post.body && <span> · {readingTime(post.body)}</span>}
+        </p>
+        <Heading class="title">{title}</Heading>
         <p>{description}</p>
     </div>
 </a>
@@ -82,17 +88,17 @@ const { title, description, pubDate, youtubeId } = post.data;
         padding: 1rem 1.1rem 1.2rem;
     }
 
-    time {
+    .meta {
         font-size: 0.8rem;
         color: var(--text-muted);
     }
 
-    h3 {
+    .title {
         font-size: 1.1rem;
         line-height: 1.3;
     }
 
-    p {
+    .body > p:last-child {
         font-size: 0.92rem;
         color: var(--text-muted);
     }

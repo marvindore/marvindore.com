@@ -1,0 +1,57 @@
+---
+import Aurora from "../ui/Aurora.astro";
+import Sheet from "../ui/Sheet.astro";
+---
+
+<!-- Page frame shared by every home variant: aurora, curved sheet, desktop two-column grid. -->
+<div class="stage">
+    <Aurora />
+    <Sheet class="home-sheet">
+        <slot name="profile" />
+        <div class="content">
+            <slot />
+        </div>
+    </Sheet>
+</div>
+
+<style>
+    .stage {
+        position: relative;
+        padding-top: 11rem;
+        overflow: clip;
+    }
+
+    .content {
+        display: grid;
+        gap: 2rem;
+        margin-top: 1.75rem;
+    }
+
+    @media (min-width: 48rem) {
+        .stage {
+            padding: 9rem var(--gutter) 3rem;
+        }
+    }
+
+    @media (min-width: 64rem) {
+        .stage :global(.sheet.home-sheet) {
+            display: grid;
+            grid-template-columns: var(--sidebar-width) 1fr;
+            gap: 2rem;
+            align-items: start;
+            max-width: 72rem;
+            padding: 0;
+            background: transparent;
+            box-shadow: none;
+            border-radius: 0;
+        }
+
+        .content {
+            margin-top: 0;
+            padding: 2.5rem;
+            background: var(--surface);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-card);
+        }
+    }
+</style>

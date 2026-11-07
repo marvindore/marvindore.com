@@ -5,8 +5,10 @@ import type { Profile, SocialLink } from "../../types";
 interface Props {
     profile: Profile;
     socials: SocialLink[];
+    /** Replaces the bio line when provided. */
+    tagline?: string;
 }
-const { profile, socials } = Astro.props;
+const { profile, socials, tagline } = Astro.props;
 ---
 
 <header class="profile">
@@ -15,7 +17,7 @@ const { profile, socials } = Astro.props;
     </div>
     <h1>{profile.name}</h1>
     <p class="title">{profile.title}</p>
-    <p class="bio">{profile.bio}</p>
+    <p class="bio">{tagline ?? profile.bio}</p>
     <SocialIcons {socials} />
 </header>
 
@@ -43,9 +45,8 @@ const { profile, socials } = Astro.props;
     img {
         width: 100%;
         height: 100%;
-        object-fit: contain;
+        object-fit: cover;
         border-radius: 50%;
-        background: #fff;
     }
 
     h1 {
@@ -56,7 +57,7 @@ const { profile, socials } = Astro.props;
 
     .title {
         font-weight: 600;
-        background: var(--brand-gradient);
+        background: var(--brand-text-gradient);
         -webkit-background-clip: text;
         background-clip: text;
         color: transparent;

@@ -16,10 +16,11 @@ const { heading, backHref, backLabel, ...meta } = Astro.props;
 ---
 
 <BaseLayout {...meta}>
+    <slot name="head" slot="head" />
     <div class="stage">
         <Aurora size="short" />
         <Sheet class="page-sheet">
-            <div class="top">
+            <div class="top no-print">
                 <BackLink href={backHref} label={backLabel} />
             </div>
             <h1>{heading ?? meta.title}</h1>

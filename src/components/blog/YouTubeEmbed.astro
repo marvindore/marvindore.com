@@ -11,7 +11,7 @@ const { videoId, title } = Astro.props;
 
 <!-- Click-to-load: no YouTube JS or cookies until the visitor presses play. -->
 <div class="embed" data-embed-src={youtubeEmbedUrl(videoId)} data-title={title}>
-    <img src={youtubeThumbnail(videoId)} alt="" loading="lazy" />
+    <img src={youtubeThumbnail(videoId, "sd")} alt="" />
     <button type="button" aria-label={`Play video: ${title}`}>
         <Icon name="play" size={28} />
     </button>

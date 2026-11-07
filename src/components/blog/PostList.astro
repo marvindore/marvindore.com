@@ -4,14 +4,15 @@ import type { Post } from "../../lib/posts";
 
 interface Props {
     posts: Post[];
+    headingLevel?: 2 | 3;
 }
-const { posts } = Astro.props;
+const { posts, headingLevel } = Astro.props;
 ---
 
 {
     posts.length > 0 ? (
         <ul class="posts">
-            {posts.map((post) => <li><PostCard {post} /></li>)}
+            {posts.map((post) => <li><PostCard {post} {headingLevel} /></li>)}
         </ul>
     ) : (
         <p class="empty">No posts yet. Check back soon.</p>

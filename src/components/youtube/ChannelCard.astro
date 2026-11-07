@@ -1,6 +1,7 @@
 ---
 import Button from "../ui/Button.astro";
 import Icon from "../ui/Icon.astro";
+import { subscribeUrl } from "../../lib/youtube";
 import type { YouTubeChannel } from "../../types";
 
 interface Props {
@@ -16,7 +17,10 @@ const { channel } = Astro.props;
         <p class="handle">{channel.handle}</p>
         <p class="desc">{channel.description}</p>
     </div>
-    <Button href={channel.href} icon="arrow-up-right">Visit channel</Button>
+    <div class="actions">
+        <Button href={subscribeUrl(channel.href)} icon="youtube">Subscribe</Button>
+        <Button href={channel.href} variant="secondary">Visit channel</Button>
+    </div>
 </article>
 
 <style>
@@ -47,7 +51,7 @@ const { channel } = Astro.props;
 
     .handle {
         font-weight: 600;
-        color: var(--brand-from);
+        color: var(--link);
     }
 
     .desc {
@@ -55,7 +59,9 @@ const { channel } = Astro.props;
         color: var(--text-muted);
     }
 
-    .channel :global(.btn) {
+    .actions {
+        display: grid;
+        gap: 0.6rem;
         width: 100%;
     }
 </style>

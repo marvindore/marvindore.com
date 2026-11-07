@@ -1,0 +1,73 @@
+---
+import type { ResumeHighlight } from "../../types";
+
+interface Props {
+    items: ResumeHighlight[];
+}
+const { items } = Astro.props;
+---
+
+<ul class="highlights">
+    {
+        items.map((item) => (
+            <li>
+                <span class="metric">{item.metric}</span>
+                <div class="text">
+                    <strong>{item.label}</strong>
+                    <span>{item.detail}</span>
+                </div>
+            </li>
+        ))
+    }
+</ul>
+
+<style>
+    .highlights {
+        display: grid;
+        gap: 0.75rem;
+    }
+
+    @media (min-width: 48rem) {
+        .highlights {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+
+    li {
+        display: grid;
+        grid-template-columns: minmax(5.5rem, auto) 1fr;
+        align-items: center;
+        gap: 0.9rem;
+        padding: 0.9rem 1rem;
+        border-radius: var(--radius-md);
+        background: var(--surface-muted);
+        border: 1px solid var(--border);
+    }
+
+    .metric {
+        font-size: 1.4rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+        line-height: 1;
+        text-align: center;
+        background: var(--brand-text-gradient);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+    }
+
+    .text {
+        display: grid;
+        gap: 0.15rem;
+    }
+
+    strong {
+        font-size: 0.95rem;
+    }
+
+    .text span {
+        font-size: 0.88rem;
+        line-height: 1.45;
+        color: var(--text-muted);
+    }
+</style>

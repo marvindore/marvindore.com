@@ -15,26 +15,34 @@ const external = isExternal(link.href);
     href={link.href}
     target={external ? "_blank" : undefined}
     rel={external ? "noopener noreferrer" : undefined}
+    data-track={`link:${link.title}`}
 >
-    <span class="icon"><Icon name={link.icon} size={22} /></span>
-    <span class="text">
-        <span class="title">{link.title}</span>
-        {link.description && <span class="desc">{link.description}</span>}
-    </span>
-    <Icon class="arrow" name={external ? "arrow-up-right" : "chevron-right"} size={20} />
+    <Icon class="icon" name={link.icon} size={22} />
+    <span class="title">{link.title}</span>
+    {link.badge && <span class="badge">{link.badge}</span>}
 </a>
 
 <style>
     .card {
+        position: relative;
+        overflow: hidden;
         display: flex;
         align-items: center;
-        gap: 1rem;
-        min-height: 4.25rem;
-        padding: 0.8rem 1.1rem 0.8rem 0.85rem;
+        justify-content: center;
+        gap: 0.6rem;
+        min-height: 3.5rem;
+        padding: 0.75rem 3.25rem;
         border-radius: var(--radius-md);
+        font-weight: 600;
         background: var(--surface-muted);
         border: 1px solid var(--border);
         transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+
+    /* Icon sits at the left edge while the label stays centered, as in a classic link-in-bio button */
+    .card :global(.icon) {
+        position: absolute;
+        left: 1.1rem;
     }
 
     .card:hover {
@@ -47,37 +55,29 @@ const external = isExternal(link.href);
         transform: scale(0.985);
     }
 
-    .icon {
-        display: grid;
-        place-items: center;
-        flex: none;
-        width: 2.75rem;
-        height: 2.75rem;
-        border-radius: 0.85rem;
-        background: var(--surface);
-        border: 1px solid var(--border);
+    .badge {
+        padding: 0.1rem 0.5rem;
+        border-radius: 999px;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--on-brand);
+        background: var(--brand-gradient);
     }
 
-    .text {
-        display: grid;
-        flex: 1;
-        min-width: 0;
+    .card::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(105deg, transparent 35%, rgb(255 255 255 / 0.22) 50%, transparent 65%);
+        translate: -100% 0;
+        transition: translate 0.6s ease;
+        pointer-events: none;
     }
 
-    .title {
-        font-weight: 600;
-        line-height: 1.3;
-    }
-
-    .desc {
-        font-size: 0.85rem;
-        color: var(--text-muted);
-        line-height: 1.35;
-    }
-
-    .card :global(.arrow) {
-        flex: none;
-        color: var(--text-muted);
+    .card:hover::after {
+        translate: 100% 0;
     }
 
     .featured {
@@ -91,13 +91,7 @@ const external = isExternal(link.href);
         border-color: transparent;
     }
 
-    .featured .icon {
-        background: rgb(255 255 255 / 0.18);
-        border-color: rgb(255 255 255 / 0.25);
-    }
-
-    .featured .desc,
-    .featured :global(.arrow) {
-        color: rgb(255 255 255 / 0.85);
+    .featured .badge {
+        background: rgb(255 255 255 / 0.25);
     }
 </style>

@@ -1,8 +1,11 @@
 ---
 import { render } from "astro:content";
+import RelatedPosts from "../../components/blog/RelatedPosts.astro";
+import SubscribeCta from "../../components/blog/SubscribeCta.astro";
 import YouTubeEmbed from "../../components/blog/YouTubeEmbed.astro";
+import { channels } from "../../data/youtube";
 import PageLayout from "../../layouts/PageLayout.astro";
-import { formatDate } from "../../lib/format";
+import { formatDate, readingTime } from "../../lib/format";
 import { getPosts, type Post } from "../../lib/posts";
 import { youtubeThumbnail } from "../../lib/youtube";
 
@@ -19,16 +22,19 @@ const { Content } = await render(post);
 <PageLayout
     {title}
     {description}
-    image={youtubeId ? youtubeThumbnail(youtubeId) : undefined}
+    image={youtubeId ? youtubeThumbnail(youtubeId, "sd") : undefined}
     backHref="/blog"
     backLabel="Blog"
 >
     <p slot="lead" class="meta">
         <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+        {post.body && <span> · {readingTime(post.body)}</span>}
         {tags.length > 0 && <span> · {tags.join(", ")}</span>}
     </p>
     {youtubeId && <YouTubeEmbed videoId={youtubeId} {title} />}
     <article class="prose"><Content /></article>
+    <SubscribeCta channel={channels[0]} />
+    <RelatedPosts currentId={post.id} />
 </PageLayout>
 
 <style>
@@ -57,7 +63,7 @@ const { Content } = await render(post);
     }
 
     .prose :global(a) {
-        color: var(--brand-from);
+        color: var(--link);
         text-decoration: underline;
         text-underline-offset: 3px;
     }
@@ -83,5 +89,33 @@ const { Content } = await render(post);
 
     .prose :global(img) {
         border-radius: var(--radius-sm);
+    }
+
+    /* Tables scroll sideways on phones instead of breaking the layout */
+    .prose :global(table) {
+        display: block;
+        overflow-x: auto;
+        border-collapse: collapse;
+        margin-bottom: 1.1em;
+        font-size: 0.95rem;
+    }
+
+    .prose :global(th),
+    .prose :global(td) {
+        padding: 0.5rem 0.9rem;
+        text-align: left;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .prose :global(th) {
+        background: var(--surface-muted);
+        white-space: nowrap;
+    }
+
+    .prose :global(blockquote) {
+        margin: 0 0 1.1em;
+        padding: 0.2rem 1rem;
+        border-left: 4px solid var(--brand-from);
+        color: var(--text-muted);
     }
 </style>

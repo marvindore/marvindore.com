@@ -1,0 +1,7113 @@
+1
+00:00:00,240 --> 00:00:04,288
+Tim Jurka: Travis, I want to start because
+we're going to be talking a lot about
+
+2
+00:00:04,288 --> 00:00:08,046
+Tim Jurka: how the feed empowers people,
+how people are able to represent
+
+3
+00:00:08,046 --> 00:00:12,166
+Tim Jurka: themselves as experts in their
+fields, how they can reflect on their
+
+4
+00:00:12,166 --> 00:00:16,286
+Tim Jurka: nonlinear career paths and find
+a way into an industry or in in in into
+
+5
+00:00:16,286 --> 00:00:16,720
+Tim Jurka: a role.
+
+6
+00:00:16,720 --> 00:00:18,911
+Tim Jurka: And so since that's
+gonna be underpinning some of our
+
+7
+00:00:18,911 --> 00:00:21,351
+Tim Jurka: discussion here, I'd love
+to hear like how did you plan this
+
+8
+00:00:21,351 --> 00:00:21,600
+Tim Jurka: role?
+
+9
+00:00:21,600 --> 00:00:24,277
+Tim Jurka: You've been working in
+social media for a while, you've worked
+
+10
+00:00:24,277 --> 00:00:26,800
+Tim Jurka: at IG, you've worked at
+LinkedIn, like how did you get here?
+
+11
+00:00:26,800 --> 00:00:28,240
+Travis Hutchinson: Yeah, for sure.
+
+12
+00:00:28,240 --> 00:00:29,360
+Travis Hutchinson: What's up everybody?
+
+13
+00:00:29,360 --> 00:00:30,480
+Travis Hutchinson: How's it going?
+
+14
+00:00:30,480 --> 00:00:31,280
+Travis Hutchinson: Good?
+
+15
+00:00:31,600 --> 00:00:32,400
+Travis Hutchinson: Cool.
+
+16
+00:00:33,520 --> 00:00:36,080
+Travis Hutchinson: So I
+actually started my career.
+
+17
+00:00:36,080 --> 00:00:39,133
+Travis Hutchinson: I I had my first
+dabble in technology I worked on, the
+
+18
+00:00:39,133 --> 00:00:40,908
+Travis Hutchinson: Hillary
+Clinton campaign and
+
+19
+00:00:40,908 --> 00:00:42,043
+Travis Hutchinson: then uh I worked at a
+
+20
+00:00:42,043 --> 00:00:42,753
+Travis Hutchinson: management
+
+21
+00:00:42,753 --> 00:00:46,161
+Travis Hutchinson: consulting firm and
+I was actually gonna leave corporate
+
+22
+00:00:46,161 --> 00:00:46,800
+Travis Hutchinson: entirely.
+
+23
+00:00:46,800 --> 00:00:48,226
+Travis Hutchinson: I was
+like I don't think this
+
+24
+00:00:48,226 --> 00:00:49,900
+Travis Hutchinson: corporate
+thing is for me I'm not
+
+25
+00:00:49,900 --> 00:00:50,520
+Travis Hutchinson: filling the
+
+26
+00:00:50,520 --> 00:00:52,318
+Travis Hutchinson: vibes here
+I didn't want wear a seat
+
+27
+00:00:52,318 --> 00:00:54,116
+Travis Hutchinson: in time to
+work every day and so I was
+
+28
+00:00:54,116 --> 00:00:55,852
+Travis Hutchinson: actually
+going to apply and get my
+
+29
+00:00:55,852 --> 00:00:57,650
+Travis Hutchinson: MSA in
+playwright and I had a friend
+
+30
+00:00:57,650 --> 00:00:57,774
+Travis Hutchinson: of
+
+31
+00:00:57,774 --> 00:00:59,634
+Travis Hutchinson: mine who
+was like listen you've done
+
+32
+00:00:59,634 --> 00:01:01,432
+Travis Hutchinson: some tech
+stuff because I worked in
+
+33
+00:01:01,432 --> 00:01:03,168
+Travis Hutchinson: data and
+analytics so I'm going to
+
+34
+00:01:03,168 --> 00:01:04,842
+Travis Hutchinson: replay
+the campaign what does it
+
+35
+00:01:04,842 --> 00:01:05,090
+Travis Hutchinson: look
+
+36
+00:01:05,090 --> 00:01:06,764
+Travis Hutchinson: like for
+you to apply that to like
+
+37
+00:01:06,764 --> 00:01:08,500
+Travis Hutchinson: social
+media and work at Facebook
+
+38
+00:01:08,500 --> 00:01:08,810
+Travis Hutchinson: every
+
+39
+00:01:08,810 --> 00:01:09,120
+Travis Hutchinson: time?
+
+40
+00:01:09,120 --> 00:01:11,280
+Travis Hutchinson: And I
+said, I don't know.
+
+41
+00:01:11,280 --> 00:01:13,695
+Travis Hutchinson: And so I applied,
+he kind of helped me through
+
+42
+00:01:13,695 --> 00:01:15,914
+Travis Hutchinson: the process
+and I ended up getting a job at
+
+43
+00:01:15,914 --> 00:01:16,240
+Travis Hutchinson: Meta.
+
+44
+00:01:16,240 --> 00:01:18,975
+Travis Hutchinson: And so I got
+into Meta and I've been in machine
+
+45
+00:01:18,975 --> 00:01:21,710
+Travis Hutchinson: learning, which
+is what we call AI the entire
+
+46
+00:01:21,710 --> 00:01:22,080
+Travis Hutchinson: time.
+
+47
+00:01:22,080 --> 00:01:24,135
+Travis Hutchinson: And I focused
+on first kind of how do we
+
+48
+00:01:24,135 --> 00:01:26,256
+Travis Hutchinson: create
+like representations of human
+
+49
+00:01:26,256 --> 00:01:26,720
+Travis Hutchinson: beings?
+
+50
+00:01:26,720 --> 00:01:28,240
+Travis Hutchinson: We call
+like embeddings, right?
+
+51
+00:01:28,240 --> 00:01:30,291
+Travis Hutchinson: So each, and
+we'll get into this later, but
+
+52
+00:01:30,291 --> 00:01:32,400
+Travis Hutchinson: LinkedIn is
+powered by embeddings, right?
+
+53
+00:01:32,400 --> 00:01:34,720
+Travis Hutchinson: So what's
+our representation of users?
+
+54
+00:01:34,720 --> 00:01:36,254
+Travis Hutchinson: Using
+that and then working on
+
+55
+00:01:36,254 --> 00:01:38,034
+Travis Hutchinson: Instagram
+Explorer and then going
+
+56
+00:01:38,034 --> 00:01:38,280
+Travis Hutchinson: from
+
+57
+00:01:38,280 --> 00:01:40,060
+Travis Hutchinson: Instagram
+Explorer to being on the
+
+58
+00:01:40,060 --> 00:01:41,840
+Travis Hutchinson: founding
+team of Instagram Reels.
+
+59
+00:01:41,840 --> 00:01:44,089
+Travis Hutchinson: So I was
+there when we first launched
+
+60
+00:01:44,089 --> 00:01:46,488
+Travis Hutchinson: Reels uh
+people like literally didn't
+
+61
+00:01:46,488 --> 00:01:46,787
+Travis Hutchinson: know
+
+62
+00:01:46,787 --> 00:01:48,886
+Travis Hutchinson: how to use
+the app at all and then to
+
+63
+00:01:48,886 --> 00:01:50,910
+Travis Hutchinson: Reels
+becoming kind of what it is
+
+64
+00:01:50,910 --> 00:01:51,360
+Travis Hutchinson: today.
+
+65
+00:01:51,360 --> 00:01:54,427
+Travis Hutchinson: And so a few years ago
+I got really interested in there's you
+
+66
+00:01:54,427 --> 00:01:57,368
+Travis Hutchinson: know what does the
+concept that serve you, but then how do
+
+67
+00:01:57,368 --> 00:02:00,184
+Travis Hutchinson: you make the
+determination of what do we not serve you,
+
+68
+00:02:00,184 --> 00:02:00,560
+Travis Hutchinson: right?
+
+69
+00:02:00,560 --> 00:02:01,764
+Travis Hutchinson: What
+what kind of content is
+
+70
+00:02:01,764 --> 00:02:02,969
+Travis Hutchinson: inappropriate
+to a certain
+
+71
+00:02:02,969 --> 00:02:03,440
+Travis Hutchinson: platform?
+
+72
+00:02:03,520 --> 00:02:05,520
+Travis Hutchinson: So we call
+that content trust brought.
+
+73
+00:02:05,520 --> 00:02:08,960
+Travis Hutchinson: So then I moved over to
+LinkedIn and I worked on content trusts.
+
+74
+00:02:08,960 --> 00:02:11,051
+Travis Hutchinson: And then
+over the last kind of year
+
+75
+00:02:11,051 --> 00:02:13,216
+Travis Hutchinson: or so I've
+been focusing on the feed
+
+76
+00:02:13,216 --> 00:02:15,531
+Travis Hutchinson: working
+with Simon team on comments,
+
+77
+00:02:15,531 --> 00:02:17,771
+Travis Hutchinson: comments
+ranking, how do we make you
+
+78
+00:02:17,771 --> 00:02:20,011
+Travis Hutchinson: have an
+authentic experience on the
+
+79
+00:02:20,011 --> 00:02:22,400
+Travis Hutchinson: LinkedIn
+platform through comments?
+
+80
+00:02:22,400 --> 00:02:26,615
+Travis Hutchinson: And so that's in my
+experience so far it's been absolutely
+
+81
+00:02:26,615 --> 00:02:30,830
+Travis Hutchinson: fantastic and uh yeah
+Taylor would love to hear about your
+
+82
+00:02:30,830 --> 00:02:33,140
+Tim Jurka: experience I
+hate talking about myself
+
+83
+00:02:33,140 --> 00:02:36,336
+Tim Jurka: um I'll I I will
+talk to my talk about myself
+
+84
+00:02:36,336 --> 00:02:39,532
+Tim Jurka: just so I can like
+frame up what LinkedIn is
+
+85
+00:02:39,532 --> 00:02:40,080
+Tim Jurka: about.
+
+86
+00:02:40,080 --> 00:02:42,232
+Tim Jurka: Um so so I've
+been I've been working on
+
+87
+00:02:42,232 --> 00:02:44,522
+Tim Jurka: LinkedIn the
+year for like over a decade
+
+88
+00:02:44,522 --> 00:02:44,800
+Tim Jurka: now.
+
+89
+00:02:44,800 --> 00:02:47,600
+Tim Jurka: Um I I was in grad
+school for political science.
+
+90
+00:02:47,600 --> 00:02:49,803
+Tim Jurka: Uh when I was
+in the graduate political
+
+91
+00:02:49,803 --> 00:02:52,143
+Tim Jurka: science, I was
+working with this amazing
+
+92
+00:02:52,143 --> 00:02:54,071
+Tim Jurka: advisor at
+Amber Winston, who was
+
+93
+00:02:54,071 --> 00:02:55,929
+Tim Jurka: basically studying like how how
+
+94
+00:02:55,929 --> 00:02:56,618
+Tim Jurka: messages in
+
+95
+00:02:56,618 --> 00:02:59,302
+Tim Jurka: multiple implementation
+shapes the American
+
+96
+00:02:59,302 --> 00:03:01,780
+Tim Jurka: electorate and
+how it influences building
+
+97
+00:03:01,780 --> 00:03:02,400
+Tim Jurka: patterns.
+
+98
+00:03:02,400 --> 00:03:03,440
+Tim Jurka: Super fascinating stuff.
+
+99
+00:03:03,440 --> 00:03:07,355
+Tim Jurka: And over here, day of infection
+day, and we saw a lot of interesting
+
+100
+00:03:07,355 --> 00:03:09,420
+Tim Jurka: self-play out
+there as a byproduct
+
+101
+00:03:09,420 --> 00:03:11,413
+Tim Jurka: of our
+democratic process here in
+
+102
+00:03:11,413 --> 00:03:11,626
+Tim Jurka: the
+
+103
+00:03:11,626 --> 00:03:11,840
+Tim Jurka: US.
+
+104
+00:03:16,400 --> 00:03:18,738
+Tim Jurka: And so that's
+not a natural path yet into
+
+105
+00:03:18,738 --> 00:03:21,360
+Tim Jurka: like, you know,
+industry machine learning.
+
+106
+00:03:21,360 --> 00:03:24,645
+Tim Jurka: I was doing a lot of
+applied L. I was classifying a lot of
+
+107
+00:03:24,645 --> 00:03:28,515
+Tim Jurka: political communication
+and then processing against electro
+
+108
+00:03:28,515 --> 00:03:28,880
+Tim Jurka: data.
+
+109
+00:03:28,880 --> 00:03:31,760
+Tim Jurka: Um but life
+is never predictable.
+
+110
+00:03:31,760 --> 00:03:33,680
+Tim Jurka: Um so so my dad got racing.
+
+111
+00:03:33,680 --> 00:03:35,520
+Tim Jurka: I had to drop
+out of grad school.
+
+112
+00:03:35,520 --> 00:03:38,240
+Tim Jurka: Um and I had to figure
+out a way to like just provide.
+
+113
+00:03:38,240 --> 00:03:42,214
+Tim Jurka: Um I I ended up looking at some
+startups, trying to figure out like is
+
+114
+00:03:42,214 --> 00:03:46,045
+Tim Jurka: there is there a way in for
+grad students that are doing some quite
+
+115
+00:03:46,045 --> 00:03:46,400
+Tim Jurka: well?
+
+116
+00:03:46,400 --> 00:03:48,640
+Tim Jurka: There was one startup
+that decided to take a cancel on me.
+
+117
+00:03:48,640 --> 00:03:50,432
+Tim Jurka: It was like, I know
+you don't have any like industry
+
+118
+00:03:50,432 --> 00:03:52,309
+Tim Jurka: general experience,
+but we're gonna take a cancel on
+
+119
+00:03:52,309 --> 00:03:52,480
+Tim Jurka: you.
+
+120
+00:03:52,480 --> 00:03:54,320
+Tim Jurka: That can be
+what's called Pulse.
+
+121
+00:03:54,320 --> 00:03:56,400
+Tim Jurka: It was required by LinkedIn.
+
+122
+00:03:56,640 --> 00:03:59,483
+Tim Jurka: And when I joined
+LinkedIn, like our we were we
+
+123
+00:03:59,483 --> 00:04:02,400
+Tim Jurka: were required within
+like a year of rejoining.
+
+124
+00:04:02,400 --> 00:04:05,280
+Tim Jurka: And our job was, hey,
+there's no feed on LinkedIn.
+
+125
+00:04:05,360 --> 00:04:07,200
+Tim Jurka: We want to create
+a content experience.
+
+126
+00:04:07,200 --> 00:04:09,280
+Tim Jurka: Uh like how do we do it?
+
+127
+00:04:09,280 --> 00:04:12,004
+Tim Jurka: So step one, if you
+want to create a feed, you
+
+128
+00:04:12,004 --> 00:04:14,880
+Tim Jurka: actually need
+content and you need creators.
+
+129
+00:04:14,880 --> 00:04:18,960
+Tim Jurka: So we built a publishing
+platform and our influencer platform.
+
+130
+00:04:18,960 --> 00:04:20,750
+Tim Jurka: We had Richard
+Branson and a bunch of
+
+131
+00:04:20,750 --> 00:04:22,720
+Tim Jurka: folks that like
+about 100 influencers.
+
+132
+00:04:22,720 --> 00:04:25,483
+Tim Jurka: It was around the time,
+I think, when when Barack Obama was
+
+133
+00:04:25,483 --> 00:04:28,362
+Tim Jurka: elected president, like
+he was one of the influencers on our
+
+134
+00:04:28,362 --> 00:04:28,880
+Tim Jurka: platform.
+
+135
+00:04:28,880 --> 00:04:31,841
+Tim Jurka: It was just like freaking
+incredible to see that like people wanted
+
+136
+00:04:31,841 --> 00:04:34,220
+Tim Jurka: to go to this trusted
+place where they could have these
+
+137
+00:04:34,220 --> 00:04:34,960
+Tim Jurka: conversations.
+
+138
+00:04:35,520 --> 00:04:37,031
+Tim Jurka: And then the next
+thing once you have that
+
+139
+00:04:37,031 --> 00:04:38,498
+Tim Jurka: content is
+actually figuring out how to
+
+140
+00:04:38,498 --> 00:04:39,120
+Tim Jurka: personalize it.
+
+141
+00:04:39,280 --> 00:04:41,400
+Tim Jurka: At the time we had hundreds
+and millions of numbers already
+
+142
+00:04:41,400 --> 00:04:43,520
+Tim Jurka: and we had to figure out
+how to distribute this whole thing.
+
+143
+00:04:43,760 --> 00:04:45,677
+Tim Jurka: And so like
+I've seen the entire
+
+144
+00:04:45,677 --> 00:04:48,110
+Tim Jurka: journey from
+recency-based to like you
+
+145
+00:04:48,110 --> 00:04:48,405
+Tim Jurka: know
+
+146
+00:04:48,405 --> 00:04:50,764
+Tim Jurka: optimizing with
+ML to the pandemic and
+
+147
+00:04:50,764 --> 00:04:52,976
+Tim Jurka: all the crazy
+stuff that happened in
+
+148
+00:04:52,976 --> 00:04:55,187
+Tim Jurka: the like
+misinformation during the
+
+149
+00:04:55,187 --> 00:04:57,325
+Tim Jurka: pandemic to
+other test issues that
+
+150
+00:04:57,325 --> 00:04:57,620
+Tim Jurka: have
+
+151
+00:04:57,620 --> 00:04:59,611
+Tim Jurka: evolved, the
+Rise of AI and the AI
+
+152
+00:04:59,611 --> 00:05:01,970
+Tim Jurka: slot, we're
+probably gonna talk about
+
+153
+00:05:01,970 --> 00:05:02,191
+Tim Jurka: all
+
+154
+00:05:02,191 --> 00:05:02,560
+Tim Jurka: of it.
+
+155
+00:05:02,800 --> 00:05:04,320
+Tim Jurka: And so it's been a
+really interesting journey.
+
+156
+00:05:04,320 --> 00:05:06,597
+Tim Jurka: But I think I
+think the most interesting
+
+157
+00:05:06,597 --> 00:05:08,873
+Tim Jurka: thing about it
+is when I was dropping out
+
+158
+00:05:08,873 --> 00:05:09,011
+Tim Jurka: of
+
+159
+00:05:09,011 --> 00:05:11,494
+Tim Jurka: grad school in
+this moment where it was just
+
+160
+00:05:11,494 --> 00:05:13,840
+Tim Jurka: like like my life
+really took took a turn.
+
+161
+00:05:14,800 --> 00:05:17,760
+Tim Jurka: I freaking wish I had
+a LinkedIn feed at that moment.
+
+162
+00:05:17,760 --> 00:05:21,399
+Tim Jurka: Like there was there was
+nothing out there where people were
+
+163
+00:05:21,399 --> 00:05:25,110
+Tim Jurka: leaving their breadcrumbs
+of hey like I may not know your full
+
+164
+00:05:25,110 --> 00:05:28,676
+Tim Jurka: path but I've been on a
+portion of it and like you're gonna be
+
+165
+00:05:28,676 --> 00:05:29,040
+Tim Jurka: okay.
+
+166
+00:05:29,040 --> 00:05:30,791
+Tim Jurka: You're gonna be
+okay pivoting out of grad
+
+167
+00:05:30,791 --> 00:05:32,645
+Tim Jurka: school and like
+and picking something else
+
+168
+00:05:32,645 --> 00:05:32,800
+Tim Jurka: up.
+
+169
+00:05:32,800 --> 00:05:34,160
+Tim Jurka: You're gonna be justified.
+
+170
+00:05:34,560 --> 00:05:37,837
+Tim Jurka: And so something that we've
+probably talk abouting a lot is uh, you
+
+171
+00:05:37,837 --> 00:05:40,994
+Tim Jurka: know, I I really hope all of
+you, I mean you know, whether you're a
+
+172
+00:05:40,994 --> 00:05:44,449
+Tim Jurka: student, whether you're early
+career professional, whether you're
+
+173
+00:05:44,449 --> 00:05:48,024
+Tim Jurka: starting SMB, yesterday we had
+this amazing event with SMBs that you've
+
+174
+00:05:48,024 --> 00:05:48,560
+Tim Jurka: linked in.
+
+175
+00:05:48,560 --> 00:05:50,702
+Tim Jurka: Um, Tiffany yeah,
+was, we were going to read
+
+176
+00:05:50,702 --> 00:05:52,785
+Tim Jurka: Tiffany was the
+president of the Ted Birch
+
+177
+00:05:52,785 --> 00:05:53,440
+Tim Jurka: Foundation.
+
+178
+00:05:53,440 --> 00:05:56,688
+Tim Jurka: She was just like, use LinkedIn
+to establish yourself as an expert,
+
+179
+00:05:56,688 --> 00:06:00,169
+Tim Jurka: contribute to LinkedIn, share
+your insights when you have something to
+
+180
+00:06:00,169 --> 00:06:01,793
+Tim Jurka: share, because
+somebody might be
+
+181
+00:06:01,793 --> 00:06:03,533
+Tim Jurka: looking for
+that exact thing in that
+
+182
+00:06:03,533 --> 00:06:03,881
+Tim Jurka: moment
+
+183
+00:06:03,881 --> 00:06:07,187
+Tim Jurka: that's like the best way to use
+the platform um because people are on a
+
+184
+00:06:07,187 --> 00:06:09,043
+Tim Jurka: bunch of
+non-linear career paths like
+
+185
+00:06:09,043 --> 00:06:10,784
+Tim Jurka: the people the
+the there's not like a
+
+186
+00:06:10,784 --> 00:06:12,640
+Tim Jurka: traditional
+passion where to get into
+
+187
+00:06:12,640 --> 00:06:14,322
+Tim Jurka: these things
+um it's a it's a switch
+
+188
+00:06:14,322 --> 00:06:14,960
+Tim Jurka: hitter game.
+
+189
+00:06:14,960 --> 00:06:16,542
+Travis Hutchinson: I think
+we should uh I think we
+
+190
+00:06:16,542 --> 00:06:18,357
+Travis Hutchinson: should
+talk a little bit about
+
+191
+00:06:18,357 --> 00:06:18,720
+Travis Hutchinson: that.
+
+192
+00:06:18,720 --> 00:06:20,400
+Travis Hutchinson: Tip,
+what are you seeing?
+
+193
+00:06:20,400 --> 00:06:21,493
+Travis Hutchinson: I guess
+maybe you go from the
+
+194
+00:06:21,493 --> 00:06:22,870
+Travis Hutchinson: engineering
+side and I'll go to the
+
+195
+00:06:22,870 --> 00:06:23,440
+Travis Hutchinson: product side.
+
+196
+00:06:23,920 --> 00:06:26,972
+Travis Hutchinson: How are you seeing
+kind of the landscape evolve for
+
+197
+00:06:26,972 --> 00:06:30,388
+Travis Hutchinson: engineers with this
+modern day market with the advent of
+
+198
+00:06:30,388 --> 00:06:33,441
+Travis Hutchinson: AI, with kind of
+the changes everything going on in
+
+199
+00:06:33,441 --> 00:06:34,240
+Travis Hutchinson: technology.
+
+200
+00:06:34,480 --> 00:06:36,000
+Travis Hutchinson: What are
+you seeing progress?
+
+201
+00:06:36,000 --> 00:06:37,679
+Tim Jurka: You I mean you
+I think we were talking
+
+202
+00:06:37,679 --> 00:06:39,358
+Tim Jurka: passage about
+such a like my one of my
+
+203
+00:06:39,358 --> 00:06:41,148
+Tim Jurka: first managers
+was like, with those of
+
+204
+00:06:41,148 --> 00:06:42,939
+Tim Jurka: you who are
+baseball fans, switchers,
+
+205
+00:06:42,939 --> 00:06:46,352
+Tim Jurka: you know, baseball players that
+can bat left, not right, they're amazing
+
+206
+00:06:46,352 --> 00:06:46,800
+Tim Jurka: players.
+
+207
+00:06:46,800 --> 00:06:50,080
+Tim Jurka: They make the game
+unpredictable for for the pitcher.
+
+208
+00:06:50,080 --> 00:06:52,471
+Tim Jurka: Um and uh
+increasingly, like with AI and
+
+209
+00:06:52,471 --> 00:06:54,790
+Tim Jurka: kind of making
+the tech parts of the job
+
+210
+00:06:54,790 --> 00:06:57,181
+Tim Jurka: simpler, the
+people who are like best in
+
+211
+00:06:57,181 --> 00:06:59,572
+Tim Jurka: their roles and
+are just like killing it
+
+212
+00:06:59,572 --> 00:07:01,818
+Tim Jurka: are people who
+are searchers who like
+
+213
+00:07:01,818 --> 00:07:04,137
+Tim Jurka: came from some
+other domain, came into
+
+214
+00:07:04,137 --> 00:07:04,426
+Tim Jurka: atta
+
+215
+00:07:04,426 --> 00:07:06,310
+Tim Jurka: withck like a perspective and a
+
+216
+00:07:06,310 --> 00:07:08,412
+Tim Jurka: worldview
+about something that's
+
+217
+00:07:08,412 --> 00:07:09,353
+Tim Jurka: completely not
+
+218
+00:07:09,353 --> 00:07:11,962
+Tim Jurka: like completely
+connected to necessarily
+
+219
+00:07:11,962 --> 00:07:14,353
+Tim Jurka: what they do day
+to day and that external
+
+220
+00:07:14,353 --> 00:07:16,744
+Tim Jurka: perspective is
+giving them the context
+
+221
+00:07:16,744 --> 00:07:18,990
+Tim Jurka: they need to
+actually do a phenomenal
+
+222
+00:07:18,990 --> 00:07:19,280
+Tim Jurka: job.
+
+223
+00:07:19,280 --> 00:07:21,488
+Tim Jurka: And then they're
+using all these AI tools
+
+224
+00:07:21,488 --> 00:07:23,630
+Tim Jurka: to to build out
+solutions that actually
+
+225
+00:07:23,630 --> 00:07:25,578
+Tim Jurka: solve the
+problem that like they're
+
+226
+00:07:25,578 --> 00:07:27,915
+Tim Jurka: identifying
+because they have that unique
+
+227
+00:07:27,915 --> 00:07:28,240
+Tim Jurka: view.
+
+228
+00:07:28,640 --> 00:07:30,320
+Tim Jurka: And so I mean
+that's what I'm seeing.
+
+229
+00:07:30,320 --> 00:07:32,000
+Tim Jurka: I'm seeing
+people who are you know
+
+230
+00:07:32,000 --> 00:07:33,680
+Tim Jurka: using AI tools
+but then because of
+
+231
+00:07:33,680 --> 00:07:33,920
+Tim Jurka: this
+
+232
+00:07:33,920 --> 00:07:35,840
+Tim Jurka: like switch
+packer mentality they're
+
+233
+00:07:35,840 --> 00:07:37,700
+Tim Jurka: able to play
+the product role they're
+
+234
+00:07:37,700 --> 00:07:39,200
+Tim Jurka: able to play
+a little bit of the
+
+235
+00:07:39,200 --> 00:07:40,880
+Tim Jurka: design role
+they're able to play a
+
+236
+00:07:40,880 --> 00:07:41,240
+Tim Jurka: little
+
+237
+00:07:41,240 --> 00:07:43,040
+Tim Jurka: bit of the
+engineering role and like
+
+238
+00:07:43,040 --> 00:07:45,020
+Tim Jurka: quickly piece
+together a solution that
+
+239
+00:07:45,020 --> 00:07:46,580
+Tim Jurka: works way
+better than if you had
+
+240
+00:07:46,580 --> 00:07:48,260
+Tim Jurka: designed by
+committee with every
+
+241
+00:07:48,260 --> 00:07:48,740
+Tim Jurka: function
+
+242
+00:07:48,740 --> 00:07:50,660
+Tim Jurka: kind of like
+coordinating, creating a
+
+243
+00:07:50,660 --> 00:07:52,340
+Tim Jurka: PRD here and
+a spec there and a mock
+
+244
+00:07:52,340 --> 00:07:52,640
+Tim Jurka: here.
+
+245
+00:07:52,640 --> 00:07:54,240
+Tim Jurka: So that's
+what I'm seeing and I'm
+
+246
+00:07:54,240 --> 00:07:56,018
+Tim Jurka: curious, I
+mean curious what you're
+
+247
+00:07:56,018 --> 00:07:56,433
+Tim Jurka: seeing,
+
+248
+00:07:56,433 --> 00:07:58,092
+Tim Jurka: because the
+product role has also
+
+249
+00:07:58,092 --> 00:07:59,870
+Tim Jurka: evolved quite
+a ton like in even like
+
+250
+00:07:59,870 --> 00:08:00,166
+Tim Jurka: since
+
+251
+00:08:00,166 --> 00:08:00,640
+Tim Jurka: January.
+
+252
+00:08:00,640 --> 00:08:02,800
+Travis Hutchinson: Oh, the
+game has changed completely.
+
+253
+00:08:02,800 --> 00:08:05,306
+Travis Hutchinson: Um how many this
+is the question the question, how
+
+254
+00:08:05,306 --> 00:08:07,934
+Travis Hutchinson: many like product
+design engineering people in the
+
+255
+00:08:07,934 --> 00:08:08,240
+Travis Hutchinson: room?
+
+256
+00:08:08,240 --> 00:08:09,600
+Travis Hutchinson: You just
+like raise your hand?
+
+257
+00:08:09,600 --> 00:08:11,120
+Travis Hutchinson: Alright, so good then.
+
+258
+00:08:11,120 --> 00:08:12,000
+Travis Hutchinson: Okay.
+
+259
+00:08:12,240 --> 00:08:16,126
+Travis Hutchinson: I would argue that
+the product manager is no longer
+
+260
+00:08:16,126 --> 00:08:19,920
+Travis Hutchinson: just your classic,
+oh, here's what to do broadly.
+
+261
+00:08:19,920 --> 00:08:21,729
+Travis Hutchinson: It's like
+here's what to do and then the
+
+262
+00:08:21,729 --> 00:08:23,877
+Travis Hutchinson: engineer looks
+at you and goes, okay, so you go
+
+263
+00:08:23,877 --> 00:08:24,160
+Travis Hutchinson: do it.
+
+264
+00:08:24,320 --> 00:08:26,686
+Travis Hutchinson: And so it's
+at the point where if I come
+
+265
+00:08:26,686 --> 00:08:29,280
+Travis Hutchinson: up with an
+idea and I'll obviously You're
+
+266
+00:08:29,280 --> 00:08:31,200
+Tim Jurka: complaining
+about the time sizes.
+
+267
+00:08:31,840 --> 00:08:33,520
+Tim Jurka: Find the GPUs.
+
+268
+00:08:33,520 --> 00:08:34,560
+Travis Hutchinson: Exactly.
+
+269
+00:08:35,440 --> 00:08:39,760
+Travis Hutchinson: So to give you guys
+a sense, I work on comments right now.
+
+270
+00:08:39,760 --> 00:08:42,998
+Travis Hutchinson: So I make a
+determination often about when to show you
+
+271
+00:08:42,998 --> 00:08:46,458
+Travis Hutchinson: comments on the feed,
+what comment to actually show you,
+
+272
+00:08:46,458 --> 00:08:47,120
+Travis Hutchinson: etc., etc.
+
+273
+00:08:47,360 --> 00:08:50,658
+Travis Hutchinson: Historically, in order
+to do my job, I would have created an idea
+
+274
+00:08:50,658 --> 00:08:53,956
+Travis Hutchinson: of, okay, this is wrong
+what I want the comments to look like, and
+
+275
+00:08:53,956 --> 00:08:55,511
+Travis Hutchinson: maybe
+start to like label some
+
+276
+00:08:55,511 --> 00:08:56,942
+Travis Hutchinson: of, you
+know, the comments,
+
+277
+00:08:56,942 --> 00:08:57,253
+Travis Hutchinson: okay,
+
+278
+00:08:57,253 --> 00:09:00,116
+Travis Hutchinson: this is strong, this
+is a great, you know, this is a great
+
+279
+00:09:00,116 --> 00:09:00,800
+Travis Hutchinson: experience.
+
+280
+00:09:00,800 --> 00:09:02,941
+Travis Hutchinson: Now it's
+at the point where I both
+
+281
+00:09:02,941 --> 00:09:05,083
+Travis Hutchinson: come up
+with the idea, figure out
+
+282
+00:09:05,083 --> 00:09:06,986
+Travis Hutchinson: and
+label comments, and then
+
+283
+00:09:06,986 --> 00:09:09,048
+Travis Hutchinson: actually
+get into working with
+
+284
+00:09:09,048 --> 00:09:09,682
+Travis Hutchinson: large and
+
+285
+00:09:09,682 --> 00:09:11,982
+Travis Hutchinson: small
+language models to actually
+
+286
+00:09:11,982 --> 00:09:14,124
+Travis Hutchinson: do the
+detection and thro theugh
+
+287
+00:09:14,124 --> 00:09:16,106
+Travis Hutchinson: evaluation
+and then actually
+
+288
+00:09:16,106 --> 00:09:18,089
+Travis Hutchinson: submitting
+what we call the PR
+
+289
+00:09:18,089 --> 00:09:18,406
+Travis Hutchinson: pull
+
+290
+00:09:18,406 --> 00:09:19,120
+Travis Hutchinson: requests.
+
+291
+00:09:19,120 --> 00:09:21,932
+Travis Hutchinson: And so end-to-end
+nowadays product managers
+
+292
+00:09:21,932 --> 00:09:24,596
+Travis Hutchinson: are increasingly
+just defining the entire
+
+293
+00:09:24,596 --> 00:09:25,040
+Travis Hutchinson: scope.
+
+294
+00:09:25,040 --> 00:09:26,657
+Travis Hutchinson: And so
+historically it used to be
+
+295
+00:09:26,657 --> 00:09:28,454
+Travis Hutchinson: about, you
+know, can you think about
+
+296
+00:09:28,454 --> 00:09:28,693
+Travis Hutchinson: this
+
+297
+00:09:28,693 --> 00:09:30,610
+Travis Hutchinson: problem and
+now it's much more, can you
+
+298
+00:09:30,610 --> 00:09:32,527
+Travis Hutchinson: think about
+this problem and actually
+
+299
+00:09:32,527 --> 00:09:34,084
+Travis Hutchinson: come up
+with a solution and do it
+
+300
+00:09:34,084 --> 00:09:35,761
+Travis Hutchinson: end-to-end,
+which is a total game
+
+301
+00:09:35,761 --> 00:09:36,240
+Travis Hutchinson: changer.
+
+302
+00:09:36,240 --> 00:09:37,881
+Travis Hutchinson: And it's
+also empowering for
+
+303
+00:09:37,881 --> 00:09:39,727
+Travis Hutchinson: everybody
+here in Miami because
+
+304
+00:09:39,727 --> 00:09:39,932
+Travis Hutchinson: you
+
+305
+00:09:39,932 --> 00:09:41,504
+Travis Hutchinson: now have
+the opportunity to
+
+306
+00:09:41,504 --> 00:09:42,940
+Travis Hutchinson: say, oh,
+I might be able to
+
+307
+00:09:42,940 --> 00:09:43,076
+Travis Hutchinson: do
+
+308
+00:09:43,076 --> 00:09:43,760
+Travis Hutchinson: something.
+
+309
+00:09:44,000 --> 00:09:46,560
+Travis Hutchinson: This is this
+idea that I have and post about it.
+
+310
+00:09:46,560 --> 00:09:48,584
+Travis Hutchinson: I've seen
+people on LinkedIn post
+
+311
+00:09:48,584 --> 00:09:50,680
+Travis Hutchinson: full kind
+of like websites and full
+
+312
+00:09:50,680 --> 00:09:50,970
+Travis Hutchinson: apps
+
+313
+00:09:50,970 --> 00:09:53,066
+Travis Hutchinson: end-to-end
+that you can go and like
+
+314
+00:09:53,066 --> 00:09:55,018
+Travis Hutchinson: get on
+the app store and so this is
+
+315
+00:09:55,018 --> 00:09:56,970
+Travis Hutchinson: kind of
+the change of the dynamic
+
+316
+00:09:56,970 --> 00:09:58,994
+Travis Hutchinson: overall
+and I just think it's I and
+
+317
+00:09:58,994 --> 00:09:59,074
+Travis Hutchinson: I
+
+318
+00:09:59,074 --> 00:10:00,664
+Travis Hutchinson: truly
+mean this like it's a
+
+319
+00:10:00,664 --> 00:10:02,544
+Travis Hutchinson: phenomenal
+time to be a builder
+
+320
+00:10:02,544 --> 00:10:03,267
+Travis Hutchinson: because the
+
+321
+00:10:03,267 --> 00:10:05,074
+Travis Hutchinson: cost of
+building is just going
+
+322
+00:10:05,074 --> 00:10:06,953
+Travis Hutchinson: straight
+down and so for all the
+
+323
+00:10:06,953 --> 00:10:07,676
+Travis Hutchinson: people that
+
+324
+00:10:07,676 --> 00:10:09,483
+Travis Hutchinson: are up
+and coming and trying to
+
+325
+00:10:09,483 --> 00:10:11,363
+Travis Hutchinson: figure
+out how to pivot or think
+
+326
+00:10:11,363 --> 00:10:11,724
+Travis Hutchinson: about
+
+327
+00:10:11,724 --> 00:10:13,748
+Travis Hutchinson: these, I
+kid you not, share, do the
+
+328
+00:10:13,748 --> 00:10:15,989
+Travis Hutchinson: work, learn
+the tools, and then share
+
+329
+00:10:15,989 --> 00:10:16,560
+Travis Hutchinson: your work
+
+330
+00:10:16,560 --> 00:10:17,440
+Travis Hutchinson: on LinkedIn.
+
+331
+00:10:17,440 --> 00:10:20,185
+Travis Hutchinson: And I guarantee you,
+it's literally our job to find the
+
+332
+00:10:20,185 --> 00:10:23,175
+Travis Hutchinson: individuals that are
+seeking out this kind of information
+
+333
+00:10:23,175 --> 00:10:25,920
+Travis Hutchinson: and to be able to
+pair them with the right information.
+
+334
+00:10:25,920 --> 00:10:29,280
+Travis Hutchinson: So I really think
+it's a a phenomenal time to be able to.
+
+335
+00:10:29,280 --> 00:10:29,760
+Tim Jurka: Awesome.
+
+336
+00:10:29,760 --> 00:10:31,120
+Tim Jurka: Alright let's
+give a people they want.
+
+337
+00:10:31,120 --> 00:10:33,920
+Tim Jurka: Let's talk about uh let's
+talk about what the lead about.
+
+338
+00:10:34,720 --> 00:10:38,480
+Tim Jurka: So Charles, maybe I can ask
+you, like, what is the lead about?
+
+339
+00:10:38,480 --> 00:10:39,920
+Tim Jurka: You know, why
+should people use it?
+
+340
+00:10:39,920 --> 00:10:44,000
+Tim Jurka: How should people be using
+it from the product perspective?
+
+341
+00:10:44,240 --> 00:10:48,320
+Tim Jurka: What do you think about those
+of crop principles the feed and white?
+
+342
+00:10:48,320 --> 00:10:49,280
+Travis Hutchinson: Absolutely.
+
+343
+00:10:49,680 --> 00:10:52,294
+Travis Hutchinson: So when we
+think about the feed internally of
+
+344
+00:10:52,294 --> 00:10:54,696
+Travis Hutchinson: LinkedIn, we
+think about it as a economy,
+
+345
+00:10:54,696 --> 00:10:55,120
+Travis Hutchinson: right?
+
+346
+00:10:55,920 --> 00:10:58,400
+Travis Hutchinson: We often refer to it
+as the knowledge marketplace, right?
+
+347
+00:10:58,560 --> 00:11:02,366
+Travis Hutchinson: It's a place where you
+have somebody who has an idea for goods
+
+348
+00:11:02,366 --> 00:11:06,400
+Travis Hutchinson: or service and you have
+somebody who wants to consume that idea.
+
+349
+00:11:06,400 --> 00:11:09,302
+Travis Hutchinson: But it's an
+economy where in order for it to work
+
+350
+00:11:09,302 --> 00:11:12,056
+Travis Hutchinson: well you need
+people to be consumers and also
+
+351
+00:11:12,056 --> 00:11:12,800
+Travis Hutchinson: producers.
+
+352
+00:11:12,800 --> 00:11:15,519
+Travis Hutchinson: So if you consume a
+piece of content, you should also be
+
+353
+00:11:15,519 --> 00:11:18,480
+Travis Hutchinson: thinking, hey, how
+do I actually add to that conversation?
+
+354
+00:11:18,480 --> 00:11:21,857
+Travis Hutchinson: How do I make what we
+call the flywheel, which is somebody who
+
+355
+00:11:21,857 --> 00:11:23,545
+Travis Hutchinson: consumes
+and then creates and
+
+356
+00:11:23,545 --> 00:11:24,896
+Travis Hutchinson: then is
+part of this like
+
+357
+00:11:24,896 --> 00:11:25,301
+Travis Hutchinson: larger
+
+358
+00:11:25,301 --> 00:11:28,880
+Travis Hutchinson: conversation about how
+to make the world a better place, right?
+
+359
+00:11:28,880 --> 00:11:32,720
+Travis Hutchinson: How to make things
+work, how to earn money, how to live life.
+
+360
+00:11:32,720 --> 00:11:34,805
+Travis Hutchinson: And so
+when we think about these, we
+
+361
+00:11:34,805 --> 00:11:37,321
+Travis Hutchinson: design kind
+of principles that we operate
+
+362
+00:11:37,321 --> 00:11:37,680
+Travis Hutchinson: with.
+
+363
+00:11:37,680 --> 00:11:39,226
+Travis Hutchinson: And so,
+you know, one of our
+
+364
+00:11:39,226 --> 00:11:41,053
+Travis Hutchinson: principles
+is making sure that
+
+365
+00:11:41,053 --> 00:11:41,544
+Travis Hutchinson: members
+
+366
+00:11:41,544 --> 00:11:45,338
+Travis Hutchinson: are always seeing the
+content that is like appropriate for them,
+
+367
+00:11:45,338 --> 00:11:45,760
+Travis Hutchinson: right?
+
+368
+00:11:45,760 --> 00:11:47,417
+Travis Hutchinson: Another
+one of our principles is
+
+369
+00:11:47,417 --> 00:11:48,951
+Travis Hutchinson: we want
+to show you things that
+
+370
+00:11:48,951 --> 00:11:49,135
+Travis Hutchinson: are
+
+371
+00:11:49,135 --> 00:11:50,670
+Travis Hutchinson: relevant
+to you, but then also
+
+372
+00:11:50,670 --> 00:11:52,327
+Travis Hutchinson: allow
+you to explore things that
+
+373
+00:11:52,327 --> 00:11:52,511
+Travis Hutchinson: are
+
+374
+00:11:52,511 --> 00:11:54,229
+Travis Hutchinson: outside
+of your domain so that you
+
+375
+00:11:54,229 --> 00:11:55,886
+Travis Hutchinson: can get
+exposure to other things
+
+376
+00:11:55,886 --> 00:11:57,604
+Travis Hutchinson: that are
+relevant to you but might
+
+377
+00:11:57,604 --> 00:11:59,200
+Travis Hutchinson: not be
+exactly what you work in.
+
+378
+00:11:59,200 --> 00:12:00,410
+Travis Hutchinson: So if
+you work in sports
+
+379
+00:12:00,410 --> 00:12:01,939
+Travis Hutchinson: management
+also showing you
+
+380
+00:12:01,939 --> 00:12:02,512
+Travis Hutchinson: something
+
+381
+00:12:02,512 --> 00:12:05,760
+Travis Hutchinson: about business that
+might not be directly related to sports.
+
+382
+00:12:05,760 --> 00:12:07,396
+Travis Hutchinson: And so
+that's broadly how we
+
+383
+00:12:07,396 --> 00:12:09,031
+Travis Hutchinson: think
+about kind of the feed
+
+384
+00:12:09,031 --> 00:12:09,600
+Travis Hutchinson: overall.
+
+385
+00:12:09,600 --> 00:12:11,840
+Travis Hutchinson: And
+specifically I work on comics.
+
+386
+00:12:11,840 --> 00:12:14,044
+Travis Hutchinson: And so
+what what we think a lot
+
+387
+00:12:14,044 --> 00:12:16,065
+Travis Hutchinson: about
+is, hey, how do we get
+
+388
+00:12:16,065 --> 00:12:16,616
+Travis Hutchinson: people
+
+389
+00:12:16,616 --> 00:12:21,760
+Travis Hutchinson: to actually feel like a
+useful participant within this ecosystem?
+
+390
+00:12:21,760 --> 00:12:23,600
+Travis Hutchinson: And we
+have some classics, right?
+
+391
+00:12:23,600 --> 00:12:25,236
+Travis Hutchinson: If somebody
+makes a comment, they
+
+392
+00:12:25,236 --> 00:12:26,931
+Travis Hutchinson: are four
+to seven times more likely
+
+393
+00:12:26,931 --> 00:12:28,567
+Travis Hutchinson: to say
+that they have a phenomenal
+
+394
+00:12:28,567 --> 00:12:30,320
+Travis Hutchinson: experience
+on the platform, right?
+
+395
+00:12:30,320 --> 00:12:33,043
+Travis Hutchinson: So simply by engaging
+rather than just kind of scrolling
+
+396
+00:12:33,043 --> 00:12:35,766
+Travis Hutchinson: and saying, oh,
+that's cool, but getting involved in the
+
+397
+00:12:35,766 --> 00:12:38,083
+Travis Hutchinson: conversation,
+people are going to have a better
+
+398
+00:12:38,083 --> 00:12:38,720
+Travis Hutchinson: experience.
+
+399
+00:12:38,720 --> 00:12:41,318
+Travis Hutchinson: And when people
+tend to have better experiences, they
+
+400
+00:12:41,318 --> 00:12:44,031
+Travis Hutchinson: tend to have
+significantly more opportunities down the
+
+401
+00:12:44,031 --> 00:12:44,320
+Travis Hutchinson: line.
+
+402
+00:12:44,320 --> 00:12:47,628
+Travis Hutchinson: And very frankly, like
+I'm up here speaking because I started
+
+403
+00:12:47,628 --> 00:12:50,677
+Travis Hutchinson: posting about my work
+and the things that I do at LinkedIn
+
+404
+00:12:50,677 --> 00:12:51,520
+Travis Hutchinson: consistently.
+
+405
+00:12:51,520 --> 00:12:53,270
+Travis Hutchinson: And so I
+think that's the power
+
+406
+00:12:53,270 --> 00:12:54,810
+Travis Hutchinson: of the
+feed and how we think
+
+407
+00:12:54,810 --> 00:12:55,160
+Travis Hutchinson: about
+
+408
+00:12:55,160 --> 00:12:57,190
+Travis Hutchinson: kind of
+the knowledge marketplace
+
+409
+00:12:57,190 --> 00:12:59,360
+Travis Hutchinson: for
+individuals, broadly speaking.
+
+410
+00:12:59,360 --> 00:13:00,800
+Tim Jurka: It's pretty it's pretty crazy.
+
+411
+00:13:00,800 --> 00:13:02,634
+Tim Jurka: I mean, you
+know, we think about the
+
+412
+00:13:02,634 --> 00:13:04,469
+Tim Jurka: feed as you
+just get a bunch of posts
+
+413
+00:13:04,469 --> 00:13:04,658
+Tim Jurka: and
+
+414
+00:13:04,658 --> 00:13:06,303
+Tim Jurka: like you just
+work on like if the
+
+415
+00:13:06,303 --> 00:13:08,263
+Tim Jurka: product can
+be the interest comments
+
+416
+00:13:08,263 --> 00:13:08,706
+Tim Jurka: portion
+
+417
+00:13:08,706 --> 00:13:10,604
+Tim Jurka: of the feed
+like talk like talk about
+
+418
+00:13:10,604 --> 00:13:12,691
+Tim Jurka: like should like
+the problems like that
+
+419
+00:13:12,691 --> 00:13:14,715
+Tim Jurka: must be like a
+unique problem in itself
+
+420
+00:13:14,715 --> 00:13:16,866
+Tim Jurka: people must post
+some interesting stuff
+
+421
+00:13:16,866 --> 00:13:18,953
+Tim Jurka: in the comment
+section you don't want to
+
+422
+00:13:18,953 --> 00:13:20,850
+Tim Jurka: talk about Oh
+no, I want to talk about
+
+423
+00:13:20,850 --> 00:13:21,040
+Tim Jurka: it.
+
+424
+00:13:21,040 --> 00:13:21,920
+Travis Hutchinson: I want
+to talk about it.
+
+425
+00:13:22,400 --> 00:13:23,360
+Travis Hutchinson: Okay.
+
+426
+00:13:23,920 --> 00:13:26,762
+Travis Hutchinson: So to give you
+guys a sense, we have roughly,
+
+427
+00:13:26,762 --> 00:13:29,840
+Travis Hutchinson: we call it
+impression, so the number of people.
+
+428
+00:13:30,160 --> 00:13:31,745
+Travis Hutchinson: We have
+about 700 million
+
+429
+00:13:31,745 --> 00:13:33,707
+Travis Hutchinson: comments
+that get you on a daily
+
+430
+00:13:33,707 --> 00:13:34,160
+Travis Hutchinson: basis.
+
+431
+00:13:34,480 --> 00:13:36,960
+Travis Hutchinson: That's a
+ton of comments.
+
+432
+00:13:36,960 --> 00:13:39,920
+Travis Hutchinson: And so if we walk
+down, we call this the pump, right?
+
+433
+00:13:39,920 --> 00:13:43,600
+Travis Hutchinson: How do people
+first identify a comment?
+
+434
+00:13:43,600 --> 00:13:46,212
+Travis Hutchinson: So if you're on the
+LinkedIn feed, some pumps don't have
+
+435
+00:13:46,212 --> 00:13:48,880
+Travis Hutchinson: comments shown, and
+then others do have comments shown.
+
+436
+00:13:48,880 --> 00:13:50,659
+Travis Hutchinson: And so we
+make a determination about
+
+437
+00:13:50,659 --> 00:13:52,320
+Travis Hutchinson: when
+should we show you a comment.
+
+438
+00:13:52,320 --> 00:13:53,768
+Travis Hutchinson: And then
+is that comment the
+
+439
+00:13:53,768 --> 00:13:55,530
+Travis Hutchinson: appropriate
+comment for you to be
+
+440
+00:13:55,530 --> 00:13:56,160
+Travis Hutchinson: engaged in?
+
+441
+00:13:56,320 --> 00:13:58,075
+Travis Hutchinson: And then
+let's say you find a post
+
+442
+00:13:58,075 --> 00:13:59,636
+Travis Hutchinson: that you
+find oh man Travis he
+
+443
+00:13:59,636 --> 00:14:00,026
+Travis Hutchinson: posted
+
+444
+00:14:00,026 --> 00:14:01,586
+Travis Hutchinson: this let
+me click into it then
+
+445
+00:14:01,586 --> 00:14:03,407
+Travis Hutchinson: there's
+that next set of comments
+
+446
+00:14:03,407 --> 00:14:03,732
+Travis Hutchinson: right
+
+447
+00:14:03,732 --> 00:14:05,552
+Travis Hutchinson: there's
+a whole set of comments on
+
+448
+00:14:05,552 --> 00:14:07,307
+Travis Hutchinson: that what
+order do we show them to
+
+449
+00:14:07,307 --> 00:14:08,803
+Travis Hutchinson: you in
+do we allow them to pin
+
+450
+00:14:08,803 --> 00:14:10,818
+Travis Hutchinson: comments
+which we recently launched
+
+451
+00:14:10,818 --> 00:14:11,013
+Travis Hutchinson: and
+
+452
+00:14:11,013 --> 00:14:12,704
+Travis Hutchinson: then
+once you begin to type, oh,
+
+453
+00:14:12,704 --> 00:14:14,459
+Travis Hutchinson: this is
+an interesting idea, let
+
+454
+00:14:14,459 --> 00:14:14,589
+Travis Hutchinson: me
+
+455
+00:14:14,589 --> 00:14:16,019
+Travis Hutchinson: support
+my idea, how do you
+
+456
+00:14:16,019 --> 00:14:17,840
+Travis Hutchinson: consider
+that comment within the
+
+457
+00:14:17,840 --> 00:14:18,230
+Travis Hutchinson: larger
+
+458
+00:14:18,230 --> 00:14:18,880
+Travis Hutchinson: ecosystem?
+
+459
+00:14:18,880 --> 00:14:20,357
+Travis Hutchinson: Now,
+this is the baseline
+
+460
+00:14:20,357 --> 00:14:22,255
+Travis Hutchinson: experience,
+but then we have the
+
+461
+00:14:22,255 --> 00:14:23,029
+Travis Hutchinson: other side of
+
+462
+00:14:23,029 --> 00:14:25,139
+Travis Hutchinson: it, which
+is uh unfortunately there
+
+463
+00:14:25,139 --> 00:14:27,178
+Travis Hutchinson: are some
+people who are defectors,
+
+464
+00:14:27,178 --> 00:14:27,600
+Travis Hutchinson: right?
+
+465
+00:14:27,600 --> 00:14:31,910
+Travis Hutchinson: So for those
+individuals um that are leading to I said
+
+466
+00:14:31,910 --> 00:14:33,040
+Tim Jurka: defective defective.
+
+467
+00:14:33,040 --> 00:14:35,120
+Travis Hutchinson: De factor,
+defective, yes, okay.
+
+468
+00:14:35,520 --> 00:14:36,480
+Travis Hutchinson: Defective.
+
+469
+00:14:39,600 --> 00:14:41,014
+Travis Hutchinson: When
+people make comments that
+
+470
+00:14:41,014 --> 00:14:42,373
+Travis Hutchinson: are
+maybe less tasteful or not
+
+471
+00:14:42,373 --> 00:14:43,787
+Travis Hutchinson: appropriate
+for the platform,
+
+472
+00:14:43,787 --> 00:14:45,146
+Travis Hutchinson: thinking
+about, I want to rank
+
+473
+00:14:45,146 --> 00:14:45,310
+Travis Hutchinson: the
+
+474
+00:14:45,310 --> 00:14:48,246
+Travis Hutchinson: least comments for you,
+I want to make sure you're seeing the best
+
+475
+00:14:48,246 --> 00:14:49,714
+Travis Hutchinson: comments
+and making sure you're
+
+476
+00:14:49,714 --> 00:14:51,237
+Travis Hutchinson: seeing
+the prop the comments that
+
+477
+00:14:51,237 --> 00:14:52,759
+Travis Hutchinson: are
+shooting, making sure you're
+
+478
+00:14:52,759 --> 00:14:54,227
+Travis Hutchinson: not
+seeing the comments that are
+
+479
+00:14:54,227 --> 00:14:54,880
+Travis Hutchinson: problematic.
+
+480
+00:14:54,880 --> 00:14:57,600
+Travis Hutchinson: And so that's a whole
+nother different kind of category of this.
+
+481
+00:14:57,600 --> 00:14:59,957
+Travis Hutchinson: And so
+we consistently think about
+
+482
+00:14:59,957 --> 00:15:02,314
+Travis Hutchinson: this whole
+ecosystem and what do we
+
+483
+00:15:02,314 --> 00:15:02,720
+Travis Hutchinson: show?
+
+484
+00:15:03,120 --> 00:15:04,640
+Travis Hutchinson: W dohen we not show?
+
+485
+00:15:04,640 --> 00:15:06,499
+Travis Hutchinson: And when do
+we provide kind of like that
+
+486
+00:15:06,499 --> 00:15:08,415
+Travis Hutchinson: experience
+when you're answering this
+
+487
+00:15:08,415 --> 00:15:08,880
+Travis Hutchinson: problem?
+
+488
+00:15:09,280 --> 00:15:11,270
+Travis Hutchinson: So something
+as simple as, and this is
+
+489
+00:15:11,270 --> 00:15:13,324
+Travis Hutchinson: just
+comments, something as simple as
+
+490
+00:15:13,324 --> 00:15:15,185
+Travis Hutchinson: comments
+that you think, oh, I just
+
+491
+00:15:15,185 --> 00:15:17,111
+Travis Hutchinson: made a
+comment is actually a massive
+
+492
+00:15:17,111 --> 00:15:19,421
+Travis Hutchinson: infrastructure
+with literally millions,
+
+493
+00:15:19,421 --> 00:15:21,411
+Travis Hutchinson: maybe even
+more, millions of lines of
+
+494
+00:15:21,411 --> 00:15:23,401
+Travis Hutchinson: code that
+are making a determination
+
+495
+00:15:23,401 --> 00:15:25,070
+Travis Hutchinson: of what
+to show you on a day in and
+
+496
+00:15:25,070 --> 00:15:25,262
+Travis Hutchinson: day
+
+497
+00:15:25,262 --> 00:15:25,840
+Travis Hutchinson: out basis.
+
+498
+00:15:25,840 --> 00:15:26,960
+Travis Hutchinson: And
+that's only on common.
+
+499
+00:15:26,960 --> 00:15:29,558
+Travis Hutchinson: So think
+about how large and complicated
+
+500
+00:15:29,558 --> 00:15:32,080
+Travis Hutchinson: this gets
+from the entire feed overall.
+
+501
+00:15:32,080 --> 00:15:35,360
+Travis Hutchinson: And so I'm going
+to pause right here because I'm an
+
+502
+00:15:35,360 --> 00:15:38,400
+Travis Hutchinson: expert on feed,
+but Tim is the the key expert on
+
+503
+00:15:38,400 --> 00:15:38,800
+Travis Hutchinson: feed.
+
+504
+00:15:38,800 --> 00:15:40,616
+Travis Hutchinson: And so
+we can really get into,
+
+505
+00:15:40,616 --> 00:15:42,432
+Travis Hutchinson: you
+know, everybody wants to
+
+506
+00:15:42,432 --> 00:15:42,735
+Travis Hutchinson: know
+
+507
+00:15:42,735 --> 00:15:46,822
+Travis Hutchinson: about the algorithm how
+do the algorithm work Tim can you begin to
+
+508
+00:15:46,822 --> 00:15:48,714
+Travis Hutchinson: break
+down uh from a high level
+
+509
+00:15:48,714 --> 00:15:50,681
+Travis Hutchinson: maybe
+and then let's get all the
+
+510
+00:15:50,681 --> 00:15:50,908
+Travis Hutchinson: way
+
+511
+00:15:50,908 --> 00:15:52,800
+Travis Hutchinson: into
+kind of the nitty-gritty
+
+512
+00:15:52,800 --> 00:15:54,843
+Travis Hutchinson: details
+of when somebody enters
+
+513
+00:15:54,843 --> 00:15:55,146
+Travis Hutchinson: into
+
+514
+00:15:55,146 --> 00:15:59,157
+Travis Hutchinson: the ecosystem, right, I
+come on to link what's happening from an
+
+515
+00:15:59,157 --> 00:16:03,395
+Travis Hutchinson: algorithmic standpoint
+to provide them with the information that
+
+516
+00:16:03,395 --> 00:16:04,000
+Travis Hutchinson: they see.
+
+517
+00:16:04,000 --> 00:16:04,880
+Tim Jurka: Alright, that's it.
+
+518
+00:16:05,120 --> 00:16:09,120
+Tim Jurka: I'll tap you in because you you
+have some of the details here that I know.
+
+519
+00:16:09,680 --> 00:16:12,322
+Tim Jurka: I mean so so like
+any recommender system, feed in
+
+520
+00:16:12,322 --> 00:16:15,162
+Tim Jurka: particular, I mean
+there's three big components to
+
+521
+00:16:15,162 --> 00:16:15,360
+Tim Jurka: it.
+
+522
+00:16:15,360 --> 00:16:18,976
+Tim Jurka: There's the retrieval, which
+is like of all the you know millions of
+
+523
+00:16:18,976 --> 00:16:22,592
+Tim Jurka: pieces of content on LinkedIn,
+like how do we actually retrieve the
+
+524
+00:16:22,592 --> 00:16:25,821
+Tim Jurka: stuff that we think is
+meeting the professional bar and also
+
+525
+00:16:25,821 --> 00:16:26,854
+Tim Jurka: relevant to you as a
+
+526
+00:16:26,854 --> 00:16:28,339
+Tim Jurka: professional based on your
+
+527
+00:16:28,339 --> 00:16:29,308
+Tim Jurka: identity looking
+
+528
+00:16:29,308 --> 00:16:29,760
+Tim Jurka: device.
+
+529
+00:16:29,760 --> 00:16:32,555
+Tim Jurka: There's a ranking
+where we start personalizing
+
+530
+00:16:32,555 --> 00:16:35,071
+Tim Jurka: things based on
+things that you give up some
+
+531
+00:16:35,071 --> 00:16:35,840
+Tim Jurka: engagement.
+
+532
+00:16:35,840 --> 00:16:36,930
+Tim Jurka: There's certain people in your
+
+533
+00:16:36,930 --> 00:16:38,270
+Tim Jurka: network that
+you probably engage more
+
+534
+00:16:38,270 --> 00:16:38,480
+Tim Jurka: with.
+
+535
+00:16:38,480 --> 00:16:40,560
+Tim Jurka: There's certain
+topics that you care about.
+
+536
+00:16:40,800 --> 00:16:43,240
+Tim Jurka: There may be a salient
+news event that's happening
+
+537
+00:16:43,240 --> 00:16:45,680
+Tim Jurka: and we we pick up that
+based on your past interests.
+
+538
+00:16:45,680 --> 00:16:47,280
+Tim Jurka: You're probably
+interested in it.
+
+539
+00:16:47,280 --> 00:16:51,040
+Tim Jurka: And then there's the what we
+call the multi-objective optimization.
+
+540
+00:16:51,040 --> 00:16:52,620
+Tim Jurka: So we have comments,
+
+541
+00:16:52,620 --> 00:16:56,662
+Tim Jurka: we have reshares, we
+have private messages, we have all
+
+542
+00:16:56,662 --> 00:17:00,441
+Tim Jurka: sorts of ways that you
+can engage with with compound
+
+543
+00:17:00,441 --> 00:17:00,880
+Tim Jurka: then.
+
+544
+00:17:00,880 --> 00:17:04,080
+Tim Jurka: And for each of these we
+actually have like a separate ML model.
+
+545
+00:17:04,080 --> 00:17:05,555
+Tim Jurka: So we have
+a model that predicts
+
+546
+00:17:05,555 --> 00:17:06,860
+Tim Jurka: likely that you're going to
+
+547
+00:17:06,860 --> 00:17:07,258
+Tim Jurka: comment
+
+548
+00:17:07,258 --> 00:17:10,379
+Tim Jurka: on this thing, likely that
+you're going to send a private message,
+
+549
+00:17:10,379 --> 00:17:13,670
+Tim Jurka: likely that you're going to
+like it, likely that you're gonna reshare
+
+550
+00:17:13,670 --> 00:17:13,840
+Tim Jurka: it.
+
+551
+00:17:14,480 --> 00:17:17,160
+Tim Jurka: Each of these is like
+its own prediction and we need
+
+552
+00:17:17,160 --> 00:17:19,840
+Tim Jurka: to figure out how to
+compose that for every member.
+
+553
+00:17:19,840 --> 00:17:22,400
+Tim Jurka: Some people are looking
+to pass this role to read.
+
+554
+00:17:22,800 --> 00:17:24,631
+Tim Jurka: They want to
+like learn, they want
+
+555
+00:17:24,631 --> 00:17:26,528
+Tim Jurka: like information
+from people they
+
+556
+00:17:26,528 --> 00:17:26,789
+Tim Jurka: they
+
+557
+00:17:26,789 --> 00:17:28,686
+Tim Jurka: admire to kind
+of just like inspire
+
+558
+00:17:28,686 --> 00:17:30,648
+Tim Jurka: them, to learn
+from them, to learn on
+
+559
+00:17:30,648 --> 00:17:31,040
+Tim Jurka: topic.
+
+560
+00:17:31,040 --> 00:17:34,575
+Tim Jurka: There are some people who are
+looking to build their SMB or build their
+
+561
+00:17:34,575 --> 00:17:36,465
+Tim Jurka: brand, like
+professional creators,
+
+562
+00:17:36,465 --> 00:17:38,293
+Tim Jurka: they want to
+get out there, they want
+
+563
+00:17:38,293 --> 00:17:38,415
+Tim Jurka: to
+
+564
+00:17:38,415 --> 00:17:42,011
+Tim Jurka: engage their audience, they
+want to have that conversation with their
+
+565
+00:17:42,011 --> 00:17:42,560
+Tim Jurka: audience.
+
+566
+00:17:42,560 --> 00:17:46,126
+Tim Jurka: And so you can see how you
+would like tune this multi-objective
+
+567
+00:17:46,126 --> 00:17:49,829
+Tim Jurka: formula differently depending
+on what outcomes somebody cares
+
+568
+00:17:49,829 --> 00:17:50,240
+Tim Jurka: about.
+
+569
+00:17:50,800 --> 00:17:52,834
+Tim Jurka: And so there's
+a lot of innovation that
+
+570
+00:17:52,834 --> 00:17:54,995
+Tim Jurka: goes through
+treatable ranking and this
+
+571
+00:17:54,995 --> 00:17:56,838
+Tim Jurka: multi-objective optimization to
+
+572
+00:17:56,838 --> 00:17:58,935
+Tim Jurka: ultimately
+present you a set of updates
+
+573
+00:17:58,935 --> 00:17:59,316
+Tim Jurka: that is
+
+574
+00:17:59,316 --> 00:18:01,159
+Tim Jurka: is useful for
+you, but also, I mean,
+
+575
+00:18:01,159 --> 00:18:03,320
+Tim Jurka: balanced in the
+marketplace, useful for
+
+576
+00:18:03,320 --> 00:18:03,511
+Tim Jurka: the
+
+577
+00:18:03,511 --> 00:18:05,290
+Tim Jurka: the the creator
+the the person who
+
+578
+00:18:05,290 --> 00:18:07,260
+Tim Jurka: created a
+LinkedIn they have a reason
+
+579
+00:18:07,260 --> 00:18:07,387
+Tim Jurka: to
+
+580
+00:18:07,387 --> 00:18:09,167
+Tim Jurka: create they
+they're looking to to
+
+581
+00:18:09,167 --> 00:18:11,010
+Tim Jurka: achieve some
+outcome and we have to
+
+582
+00:18:11,010 --> 00:18:11,391
+Tim Jurka: kind of
+
+583
+00:18:11,391 --> 00:18:13,552
+Tim Jurka: balance one of
+those factors to make sure
+
+584
+00:18:13,552 --> 00:18:15,522
+Tim Jurka: that it really
+is this kind of give and
+
+585
+00:18:15,522 --> 00:18:15,840
+Tim Jurka: take.
+
+586
+00:18:15,920 --> 00:18:17,720
+Travis Hutchinson: Um, so let
+let's let's just actually
+
+587
+00:18:17,720 --> 00:18:19,220
+Travis Hutchinson: make
+sure this is clear for the
+
+588
+00:18:19,220 --> 00:18:19,760
+Travis Hutchinson: audience.
+
+589
+00:18:19,760 --> 00:18:22,320
+Travis Hutchinson: So so retrieval,
+we're breaking that down.
+
+590
+00:18:22,320 --> 00:18:24,266
+Travis Hutchinson: This is
+literally there are billions
+
+591
+00:18:24,266 --> 00:18:26,023
+Travis Hutchinson: of posts
+in LinkedIn's database,
+
+592
+00:18:26,023 --> 00:18:26,400
+Travis Hutchinson: right?
+
+593
+00:18:26,960 --> 00:18:29,940
+Travis Hutchinson: And we're we're
+deciding, hey, what's the thousand or so
+
+594
+00:18:29,940 --> 00:18:33,300
+Travis Hutchinson: candidates that might
+be appropriate for you as an individual,
+
+595
+00:18:33,300 --> 00:18:33,680
+Travis Hutchinson: right?
+
+596
+00:18:33,680 --> 00:18:34,960
+Travis Hutchinson: So that's retrieval.
+
+597
+00:18:34,960 --> 00:18:36,960
+Travis Hutchinson: And then
+we move to the ranking.
+
+598
+00:18:36,960 --> 00:18:39,612
+Travis Hutchinson: So we truncate
+some of them and then we say, hey,
+
+599
+00:18:39,612 --> 00:18:42,400
+Travis Hutchinson: one at the top,
+let's call it however many number.
+
+600
+00:18:42,400 --> 00:18:43,590
+Travis Hutchinson: And then we say ranking
+
+601
+00:18:43,590 --> 00:18:45,266
+Tim Jurka: is about
+actually saying which of
+
+602
+00:18:45,266 --> 00:18:46,881
+Tim Jurka: those should
+be in position one,
+
+603
+00:18:46,881 --> 00:18:47,360
+Tim Jurka: exactly.
+
+604
+00:18:47,360 --> 00:18:48,160
+Tim Jurka: Two, three.
+
+605
+00:18:48,400 --> 00:18:48,880
+Travis Hutchinson: Exactly.
+
+606
+00:18:48,880 --> 00:18:51,184
+Travis Hutchinson: So we're reorder
+we're essentially reordering
+
+607
+00:18:51,184 --> 00:18:53,200
+Travis Hutchinson: them based on
+what you've done in the past.
+
+608
+00:18:53,200 --> 00:18:56,726
+Travis Hutchinson: And then we get some
+the multi-objective function where we're
+
+609
+00:18:56,726 --> 00:18:58,692
+Travis Hutchinson: essentially
+saying, hey, based on
+
+610
+00:18:58,692 --> 00:19:00,387
+Travis Hutchinson: all of
+this that we know, based
+
+611
+00:19:00,387 --> 00:19:02,218
+Travis Hutchinson: on your
+past actions, what do you
+
+612
+00:19:02,218 --> 00:19:04,117
+Travis Hutchinson: think uh
+you're actually going to
+
+613
+00:19:04,117 --> 00:19:04,320
+Travis Hutchinson: do?
+
+614
+00:19:04,320 --> 00:19:06,640
+Travis Hutchinson: What is the probability
+that you're gonna do something right?
+
+615
+00:19:07,040 --> 00:19:08,960
+Tim Jurka: and And each of
+these plays are pretty equal.
+
+616
+00:19:08,960 --> 00:19:11,072
+Tim Jurka: So actually,
+given your background and
+
+617
+00:19:11,072 --> 00:19:12,800
+Tim Jurka: trust, like
+we should start with
+
+618
+00:19:12,800 --> 00:19:13,440
+Tim Jurka: retrieval.
+
+619
+00:19:14,560 --> 00:19:16,547
+Tim Jurka: Retrieval is not
+just about getting the full
+
+620
+00:19:16,547 --> 00:19:18,480
+Tim Jurka: set of things that
+might be relevant to you.
+
+621
+00:19:18,480 --> 00:19:20,325
+Tim Jurka: It's also
+about, this is where like
+
+622
+00:19:20,325 --> 00:19:22,170
+Tim Jurka: all our trust
+and safety stuff goes
+
+623
+00:19:22,170 --> 00:19:22,361
+Tim Jurka: in,
+
+624
+00:19:22,361 --> 00:19:25,987
+Tim Jurka: making sure that there's that
+we have a very safe platform, a trusted
+
+625
+00:19:25,987 --> 00:19:26,560
+Tim Jurka: platform.
+
+626
+00:19:26,800 --> 00:19:28,905
+Tim Jurka: It's where we
+make sure we enforce kind of
+
+627
+00:19:28,905 --> 00:19:30,947
+Tim Jurka: like we don't
+want AI swap to just be like
+
+628
+00:19:30,947 --> 00:19:33,176
+Tim Jurka: freaking vital
+platform so this is where we
+
+629
+00:19:33,176 --> 00:19:35,404
+Tim Jurka: have those checks
+and you deal with this all
+
+630
+00:19:35,404 --> 00:19:37,323
+Tim Jurka: all the freaking
+time so I mean you're
+
+631
+00:19:37,323 --> 00:19:39,366
+Tim Jurka: probably better
+to talk to like what are
+
+632
+00:19:39,366 --> 00:19:39,551
+Tim Jurka: the
+
+633
+00:19:39,551 --> 00:19:41,594
+Tim Jurka: checks that
+happen retrieval like what
+
+634
+00:19:41,594 --> 00:19:43,637
+Tim Jurka: what do we actually
+deal with the size of
+
+635
+00:19:43,637 --> 00:19:43,822
+Tim Jurka: the
+
+636
+00:19:43,822 --> 00:19:45,927
+Tim Jurka: models that
+actually power it and and all
+
+637
+00:19:45,927 --> 00:19:47,784
+Tim Jurka: runs up our
+views for like embedding
+
+638
+00:19:47,784 --> 00:19:48,279
+Tim Jurka: matching
+
+639
+00:19:48,279 --> 00:19:48,960
+Tim Jurka: and all that.
+
+640
+00:19:48,960 --> 00:19:50,000
+Travis Hutchinson: Yeah, yeah.
+
+641
+00:19:50,000 --> 00:19:52,956
+Travis Hutchinson: So uh Tim was
+mentioning what we we call this face of
+
+642
+00:19:52,956 --> 00:19:55,982
+Travis Hutchinson: trust and safety
+broadly right how do we prevent you
+
+643
+00:19:55,982 --> 00:19:59,360
+Travis Hutchinson: from seeing
+essentially inappropriate content, right?
+
+644
+00:20:00,320 --> 00:20:04,014
+Travis Hutchinson: And I was talking
+about this a little bit earlier, but
+
+645
+00:20:04,014 --> 00:20:07,959
+Travis Hutchinson: effectively the way
+that we do this is we say, hey, what is
+
+646
+00:20:07,959 --> 00:20:11,736
+Travis Hutchinson: let's say we wanted
+to design a classifier for K teach,
+
+647
+00:20:11,736 --> 00:20:12,240
+Travis Hutchinson: right?
+
+648
+00:20:12,240 --> 00:20:14,062
+Travis Hutchinson: Everybody
+objectively says like
+
+649
+00:20:14,062 --> 00:20:15,494
+Travis Hutchinson: pay not
+appropriate on the
+
+650
+00:20:15,494 --> 00:20:16,080
+Travis Hutchinson: platform.
+
+651
+00:20:16,080 --> 00:20:16,480
+Tim Jurka: I agree.
+
+652
+00:20:18,560 --> 00:20:21,040
+Tim Jurka: I hope most people
+can agree on that today.
+
+653
+00:20:21,040 --> 00:20:23,200
+Travis Hutchinson: So let's walk
+through the process somehow, right?
+
+654
+00:20:23,200 --> 00:20:24,000
+Travis Hutchinson: Okay.
+
+655
+00:20:24,000 --> 00:20:27,840
+Travis Hutchinson: We have to decide
+what constitutes a state speech, right?
+
+656
+00:20:27,840 --> 00:20:31,144
+Travis Hutchinson: And so we work with
+the legal team, we work with the policy
+
+657
+00:20:31,144 --> 00:20:34,519
+Travis Hutchinson: team, we work with
+product editors, engineers, a bunch of
+
+658
+00:20:34,519 --> 00:20:37,612
+Travis Hutchinson: different people
+that sit together and really make a
+
+659
+00:20:37,612 --> 00:20:40,987
+Travis Hutchinson: determination of,
+okay, we want to be very explicit about
+
+660
+00:20:40,987 --> 00:20:41,760
+Travis Hutchinson: what this is.
+
+661
+00:20:41,760 --> 00:20:44,988
+Travis Hutchinson: And then we kind of
+work with the engineering team to say,
+
+662
+00:20:44,988 --> 00:20:48,148
+Travis Hutchinson: okay, let's build
+what we broadly called a classifier,
+
+663
+00:20:48,148 --> 00:20:48,560
+Travis Hutchinson: right?
+
+664
+00:20:48,560 --> 00:20:51,360
+Travis Hutchinson: Or something
+that's able to detect this content.
+
+665
+00:20:51,360 --> 00:20:53,797
+Travis Hutchinson: And so
+what Tim is saying is in that
+
+666
+00:20:53,797 --> 00:20:56,234
+Travis Hutchinson: retrieval
+phase we we bring in the
+
+667
+00:20:56,234 --> 00:20:58,410
+Travis Hutchinson: classifier
+and say, hey, this
+
+668
+00:20:58,410 --> 00:21:00,325
+Travis Hutchinson: content
+entering, is this
+
+669
+00:21:00,325 --> 00:21:01,631
+Travis Hutchinson: potentially hate
+
+670
+00:21:01,631 --> 00:21:02,240
+Travis Hutchinson: speech?
+
+671
+00:21:02,240 --> 00:21:04,080
+Travis Hutchinson: And the
+classifier will say, yes, it is.
+
+672
+00:21:04,080 --> 00:21:06,126
+Travis Hutchinson: And so then
+we'll remove that from being
+
+673
+00:21:06,126 --> 00:21:08,482
+Travis Hutchinson: eligible to
+get distribution throughout the
+
+674
+00:21:08,482 --> 00:21:09,040
+Travis Hutchinson: platform.
+
+675
+00:21:09,040 --> 00:21:11,323
+Travis Hutchinson: And so this
+is like a massive, massive
+
+676
+00:21:11,323 --> 00:21:13,680
+Travis Hutchinson: part of
+social media in the modern day.
+
+677
+00:21:13,680 --> 00:21:16,979
+Travis Hutchinson: It's what I think a lot
+of social media companies in the past have
+
+678
+00:21:16,979 --> 00:21:18,660
+Travis Hutchinson: been
+flagged for for not you know
+
+679
+00:21:18,660 --> 00:21:20,279
+Travis Hutchinson: doing a
+good job or excuse me not
+
+680
+00:21:20,279 --> 00:21:21,773
+Travis Hutchinson: strengthening
+but I think at
+
+681
+00:21:21,773 --> 00:21:23,267
+Travis Hutchinson: LinkedIn
+you know I got hired
+
+682
+00:21:23,267 --> 00:21:23,890
+Travis Hutchinson: explicitly
+
+683
+00:21:23,890 --> 00:21:25,322
+Travis Hutchinson: to focus
+on this and we have a
+
+684
+00:21:25,322 --> 00:21:26,691
+Travis Hutchinson: team of
+a couple of product
+
+685
+00:21:26,691 --> 00:21:27,189
+Travis Hutchinson: managers
+
+686
+00:21:27,189 --> 00:21:28,995
+Travis Hutchinson: and a huge
+team of engineers that's
+
+687
+00:21:28,995 --> 00:21:30,800
+Travis Hutchinson: focusing
+explicitly on this area.
+
+688
+00:21:30,800 --> 00:21:32,546
+Travis Hutchinson: So this
+is like, and I'll put it
+
+689
+00:21:32,546 --> 00:21:34,362
+Travis Hutchinson: this way,
+if we did not have kind
+
+690
+00:21:34,362 --> 00:21:34,501
+Travis Hutchinson: of
+
+691
+00:21:34,501 --> 00:21:36,596
+Travis Hutchinson: trust and
+safety classifiers, your
+
+692
+00:21:36,596 --> 00:21:38,552
+Travis Hutchinson: LinkedIn
+or all your social media
+
+693
+00:21:38,552 --> 00:21:40,577
+Travis Hutchinson: experiences
+would be an entirely,
+
+694
+00:21:40,577 --> 00:21:42,183
+Travis Hutchinson: entirely
+different kind of
+
+695
+00:21:42,183 --> 00:21:42,881
+Travis Hutchinson: experience
+
+696
+00:21:42,881 --> 00:21:43,440
+Travis Hutchinson: overall.
+
+697
+00:21:43,440 --> 00:21:45,590
+Travis Hutchinson: And so
+that's how we think about this
+
+698
+00:21:45,590 --> 00:21:47,741
+Travis Hutchinson: kind of
+going into the ecosystem and
+
+699
+00:21:47,741 --> 00:21:49,604
+Travis Hutchinson: past
+this stage it goes into the
+
+700
+00:21:49,604 --> 00:21:51,827
+Travis Hutchinson: retrieval
+ranking and multi-agenda
+
+701
+00:21:51,827 --> 00:21:52,400
+Travis Hutchinson: problem.
+
+702
+00:21:52,400 --> 00:21:56,000
+Tim Jurka: So you touched on on one
+example which is like super clear, right?
+
+703
+00:21:56,000 --> 00:21:59,520
+Tim Jurka: It's like but like we've
+been talking a lot about AI slot.
+
+704
+00:21:59,600 --> 00:22:02,400
+Tim Jurka: I mean every every freaking
+platform is dealing with this right now.
+
+705
+00:22:03,440 --> 00:22:05,760
+Tim Jurka: Like that's not as clear cut.
+
+706
+00:22:05,760 --> 00:22:08,410
+Tim Jurka: Like you kind of know when
+you see it, but like people are going to
+
+707
+00:22:08,410 --> 00:22:11,210
+Tim Jurka: use AI tools that's like like
+we're asking everybody to use AI tools
+
+708
+00:22:11,210 --> 00:22:13,960
+Tim Jurka: like I advertise so like how
+do you how do you have those those cases
+
+709
+00:22:13,960 --> 00:22:16,960
+Tim Jurka: where it's much more subjective
+like what's what's the strategy there?
+
+710
+00:22:16,960 --> 00:22:19,312
+Travis Hutchinson: Yeah uh
+one this is difficult
+
+711
+00:22:19,312 --> 00:22:21,958
+Travis Hutchinson: because
+if I were to ask you, you,
+
+712
+00:22:21,958 --> 00:22:22,546
+Travis Hutchinson: and you
+
+713
+00:22:22,546 --> 00:22:25,094
+Travis Hutchinson: about
+what AI slot is, you would
+
+714
+00:22:25,094 --> 00:22:27,642
+Travis Hutchinson: all have
+a different opinion on
+
+715
+00:22:27,642 --> 00:22:28,132
+Travis Hutchinson: this,
+
+716
+00:22:28,132 --> 00:22:28,720
+Travis Hutchinson: right?
+
+717
+00:22:28,720 --> 00:22:32,320
+Travis Hutchinson: And so the way that we
+think about this is actually two-sided.
+
+718
+00:22:32,320 --> 00:22:36,524
+Travis Hutchinson: On the first side, we
+make an objective determination about the
+
+719
+00:22:36,524 --> 00:22:38,825
+Travis Hutchinson: blatantly
+kind of like, oh, this is
+
+720
+00:22:38,825 --> 00:22:41,046
+Travis Hutchinson: clearly
+AI's love, no effort went
+
+721
+00:22:41,046 --> 00:22:41,760
+Travis Hutchinson: into this.
+
+722
+00:22:41,760 --> 00:22:44,779
+Travis Hutchinson: There's like emojis,
+there's m dashes, there's every
+
+723
+00:22:44,779 --> 00:22:47,329
+Travis Hutchinson: possible thing,
+and it's not actually saying
+
+724
+00:22:47,329 --> 00:22:48,000
+Travis Hutchinson: something.
+
+725
+00:22:48,000 --> 00:22:49,705
+Travis Hutchinson: Maybe it's
+like repeating the exact
+
+726
+00:22:49,705 --> 00:22:51,240
+Travis Hutchinson: post back
+or it's talking about a
+
+727
+00:22:51,240 --> 00:22:52,832
+Travis Hutchinson: whole
+different topic that the uh
+
+728
+00:22:52,832 --> 00:22:54,480
+Travis Hutchinson: that the
+post wasn't about, right?
+
+729
+00:22:54,480 --> 00:22:56,560
+Travis Hutchinson: So
+that's that's part one.
+
+730
+00:22:56,560 --> 00:22:59,082
+Travis Hutchinson: And then we go
+through that process that I talked
+
+731
+00:22:59,082 --> 00:23:01,479
+Travis Hutchinson: about earlier
+where we said, okay, what is the
+
+732
+00:23:01,479 --> 00:23:01,920
+Travis Hutchinson: policy?
+
+733
+00:23:01,920 --> 00:23:03,200
+Travis Hutchinson: How do
+we engineer this?
+
+734
+00:23:03,200 --> 00:23:04,880
+Travis Hutchinson: Let's work
+with, you know, legal policy.
+
+735
+00:23:04,880 --> 00:23:07,525
+Travis Hutchinson: We get re- I mean,
+and these conversations get really,
+
+736
+00:23:07,525 --> 00:23:10,170
+Travis Hutchinson: really intense
+because everybody has a really strong
+
+737
+00:23:10,170 --> 00:23:10,640
+Travis Hutchinson: opinion.
+
+738
+00:23:10,640 --> 00:23:13,511
+Travis Hutchinson: And so half of my job
+is just mediating the room to make sure
+
+739
+00:23:13,511 --> 00:23:15,963
+Travis Hutchinson: that we're all on
+the same page while we have these
+
+740
+00:23:15,963 --> 00:23:16,800
+Travis Hutchinson: conversations.
+
+741
+00:23:17,600 --> 00:23:21,993
+Travis Hutchinson: And then so we launched
+the classifier and then at the same time
+
+742
+00:23:21,993 --> 00:23:24,021
+Travis Hutchinson: and this
+comfortable circle
+
+743
+00:23:24,021 --> 00:23:26,387
+Travis Hutchinson: focusing
+on the actual ranking of
+
+744
+00:23:26,387 --> 00:23:26,640
+Travis Hutchinson: it.
+
+745
+00:23:26,640 --> 00:23:28,904
+Travis Hutchinson: So we want
+to uprank comments that are
+
+746
+00:23:28,904 --> 00:23:30,730
+Travis Hutchinson: worthwhile
+and add it into the
+
+747
+00:23:30,730 --> 00:23:31,680
+Travis Hutchinson: conversation.
+
+748
+00:23:31,680 --> 00:23:34,880
+Travis Hutchinson: So these two pieces
+now you can see actually work together.
+
+749
+00:23:34,880 --> 00:23:36,312
+Travis Hutchinson: You want
+to convey the comments
+
+750
+00:23:36,312 --> 00:23:37,745
+Travis Hutchinson: that are
+perfect for you and you
+
+751
+00:23:37,745 --> 00:23:37,910
+Travis Hutchinson: and
+
+752
+00:23:37,910 --> 00:23:39,342
+Travis Hutchinson: you
+based on your experiences,
+
+753
+00:23:39,342 --> 00:23:40,720
+Travis Hutchinson: and then
+you want to reduce the
+
+754
+00:23:40,720 --> 00:23:43,805
+Travis Hutchinson: comments that are going
+to create a deleterious experience for you
+
+755
+00:23:43,805 --> 00:23:44,080
+Travis Hutchinson: guys.
+
+756
+00:23:44,080 --> 00:23:45,849
+Travis Hutchinson: The AI
+spot comments, the hateful
+
+757
+00:23:45,849 --> 00:23:47,176
+Travis Hutchinson: speech
+comments, all the
+
+758
+00:23:47,176 --> 00:23:47,872
+Travis Hutchinson: problematic
+
+759
+00:23:47,872 --> 00:23:49,515
+Travis Hutchinson: and we
+have, you know, plenty of
+
+760
+00:23:49,515 --> 00:23:51,284
+Travis Hutchinson: different
+policies across all of
+
+761
+00:23:51,284 --> 00:23:51,600
+Travis Hutchinson: this.
+
+762
+00:23:51,600 --> 00:23:55,212
+Travis Hutchinson: And so when you put
+all of these together, this is how we end
+
+763
+00:23:55,212 --> 00:23:59,200
+Travis Hutchinson: up with the extremely
+complicated ecosystem that is LinkedIn.
+
+764
+00:23:59,200 --> 00:24:00,800
+Travis Hutchinson: But I
+absolutely love it.
+
+765
+00:24:00,800 --> 00:24:03,040
+Travis Hutchinson: I wouldn't I
+wouldn't want to do anything else.
+
+766
+00:24:03,040 --> 00:24:04,749
+Travis Hutchinson: And I
+think every time I see you
+
+767
+00:24:04,749 --> 00:24:06,664
+Travis Hutchinson: know
+problematic comments being
+
+768
+00:24:06,664 --> 00:24:07,006
+Travis Hutchinson: taken
+
+769
+00:24:07,006 --> 00:24:08,852
+Travis Hutchinson: down or
+somebody having a really
+
+770
+00:24:08,852 --> 00:24:10,766
+Travis Hutchinson: good
+experience on the platform,
+
+771
+00:24:10,766 --> 00:24:10,903
+Travis Hutchinson: it
+
+772
+00:24:10,903 --> 00:24:12,680
+Travis Hutchinson: just
+makes my job uh and fills my
+
+773
+00:24:12,680 --> 00:24:14,800
+Travis Hutchinson: heart so
+it's absolutely fantastic.
+
+774
+00:24:14,800 --> 00:24:17,825
+Tim Jurka: Yeah I might I might just add
+a few things especially especially on
+
+775
+00:24:17,825 --> 00:24:20,685
+Tim Jurka: the iSlot, like, because we
+we just went through like a scamp on
+
+776
+00:24:20,685 --> 00:24:20,960
+Tim Jurka: this.
+
+777
+00:24:22,320 --> 00:24:23,680
+Tim Jurka: It is a challenging problem.
+
+778
+00:24:23,680 --> 00:24:25,120
+Tim Jurka: I think there's
+a lot of facets to it.
+
+779
+00:24:25,120 --> 00:24:27,120
+Tim Jurka: There's obviously
+kind of like the classifier bit.
+
+780
+00:24:27,360 --> 00:24:30,423
+Tim Jurka: We introduced a, it seems like
+the iSlot button like a few weeks ago,
+
+781
+00:24:30,423 --> 00:24:33,158
+Tim Jurka: trying to get some signal
+from the community because it's so
+
+782
+00:24:33,158 --> 00:24:33,760
+Tim Jurka: subjective.
+
+783
+00:24:33,760 --> 00:24:36,640
+Tim Jurka: Like like what what
+do you feel seems like AI slot?
+
+784
+00:24:36,640 --> 00:24:39,794
+Tim Jurka: We also have a global
+editorial team that helps us iterate on
+
+785
+00:24:39,794 --> 00:24:42,632
+Tim Jurka: the on the policies of
+like what is AI slot because it's
+
+786
+00:24:42,632 --> 00:24:43,200
+Tim Jurka: evolving.
+
+787
+00:24:43,200 --> 00:24:45,280
+Tim Jurka: This is like it's it's
+an adversarial thing though.
+
+788
+00:24:45,280 --> 00:24:48,543
+Tim Jurka: Like it's it's changing,
+you need to evolve, you need to
+
+789
+00:24:48,543 --> 00:24:52,160
+Tim Jurka: have these technologies
+available to really adapt quickly.
+
+790
+00:24:52,560 --> 00:24:56,449
+Tim Jurka: And so getting a little bit
+into like the weeds on AI slot because it
+
+791
+00:24:56,449 --> 00:25:00,480
+Tim Jurka: helps kind of illustrate how
+how we respond to these kinds of things.
+
+792
+00:25:01,360 --> 00:25:05,364
+Tim Jurka: We essentially take like a
+really, really, I'm thinking we were
+
+793
+00:25:05,364 --> 00:25:09,067
+Tim Jurka: like the largest LM you
+you can, pick your favorite from geo
+
+794
+00:25:09,067 --> 00:25:09,520
+Tim Jurka: model.
+
+795
+00:25:10,160 --> 00:25:14,678
+Tim Jurka: And we provided a lot of
+fine-tuned data from member reports, from
+
+796
+00:25:14,678 --> 00:25:18,949
+Tim Jurka: our editorial team, like
+all sorts of sources to say, here's AI
+
+797
+00:25:18,949 --> 00:25:19,360
+Tim Jurka: swap.
+
+798
+00:25:19,360 --> 00:25:21,567
+Tim Jurka: And we get to a
+point where like this this
+
+799
+00:25:21,567 --> 00:25:23,840
+Tim Jurka: LM can predict
+the X law pretty reliably.
+
+800
+00:25:24,320 --> 00:25:26,720
+Tim Jurka: The thing is you can
+never serve this thing online.
+
+801
+00:25:26,720 --> 00:25:30,451
+Tim Jurka: Like nobody wants to serve, you
+know, I don't know your your like some
+
+802
+00:25:30,451 --> 00:25:32,218
+Tim Jurka: 27 billion
+round or model online
+
+803
+00:25:32,218 --> 00:25:34,051
+Tim Jurka: like in
+production for the amount
+
+804
+00:25:34,051 --> 00:25:34,182
+Tim Jurka: of
+
+805
+00:25:34,182 --> 00:25:37,585
+Tim Jurka: queries per second that like
+come into length and feed it like a
+
+806
+00:25:37,585 --> 00:25:41,251
+Tim Jurka: billion members, like it's,
+it's, you'd melt a few few data centers
+
+807
+00:25:41,251 --> 00:25:41,840
+Tim Jurka: like that.
+
+808
+00:25:42,480 --> 00:25:44,051
+Tim Jurka: And so we essentially take this
+
+809
+00:25:44,051 --> 00:25:45,923
+Tim Jurka: approach where
+we we take that model,
+
+810
+00:25:45,923 --> 00:25:46,285
+Tim Jurka: we call
+
+811
+00:25:46,285 --> 00:25:49,668
+Tim Jurka: it a teacher model, and we take
+a much much smaller model that's like
+
+812
+00:25:49,668 --> 00:25:51,480
+Tim Jurka: efficient
+enough that can be served
+
+813
+00:25:51,480 --> 00:25:53,413
+Tim Jurka: online call
+that the student model and
+
+814
+00:25:53,413 --> 00:25:53,534
+Tim Jurka: we
+
+815
+00:25:53,534 --> 00:25:57,098
+Tim Jurka: essentially have the student
+model learn from the teacher model and it
+
+816
+00:25:57,098 --> 00:26:00,299
+Tim Jurka: distills down all this
+information to get into like a very small
+
+817
+00:26:00,299 --> 00:26:02,172
+Tim Jurka: representation
+and that's how we're
+
+818
+00:26:02,172 --> 00:26:03,561
+Tim Jurka: able to then have an AI small
+
+819
+00:26:03,561 --> 00:26:04,165
+Tim Jurka: classifier
+
+820
+00:26:04,165 --> 00:26:05,977
+Tim Jurka: that like the
+student model becomes
+
+821
+00:26:05,977 --> 00:26:07,729
+Tim Jurka: that and it
+can be served at like you
+
+822
+00:26:07,729 --> 00:26:07,971
+Tim Jurka: know
+
+823
+00:26:07,971 --> 00:26:09,360
+Tim Jurka: billion plus member scale.
+
+824
+00:26:09,920 --> 00:26:11,678
+Tim Jurka: And this is like
+a very rapid loop where
+
+825
+00:26:11,678 --> 00:26:13,545
+Tim Jurka: you can just like
+if if something changes
+
+826
+00:26:13,545 --> 00:26:15,303
+Tim Jurka: you provide a
+few more examples to your
+
+827
+00:26:15,303 --> 00:26:16,841
+Tim Jurka: teacher and
+you just till down the
+
+828
+00:26:16,841 --> 00:26:17,280
+Tim Jurka: student.
+
+829
+00:26:17,280 --> 00:26:19,880
+Tim Jurka: You just we do this
+like when we had our initial AI
+
+830
+00:26:19,880 --> 00:26:21,680
+Tim Jurka: slot sprint
+we did it in five days.
+
+831
+00:26:22,160 --> 00:26:24,103
+Tim Jurka: Five days and
+like people are like five
+
+832
+00:26:24,103 --> 00:26:25,864
+Tim Jurka: days to put
+the AI slot button in the
+
+833
+00:26:25,864 --> 00:26:26,106
+Tim Jurka: feed
+
+834
+00:26:26,106 --> 00:26:27,989
+Tim Jurka: like you guys
+are slow it's like no the
+
+835
+00:26:27,989 --> 00:26:29,931
+Tim Jurka: slot button took
+took like an hour like
+
+836
+00:26:29,931 --> 00:26:30,174
+Tim Jurka: it's
+
+837
+00:26:30,174 --> 00:26:31,935
+Tim Jurka: it's it's like
+getting the data and
+
+838
+00:26:31,935 --> 00:26:33,939
+Tim Jurka: stilling down
+the model that like sorry
+
+839
+00:26:33,939 --> 00:26:34,242
+Tim Jurka: but it
+
+840
+00:26:34,242 --> 00:26:36,064
+Tim Jurka: takes us you
+know a little bit of time
+
+841
+00:26:36,064 --> 00:26:37,946
+Tim Jurka: just to still
+that down a few training
+
+842
+00:26:37,946 --> 00:26:38,310
+Tim Jurka: cycles
+
+843
+00:26:38,310 --> 00:26:40,253
+Tim Jurka: a few iterations
+um but that's how like
+
+844
+00:26:40,253 --> 00:26:42,196
+Tim Jurka: we're super,
+super adaptive in in that
+
+845
+00:26:42,196 --> 00:26:42,560
+Tim Jurka: space.
+
+846
+00:26:43,680 --> 00:26:45,760
+Tim Jurka: Should we talk about ranking?
+
+847
+00:26:46,080 --> 00:26:46,480
+Travis Hutchinson: Yeah.
+
+848
+00:26:46,480 --> 00:26:49,040
+Tim Jurka: Is there anything else
+you want to talk about in treatment?
+
+849
+00:26:49,040 --> 00:26:50,800
+Travis Hutchinson: No, let's
+get into ranking again.
+
+850
+00:26:50,800 --> 00:26:51,440
+Tim Jurka: Alright.
+
+851
+00:26:52,000 --> 00:26:53,040
+Tim Jurka: So ranking.
+
+852
+00:26:53,040 --> 00:26:56,000
+Tim Jurka: So we we talked about like,
+okay, we we've identified the stuff
+
+853
+00:26:56,000 --> 00:26:58,789
+Tim Jurka: that's you know eligible
+for you that to that that we want to
+
+854
+00:26:58,789 --> 00:27:01,578
+Tim Jurka: service to you that's
+toply matched to you on the retrieval
+
+855
+00:27:01,578 --> 00:27:01,920
+Tim Jurka: stage.
+
+856
+00:27:02,720 --> 00:27:07,120
+Tim Jurka: So in ranking it's like how to
+make sure the absolute best stuff is in
+
+857
+00:27:07,120 --> 00:27:11,520
+Tim Jurka: position 1, 2, 3, 4, 5 to make
+like a really, really good feed for you.
+
+858
+00:27:12,160 --> 00:27:15,547
+Tim Jurka: And so, you know, I'm kind
+of curious, like, this is where a lot
+
+859
+00:27:15,547 --> 00:27:19,000
+Tim Jurka: of the product principles
+will start to shine through in terms
+
+860
+00:27:19,000 --> 00:27:22,320
+Tim Jurka: of like what do we expect
+the link compute to be about, right?
+
+861
+00:27:22,480 --> 00:27:24,711
+Tim Jurka: And so like
+if you were to like kind
+
+862
+00:27:24,711 --> 00:27:26,863
+Tim Jurka: of riff on
+like what is the actual
+
+863
+00:27:26,863 --> 00:27:27,182
+Tim Jurka: best
+
+864
+00:27:27,182 --> 00:27:29,413
+Tim Jurka: stuff that we
+want people to see in
+
+865
+00:27:29,413 --> 00:27:31,963
+Tim Jurka: general in
+position one like what is it
+
+866
+00:27:31,963 --> 00:27:32,282
+Tim Jurka: like
+
+867
+00:27:32,282 --> 00:27:34,911
+Tim Jurka: what kind of
+like creators are creating
+
+868
+00:27:34,911 --> 00:27:37,461
+Tim Jurka: that content
+like what kind of factors
+
+869
+00:27:37,461 --> 00:27:42,003
+Tim Jurka: factor into being in management
+for like a viewer on the website yeah
+
+870
+00:27:42,003 --> 00:27:42,880
+Tim Jurka: absolutely.
+
+871
+00:27:42,880 --> 00:27:47,840
+Travis Hutchinson: So we look at or we
+set principles across a bunch of domains.
+
+872
+00:27:47,840 --> 00:27:50,880
+Travis Hutchinson: I think the
+biggest one is authenticity, right?
+
+873
+00:27:50,880 --> 00:27:53,404
+Travis Hutchinson: We want
+the content that is showing
+
+874
+00:27:53,404 --> 00:27:55,840
+Travis Hutchinson: up to be
+authentic to that person,
+
+875
+00:27:55,840 --> 00:27:58,189
+Travis Hutchinson: to be
+original from that person,
+
+876
+00:27:58,189 --> 00:28:00,278
+Travis Hutchinson: and to
+be deeply insightful,
+
+877
+00:28:00,278 --> 00:28:00,800
+Travis Hutchinson: right?
+
+878
+00:28:00,800 --> 00:28:02,239
+Travis Hutchinson: And
+insight has a couple of
+
+879
+00:28:02,239 --> 00:28:04,070
+Travis Hutchinson: different
+meanings and we debate
+
+880
+00:28:04,070 --> 00:28:04,397
+Travis Hutchinson: this a
+
+881
+00:28:04,397 --> 00:28:06,162
+Travis Hutchinson: lot
+because some people believe
+
+882
+00:28:06,162 --> 00:28:07,797
+Travis Hutchinson: that,
+hey, you know, LinkedIn
+
+883
+00:28:07,797 --> 00:28:08,189
+Travis Hutchinson: should
+
+884
+00:28:08,189 --> 00:28:11,590
+Travis Hutchinson: only be, you know super
+professional kind of super buttoned up
+
+885
+00:28:11,590 --> 00:28:13,159
+Travis Hutchinson: content
+and I think over time
+
+886
+00:28:13,159 --> 00:28:14,925
+Travis Hutchinson: we've
+actually relaxed this and
+
+887
+00:28:14,925 --> 00:28:15,251
+Travis Hutchinson: we've
+
+888
+00:28:15,251 --> 00:28:18,652
+Travis Hutchinson: made a determination
+of hey whatever you find appropriate for
+
+889
+00:28:18,652 --> 00:28:20,548
+Travis Hutchinson: yourself
+on LinkedIn it's broadly
+
+890
+00:28:20,548 --> 00:28:22,510
+Travis Hutchinson: going to
+be professionally related
+
+891
+00:28:22,510 --> 00:28:24,275
+Travis Hutchinson: but if
+it ends up being some jokes
+
+892
+00:28:24,275 --> 00:28:26,172
+Travis Hutchinson: or someone
+like corporate Natalie
+
+893
+00:28:26,172 --> 00:28:29,638
+Travis Hutchinson: who's cracking jokes
+about the kind of corporate experience or
+
+894
+00:28:29,638 --> 00:28:30,880
+Travis Hutchinson: something that's very
+
+895
+00:28:30,880 --> 00:28:33,735
+Travis Hutchinson: serious about
+in-depth kind of three-tier ranking
+
+896
+00:28:33,735 --> 00:28:36,989
+Travis Hutchinson: systems, then like
+that's the appropriate determination
+
+897
+00:28:36,989 --> 00:28:37,520
+Travis Hutchinson: overall.
+
+898
+00:28:37,520 --> 00:28:39,545
+Travis Hutchinson: But we
+set a principle of saying,
+
+899
+00:28:39,545 --> 00:28:41,421
+Travis Hutchinson: hey, we
+want this to broadly be
+
+900
+00:28:41,421 --> 00:28:41,721
+Travis Hutchinson: kind
+
+901
+00:28:41,721 --> 00:28:43,971
+Travis Hutchinson: of
+professionally related, we want
+
+902
+00:28:43,971 --> 00:28:46,147
+Travis Hutchinson: this to
+be authentic, and we want to
+
+903
+00:28:46,147 --> 00:28:47,872
+Travis Hutchinson: make
+sure that um uh that our
+
+904
+00:28:47,872 --> 00:28:49,448
+Travis Hutchinson: individuals
+are having a
+
+905
+00:28:49,448 --> 00:28:50,198
+Travis Hutchinson: phenomenal
+
+906
+00:28:50,198 --> 00:28:51,923
+Travis Hutchinson: experience
+and so we look at
+
+907
+00:28:51,923 --> 00:28:54,174
+Travis Hutchinson: mentorings
+to make a determination
+
+908
+00:28:54,174 --> 00:28:54,549
+Travis Hutchinson: of how
+
+909
+00:28:54,549 --> 00:28:56,274
+Travis Hutchinson: is this
+content doing on the
+
+910
+00:28:56,274 --> 00:28:58,450
+Travis Hutchinson: platform
+for this individual kind
+
+911
+00:28:58,450 --> 00:28:58,600
+Travis Hutchinson: of
+
+912
+00:28:58,600 --> 00:28:59,200
+Travis Hutchinson: overall.
+
+913
+00:28:59,200 --> 00:29:03,411
+Tim Jurka: Yeah, and I mean behind the
+scenes to like actually like make this
+
+914
+00:29:03,411 --> 00:29:08,012
+Tim Jurka: determination, um, there's a
+lot that we've we've adapted from the LLM
+
+915
+00:29:08,012 --> 00:29:08,480
+Tim Jurka: space.
+
+916
+00:29:08,480 --> 00:29:10,614
+Tim Jurka: So if you
+think about like LLMs as,
+
+917
+00:29:10,614 --> 00:29:12,672
+Tim Jurka: you know, they essentially like
+
+918
+00:29:12,672 --> 00:29:13,206
+Tim Jurka: predict
+
+919
+00:29:13,206 --> 00:29:17,779
+Tim Jurka: strings of tokens tokens being
+words and then like we've built a bunch of
+
+920
+00:29:17,779 --> 00:29:19,989
+Tim Jurka: systems on top
+of this now to like do
+
+921
+00:29:19,989 --> 00:29:22,428
+Tim Jurka: reasoning etc
+um but if you think about
+
+922
+00:29:22,428 --> 00:29:24,944
+Tim Jurka: like elements
+being like hey I have this
+
+923
+00:29:24,944 --> 00:29:27,306
+Tim Jurka: word and I'm
+going to predict the next
+
+924
+00:29:27,306 --> 00:29:27,840
+Tim Jurka: X words.
+
+925
+00:29:28,480 --> 00:29:30,746
+Tim Jurka: When we start going
+to ranking, we've actually
+
+926
+00:29:30,746 --> 00:29:32,953
+Tim Jurka: built what we call
+just large-scale sequence
+
+927
+00:29:32,953 --> 00:29:33,360
+Tim Jurka: models.
+
+928
+00:29:33,440 --> 00:29:37,108
+Tim Jurka: And instead of the token being
+a word, it's actually like a post, a post
+
+929
+00:29:37,108 --> 00:29:39,132
+Tim Jurka: you've engaged
+with, a post you've you
+
+930
+00:29:39,132 --> 00:29:41,093
+Tim Jurka: know tech spent
+time reading and what
+
+931
+00:29:41,093 --> 00:29:42,927
+Tim Jurka: we're trying
+to predict is like you
+
+932
+00:29:42,927 --> 00:29:44,761
+Tim Jurka: know what
+rabbit hole are we taking
+
+933
+00:29:44,761 --> 00:29:44,951
+Tim Jurka: you
+
+934
+00:29:44,951 --> 00:29:48,809
+Tim Jurka: down professionally here uh did
+you start like researching like you know
+
+935
+00:29:48,809 --> 00:29:50,706
+Tim Jurka: nuclear reactors
+and now you want to
+
+936
+00:29:50,706 --> 00:29:52,604
+Tim Jurka: go deeper into
+like modular nuclear
+
+937
+00:29:52,604 --> 00:29:54,627
+Tim Jurka: reactors, like
+what's what's the path
+
+938
+00:29:54,627 --> 00:29:56,588
+Tim Jurka: of of information
+that you're kind of
+
+939
+00:29:56,588 --> 00:29:57,600
+Tim Jurka: like chasing down?
+
+940
+00:29:57,600 --> 00:29:59,435
+Tim Jurka: And it really
+tries to get at like that
+
+941
+00:29:59,435 --> 00:30:01,742
+Tim Jurka: intent, outcome,
+like what you're interested
+
+942
+00:30:01,742 --> 00:30:01,920
+Tim Jurka: in.
+
+943
+00:30:01,920 --> 00:30:04,083
+Tim Jurka: And so whereas
+like our retrieval systems
+
+944
+00:30:04,083 --> 00:30:06,307
+Tim Jurka: use LLMs and we
+use word representations to
+
+945
+00:30:06,307 --> 00:30:08,408
+Tim Jurka: understand what
+the content is about and
+
+946
+00:30:08,408 --> 00:30:10,447
+Tim Jurka: it's like is this
+roughly a good match of
+
+947
+00:30:10,447 --> 00:30:10,880
+Tim Jurka: Travis.
+
+948
+00:30:10,880 --> 00:30:13,899
+Tim Jurka: When we start getting into
+the first the ranking phase it's
+
+949
+00:30:13,899 --> 00:30:16,981
+Tim Jurka: about like, all right,
+what is the last thousand things that
+
+950
+00:30:16,981 --> 00:30:20,000
+Tim Jurka: Travis engaged with Red
+on LinkedIn, maybe the type of job.
+
+951
+00:30:20,000 --> 00:30:21,440
+Tim Jurka: Like what's what
+is he doing on LinkedIn?
+
+952
+00:30:21,600 --> 00:30:25,290
+Tim Jurka: Let's try to predict pieces
+of content that are going to support
+
+953
+00:30:25,290 --> 00:30:28,702
+Tim Jurka: him in his job search or
+or help him go deeper in a particular
+
+954
+00:30:28,702 --> 00:30:29,120
+Tim Jurka: topic.
+
+955
+00:30:29,760 --> 00:30:33,699
+Tim Jurka: And so a lot of the work that
+the team does is around how you actually
+
+956
+00:30:33,699 --> 00:30:35,775
+Tim Jurka: construct
+those sequences to make
+
+957
+00:30:35,775 --> 00:30:37,494
+Tim Jurka: sure that they represent and
+
+958
+00:30:37,494 --> 00:30:38,139
+Tim Jurka: represent
+
+959
+00:30:38,139 --> 00:30:38,640
+Tim Jurka: people.
+
+960
+00:30:38,800 --> 00:30:45,010
+Tim Jurka: One of the hardest problems
+is like in the absence of any sequence,
+
+961
+00:30:45,010 --> 00:30:46,763
+Tim Jurka: something interesting
+going up in the draft is
+
+962
+00:30:46,763 --> 00:30:48,425
+Tim Jurka: the in the absence
+of of having that sequence
+
+963
+00:30:48,425 --> 00:30:48,650
+Tim Jurka: data,
+
+964
+00:30:48,650 --> 00:30:50,975
+Tim Jurka: like you have to
+try to solve this kind of
+
+965
+00:30:50,975 --> 00:30:53,511
+Tim Jurka: like we call a
+cold star problem, something
+
+966
+00:30:53,511 --> 00:30:55,977
+Tim Jurka: kind of related
+to the fresh uh and we don't
+
+967
+00:30:55,977 --> 00:30:58,443
+Tim Jurka: know anything
+about them then i think like
+
+968
+00:30:58,443 --> 00:31:00,909
+Tim Jurka: i'm curious like
+what signals do we we do we
+
+969
+00:31:00,909 --> 00:31:03,375
+Tim Jurka: look at like in
+terms of i mean you probably
+
+970
+00:31:03,375 --> 00:31:05,911
+Tim Jurka: know this like
+what what are the things like
+
+971
+00:31:05,911 --> 00:31:08,377
+Tim Jurka: profile identity
+like like what what do we
+
+972
+00:31:08,377 --> 00:31:08,800
+Tim Jurka: look at
+
+973
+00:31:08,800 --> 00:31:12,640
+Tim Jurka: in in in the ColdStar case
+for for feed to attract on content?
+
+974
+00:31:12,640 --> 00:31:14,758
+Travis Hutchinson: Yeah,
+ColdStar I think is one of
+
+975
+00:31:14,758 --> 00:31:17,120
+Travis Hutchinson: the
+hardest problems overall when
+
+976
+00:31:17,120 --> 00:31:19,238
+Travis Hutchinson: you
+enter into the platform and
+
+977
+00:31:19,238 --> 00:31:21,356
+Travis Hutchinson: you
+never actually engage with
+
+978
+00:31:21,356 --> 00:31:21,600
+Travis Hutchinson: it.
+
+979
+00:31:22,240 --> 00:31:24,313
+Travis Hutchinson: So we have
+your profile and kind of all
+
+980
+00:31:24,313 --> 00:31:26,185
+Travis Hutchinson: the things
+that are listed on your
+
+981
+00:31:26,185 --> 00:31:26,720
+Travis Hutchinson: profile.
+
+982
+00:31:26,720 --> 00:31:28,559
+Travis Hutchinson: So if you say if
+you're a product manager, you're
+
+983
+00:31:28,559 --> 00:31:30,398
+Travis Hutchinson: more likely to
+receive product manager related
+
+984
+00:31:30,398 --> 00:31:30,720
+Travis Hutchinson: things.
+
+985
+00:31:30,800 --> 00:31:32,338
+Travis Hutchinson: If you're
+a creator, you're more
+
+986
+00:31:32,338 --> 00:31:33,761
+Travis Hutchinson: likely
+to see creator related
+
+987
+00:31:33,761 --> 00:31:34,160
+Travis Hutchinson: things.
+
+988
+00:31:34,160 --> 00:31:36,640
+Travis Hutchinson: And so we have
+a representation for the profile.
+
+989
+00:31:36,640 --> 00:31:39,233
+Tim Jurka: Which which which means by
+the way if you're like starting on
+
+990
+00:31:39,233 --> 00:31:42,084
+Tim Jurka: LinkedIn, whether you're like
+starting with some feed or you're a
+
+991
+00:31:42,084 --> 00:31:44,833
+Tim Jurka: creator starting link, you
+should have a profile that's filled
+
+992
+00:31:44,833 --> 00:31:45,040
+Tim Jurka: out.
+
+993
+00:31:45,120 --> 00:31:45,520
+Tim Jurka: Yes.
+
+994
+00:31:45,520 --> 00:31:47,509
+Tim Jurka: Because like
+because it it helps it
+
+995
+00:31:47,509 --> 00:31:49,223
+Tim Jurka: helps you it helps us match the
+
+996
+00:31:49,223 --> 00:31:49,840
+Tim Jurka: audience.
+
+997
+00:31:49,840 --> 00:31:52,640
+Tim Jurka: It helps you like get the
+feed that you're looking for, right?
+
+998
+00:31:52,640 --> 00:31:54,000
+Travis Hutchinson: Yeah, yeah, exactly.
+
+999
+00:31:54,000 --> 00:31:55,724
+Travis Hutchinson: And then we
+have a there's a machine learning
+
+1000
+00:31:55,724 --> 00:31:57,680
+Travis Hutchinson: technique that
+we call collaborative filtering.
+
+1001
+00:31:57,680 --> 00:32:01,000
+Travis Hutchinson: It's just a really
+fancy way of saying, um, let's say that
+
+1002
+00:32:01,000 --> 00:32:04,320
+Travis Hutchinson: Travis is new to the
+field, you don't know a ton about him.
+
+1003
+00:32:04,320 --> 00:32:10,000
+Travis Hutchinson: But Travis's profile
+is very similar to John's profile.
+
+1004
+00:32:10,000 --> 00:32:12,044
+Travis Hutchinson: And John
+is also a product manager
+
+1005
+00:32:12,044 --> 00:32:14,160
+Travis Hutchinson: who's
+also working in technology.
+
+1006
+00:32:14,160 --> 00:32:15,759
+Travis Hutchinson: So we're
+actually going to take a
+
+1007
+00:32:15,759 --> 00:32:17,476
+Travis Hutchinson: representation
+of John and look at
+
+1008
+00:32:17,476 --> 00:32:17,772
+Travis Hutchinson: other
+
+1009
+00:32:17,772 --> 00:32:19,430
+Travis Hutchinson: things
+that he's looked at and use
+
+1010
+00:32:19,430 --> 00:32:21,147
+Travis Hutchinson: that
+actually as a representation
+
+1011
+00:32:21,147 --> 00:32:21,325
+Travis Hutchinson: for
+
+1012
+00:32:21,325 --> 00:32:21,680
+Travis Hutchinson: track.
+
+1013
+00:32:21,680 --> 00:32:24,080
+Travis Hutchinson: So we call this
+broadly collaborative filtering.
+
+1014
+00:32:24,080 --> 00:32:26,084
+Travis Hutchinson: So between
+what you create it on the
+
+1015
+00:32:26,084 --> 00:32:27,674
+Travis Hutchinson: profile
+and then what other
+
+1016
+00:32:27,674 --> 00:32:28,435
+Travis Hutchinson: individuals
+
+1017
+00:32:28,435 --> 00:32:30,439
+Travis Hutchinson: similar
+to your profile do, then we
+
+1018
+00:32:30,439 --> 00:32:32,374
+Travis Hutchinson: begin to
+show you content based on
+
+1019
+00:32:32,374 --> 00:32:32,720
+Travis Hutchinson: that.
+
+1020
+00:32:32,720 --> 00:32:34,935
+Travis Hutchinson: And then
+based on your interactions
+
+1021
+00:32:34,935 --> 00:32:37,003
+Travis Hutchinson: with that,
+we begin to create what
+
+1022
+00:32:37,003 --> 00:32:38,406
+Travis Hutchinson: we call an embedding or
+
+1023
+00:32:38,406 --> 00:32:40,474
+Travis Hutchinson: representation
+of you overall on
+
+1024
+00:32:40,474 --> 00:32:41,360
+Travis Hutchinson: the platform.
+
+1025
+00:32:41,440 --> 00:32:44,080
+Tim Jurka: So I mean ranking
+is kind of like two phases.
+
+1026
+00:32:44,080 --> 00:32:46,240
+Tim Jurka: One is who are you?
+
+1027
+00:32:46,240 --> 00:32:47,600
+Tim Jurka: What's your
+professional identity?
+
+1028
+00:32:47,600 --> 00:32:49,082
+Tim Jurka: Try to what
+you're creating on the
+
+1029
+00:32:49,082 --> 00:32:50,775
+Tim Jurka: platform or
+you're using for the first
+
+1030
+00:32:50,775 --> 00:32:51,040
+Tim Jurka: time.
+
+1031
+00:32:51,040 --> 00:32:52,598
+Tim Jurka: We're trying
+to match on that um and
+
+1032
+00:32:52,598 --> 00:32:54,264
+Tim Jurka: then as you use
+the the product like we
+
+1033
+00:32:54,264 --> 00:32:54,425
+Tim Jurka: get
+
+1034
+00:32:54,425 --> 00:32:56,144
+Tim Jurka: these signals
+construct a sequence to
+
+1035
+00:32:56,144 --> 00:32:57,863
+Tim Jurka: say like where
+are you going what's the
+
+1036
+00:32:57,863 --> 00:32:59,636
+Tim Jurka: outcome what's
+what's your heading and
+
+1037
+00:32:59,636 --> 00:33:01,302
+Tim Jurka: let us help you
+there let us like start
+
+1038
+00:33:01,302 --> 00:33:03,021
+Tim Jurka: servicing voices
+that are going to run
+
+1039
+00:33:03,021 --> 00:33:04,794
+Tim Jurka: alongside you
+on that trajectory, give
+
+1040
+00:33:04,794 --> 00:33:04,956
+Tim Jurka: you
+
+1041
+00:33:04,956 --> 00:33:06,675
+Tim Jurka: perspectives
+that are going to help if
+
+1042
+00:33:06,675 --> 00:33:08,233
+Tim Jurka: you're looking
+for a job, if you're
+
+1043
+00:33:08,233 --> 00:33:08,663
+Tim Jurka: starting
+
+1044
+00:33:08,663 --> 00:33:09,200
+Tim Jurka: a business.
+
+1045
+00:33:09,200 --> 00:33:12,880
+Tim Jurka: Let's get those people
+running alongside you wherever
+
+1046
+00:33:12,880 --> 00:33:16,320
+Tim Jurka: they may exist in in
+the 1 billion plus like network.
+
+1047
+00:33:16,320 --> 00:33:17,869
+Travis Hutchinson: So we've
+been talking a lot about,
+
+1048
+00:33:17,869 --> 00:33:19,585
+Travis Hutchinson: you know,
+technical, we talked about
+
+1049
+00:33:19,585 --> 00:33:21,300
+Travis Hutchinson: retrieval,
+because we really wanted
+
+1050
+00:33:21,300 --> 00:33:22,960
+Travis Hutchinson: you guys
+to understand the sausage.
+
+1051
+00:33:22,960 --> 00:33:26,490
+Travis Hutchinson: But now we want to
+talk a little bit about, you know, Tim,
+
+1052
+00:33:26,490 --> 00:33:29,789
+Travis Hutchinson: what advice do we
+have for individuals who want to be
+
+1053
+00:33:29,789 --> 00:33:30,480
+Travis Hutchinson: creators?
+
+1054
+00:33:30,480 --> 00:33:34,111
+Travis Hutchinson: What kind of
+content or what kind of formats or how
+
+1055
+00:33:34,111 --> 00:33:37,920
+Travis Hutchinson: should they be
+thinking about hosting on LinkedIn?
+
+1056
+00:33:38,480 --> 00:33:40,765
+Travis Hutchinson: And then we'll
+start right there and then go off into
+
+1057
+00:33:40,765 --> 00:33:43,262
+Travis Hutchinson: the kind of the
+creator domain to help people understand
+
+1058
+00:33:43,262 --> 00:33:45,760
+Travis Hutchinson: how their concept
+is going to get distribution process.
+
+1059
+00:33:46,000 --> 00:33:47,379
+Tim Jurka: I mean if
+Tiffany is an audience
+
+1060
+00:33:47,379 --> 00:33:48,758
+Tim Jurka: maybe she'd
+make it but like she
+
+1061
+00:33:48,758 --> 00:33:49,076
+Tim Jurka: should
+
+1062
+00:33:49,076 --> 00:33:52,152
+Tim Jurka: just give this page because she
+gave it to me yesterday so she could she
+
+1063
+00:33:52,152 --> 00:33:55,228
+Tim Jurka: could probably do it way better
+than I can in a much more inspirational
+
+1064
+00:33:55,228 --> 00:33:55,440
+Tim Jurka: way.
+
+1065
+00:33:55,840 --> 00:33:57,920
+Tim Jurka: I mean I think I
+think there's a few things.
+
+1066
+00:33:58,880 --> 00:34:02,480
+Tim Jurka: First of all, and this ties
+back to like how we started here.
+
+1067
+00:34:03,280 --> 00:34:05,460
+Tim Jurka: Like your authentic
+
+1068
+00:34:05,460 --> 00:34:06,720
+Tim Jurka: self.
+
+1069
+00:34:06,720 --> 00:34:09,360
+Tim Jurka: I mean, like, people
+create authenticity, especially now.
+
+1070
+00:34:09,440 --> 00:34:12,850
+Tim Jurka: Like like the the entire
+world is a wash in AI stuff and
+
+1071
+00:34:12,850 --> 00:34:15,873
+Tim Jurka: like people are
+just craving human connection
+
+1072
+00:34:15,873 --> 00:34:16,880
+Tim Jurka: authenticity.
+
+1073
+00:34:16,880 --> 00:34:19,245
+Tim Jurka: Like is this a
+real perspective you had or
+
+1074
+00:34:19,245 --> 00:34:21,680
+Tim Jurka: did you dump the
+Chat GPT out with the bank?
+
+1075
+00:34:22,160 --> 00:34:24,640
+Tim Jurka: And so authenticity
+is big on LinkedIn.
+
+1076
+00:34:24,880 --> 00:34:26,433
+Tim Jurka: We obviously
+have, you know, 100
+
+1077
+00:34:26,433 --> 00:34:28,043
+Tim Jurka: million plus
+verified members on
+
+1078
+00:34:28,043 --> 00:34:28,560
+Tim Jurka: LinkedIn.
+
+1079
+00:34:28,960 --> 00:34:30,543
+Tim Jurka: That means
+they are real people who
+
+1080
+00:34:30,543 --> 00:34:32,018
+Tim Jurka: have verified
+that they are real
+
+1081
+00:34:32,018 --> 00:34:32,400
+Tim Jurka: people.
+
+1082
+00:34:32,400 --> 00:34:37,453
+Tim Jurka: This is not some somebody who
+paid, you know, for, you know, a blue
+
+1083
+00:34:37,453 --> 00:34:42,413
+Tim Jurka: check mark um and it needs to
+be real um sorry for the shade um uh so
+
+1084
+00:34:42,413 --> 00:34:42,600
+Tim Jurka: so
+
+1085
+00:34:42,600 --> 00:34:47,536
+Tim Jurka: authenticity is huge um I think
+the next thing is like give back give
+
+1086
+00:34:47,536 --> 00:34:52,119
+Tim Jurka: back to your network um you
+know network is something that's so
+
+1087
+00:34:52,119 --> 00:34:54,675
+Tim Jurka: freaking
+valuable um that people I
+
+1088
+00:34:54,675 --> 00:34:57,231
+Tim Jurka: mean like
+people tap into this in in
+
+1089
+00:34:57,231 --> 00:35:01,814
+Tim Jurka: in the moments in the when
+we were talking with like SMB owners,
+
+1090
+00:35:01,814 --> 00:35:02,960
+Tim Jurka: entrepreneurs
+
+1091
+00:35:02,960 --> 00:35:06,640
+Tim Jurka: yesterday, it's like I tap into
+my network because I need something now.
+
+1092
+00:35:06,960 --> 00:35:09,360
+Tim Jurka: But that means that like you
+can't always just take from that network.
+
+1093
+00:35:09,360 --> 00:35:10,160
+Tim Jurka: You have to give back.
+
+1094
+00:35:10,160 --> 00:35:13,337
+Tim Jurka: Give back the perspectives,
+give back the problems you solve, give
+
+1095
+00:35:13,337 --> 00:35:16,400
+Tim Jurka: back how you're building
+because you don't know like you may have
+
+1096
+00:35:16,400 --> 00:35:19,463
+Tim Jurka: solved that problem but that
+might be the path for somebody who's
+
+1097
+00:35:19,463 --> 00:35:22,413
+Tim Jurka: just right behind you and is
+like where where do I go where do I go
+
+1098
+00:35:22,413 --> 00:35:22,640
+Tim Jurka: now?
+
+1099
+00:35:23,040 --> 00:35:24,800
+Tim Jurka: Actually like this
+is a probably good moment.
+
+1100
+00:35:24,800 --> 00:35:26,564
+Tim Jurka: We we just had
+our intern class um at
+
+1101
+00:35:26,564 --> 00:35:28,693
+Tim Jurka: LinkedIn and I do
+I do ground back sessions
+
+1102
+00:35:28,693 --> 00:35:29,118
+Tim Jurka: with all
+
+1103
+00:35:29,118 --> 00:35:31,125
+Tim Jurka: our interns and
+I was just like how's the
+
+1104
+00:35:31,125 --> 00:35:33,193
+Tim Jurka: summer going like
+what could we do better
+
+1105
+00:35:33,193 --> 00:35:33,437
+Tim Jurka: like
+
+1106
+00:35:33,437 --> 00:35:35,505
+Tim Jurka: what are you doing
+and like first of all it
+
+1107
+00:35:35,505 --> 00:35:37,633
+Tim Jurka: was awkward
+because like sometimes we're
+
+1108
+00:35:37,633 --> 00:35:37,998
+Tim Jurka: scared
+
+1109
+00:35:37,998 --> 00:35:40,066
+Tim Jurka: to speak up because
+they're like, am I not
+
+1110
+00:35:40,066 --> 00:35:42,134
+Tim Jurka: gonna get an offer
+or like am I supposed to
+
+1111
+00:35:42,134 --> 00:35:42,256
+Tim Jurka: be
+
+1112
+00:35:42,256 --> 00:35:42,560
+Tim Jurka: like?
+
+1113
+00:35:42,560 --> 00:35:44,240
+Tim Jurka: Safe space, safe space.
+
+1114
+00:35:44,240 --> 00:35:48,037
+Tim Jurka: Um and they're like,
+hey, I'm in college right now and
+
+1115
+00:35:48,037 --> 00:35:51,920
+Tim Jurka: freaking every professor's
+telling me I can't use AI.
+
+1116
+00:35:51,920 --> 00:35:54,080
+Tim Jurka: They're like,
+ple,ase please don't.
+
+1117
+00:35:54,080 --> 00:35:56,021
+Tim Jurka: And then you're I'm
+coming to LinkedIn and you're like,
+
+1118
+00:35:56,021 --> 00:35:57,920
+Tim Jurka: if you don't use AI,
+you're not going to get a job offer.
+
+1119
+00:35:57,920 --> 00:36:00,800
+Tim Jurka: Like, like, like,
+how do I reconcile this?
+
+1120
+00:36:00,800 --> 00:36:04,069
+Tim Jurka: And the fact is, there are
+tons of people who have internships or
+
+1121
+00:36:04,069 --> 00:36:07,584
+Tim Jurka: have just started at like a
+companies who have been onboarding these
+
+1122
+00:36:07,584 --> 00:36:11,100
+Tim Jurka: companies and understand the
+expectations that have been changing
+
+1123
+00:36:11,100 --> 00:36:14,307
+Tim Jurka: over the last 12, 18, 24
+months and they've been changing super
+
+1124
+00:36:14,307 --> 00:36:14,800
+Tim Jurka: rapidly.
+
+1125
+00:36:14,800 --> 00:36:18,566
+Tim Jurka: I mean CLI, competent
+CLI, plot CLI, post started
+
+1126
+00:36:18,566 --> 00:36:22,240
+Tim Jurka: in January, like
+those went up around a year ago.
+
+1127
+00:36:22,800 --> 00:36:24,460
+Tim Jurka: And so if if
+they can get access to
+
+1128
+00:36:24,460 --> 00:36:26,550
+Tim Jurka: those perspectives
+on LinkedIn, people
+
+1129
+00:36:26,550 --> 00:36:26,734
+Tim Jurka: who
+
+1130
+00:36:26,734 --> 00:36:28,456
+Tim Jurka: have literally
+just crossed that
+
+1131
+00:36:28,456 --> 00:36:30,362
+Tim Jurka: boundary and
+they understand what's
+
+1132
+00:36:30,362 --> 00:36:30,915
+Tim Jurka: inspected
+
+1133
+00:36:30,915 --> 00:36:34,542
+Tim Jurka: on them well before they even
+enter the workforce maybe like as they're
+
+1134
+00:36:34,542 --> 00:36:36,325
+Tim Jurka: graduating
+or in their senior year
+
+1135
+00:36:36,325 --> 00:36:38,169
+Tim Jurka: they're like
+got it like this is what
+
+1136
+00:36:38,169 --> 00:36:38,538
+Tim Jurka: caused
+
+1137
+00:36:38,538 --> 00:36:40,567
+Tim Jurka: me to operate
+that's super valuable and
+
+1138
+00:36:40,567 --> 00:36:42,534
+Tim Jurka: we just need
+people to be giving back to
+
+1139
+00:36:42,534 --> 00:36:44,439
+Tim Jurka: that network
+giving back um to people
+
+1140
+00:36:44,439 --> 00:36:46,345
+Tim Jurka: who are going
+to be following in their
+
+1141
+00:36:46,345 --> 00:36:46,960
+Tim Jurka: footsteps.
+
+1142
+00:36:47,600 --> 00:36:51,680
+Tim Jurka: And the last actually like the
+last is like just working around AISOL.
+
+1143
+00:36:51,680 --> 00:36:54,953
+Tim Jurka: Like AI not
+being a ghostwriter, you
+
+1144
+00:36:54,953 --> 00:36:58,007
+Tim Jurka: know, using
+AI for editing object
+
+1145
+00:36:58,007 --> 00:36:58,880
+Tim Jurka: writing.
+
+1146
+00:36:59,520 --> 00:37:01,733
+Tim Jurka: Actually like
+you're better talk to
+
+1147
+00:37:01,733 --> 00:37:03,576
+Tim Jurka: this than I
+am because I see you
+
+1148
+00:37:03,576 --> 00:37:04,093
+Tim Jurka: hanging
+
+1149
+00:37:04,093 --> 00:37:06,305
+Tim Jurka: your head in
+your hands and it is just
+
+1150
+00:37:06,305 --> 00:37:08,591
+Tim Jurka: like, man, like
+the things I feel like
+
+1151
+00:37:08,591 --> 00:37:08,739
+Tim Jurka: so
+
+1152
+00:37:08,739 --> 00:37:11,025
+Tim Jurka: I mean you talk
+a little bit about like
+
+1153
+00:37:11,025 --> 00:37:13,385
+Tim Jurka: you know the
+the AI authenticity thing
+
+1154
+00:37:13,385 --> 00:37:15,450
+Tim Jurka: like how how
+do you actually use AI
+
+1155
+00:37:15,450 --> 00:37:17,884
+Tim Jurka: effectively
+without coming off as like
+
+1156
+00:37:17,884 --> 00:37:17,964
+Tim Jurka: a
+
+1157
+00:37:17,964 --> 00:37:18,400
+Tim Jurka: robot?
+
+1158
+00:37:18,400 --> 00:37:20,880
+Travis Hutchinson: Yeah
+it's a difficult problem.
+
+1159
+00:37:21,600 --> 00:37:25,685
+Travis Hutchinson: So broadly speaking,
+the advice that we give is to you
+
+1160
+00:37:25,685 --> 00:37:29,863
+Travis Hutchinson: can use AI absolutely,
+but make sure before you hit the
+
+1161
+00:37:29,863 --> 00:37:33,949
+Travis Hutchinson: comment button or
+the post button that it sounds like
+
+1162
+00:37:33,949 --> 00:37:34,320
+Travis Hutchinson: you.
+
+1163
+00:37:34,320 --> 00:37:37,360
+Travis Hutchinson: Like, is this
+something that John would say?
+
+1164
+00:37:37,360 --> 00:37:40,080
+Travis Hutchinson: And if the
+answer is no, please don't post it.
+
+1165
+00:37:40,080 --> 00:37:42,480
+Travis Hutchinson: Like,
+just just don't post it.
+
+1166
+00:37:42,480 --> 00:37:45,217
+Travis Hutchinson: And the reason
+is I was speaking earlier about ST
+
+1167
+00:37:45,217 --> 00:37:48,432
+Travis Hutchinson: classifiers is we
+actively want to make sure that that's
+
+1168
+00:37:48,432 --> 00:37:51,784
+Travis Hutchinson: the kind of content
+that's not perforating throughout the
+
+1169
+00:37:51,784 --> 00:37:52,400
+Travis Hutchinson: platform.
+
+1170
+00:37:52,400 --> 00:37:56,004
+Travis Hutchinson: And so make sure it has
+your own voice, make sure it's not using
+
+1171
+00:37:56,004 --> 00:37:57,630
+Travis Hutchinson: kind of
+telltale signs of AI
+
+1172
+00:37:57,630 --> 00:37:59,255
+Travis Hutchinson: broadly,
+and make sure it's
+
+1173
+00:37:59,255 --> 00:37:59,821
+Travis Hutchinson: adding to
+
+1174
+00:37:59,821 --> 00:38:03,708
+Travis Hutchinson: the actual conversation
+the number of comments that we see that's
+
+1175
+00:38:03,708 --> 00:38:05,546
+Travis Hutchinson: just
+repeating the post back is
+
+1176
+00:38:05,546 --> 00:38:07,242
+Travis Hutchinson: like it
+it's it's it's far too
+
+1177
+00:38:07,242 --> 00:38:07,524
+Travis Hutchinson: many
+
+1178
+00:38:07,524 --> 00:38:09,009
+Travis Hutchinson: at this
+point and so we're
+
+1179
+00:38:09,009 --> 00:38:10,987
+Travis Hutchinson: actively
+trying to kind of reduce
+
+1180
+00:38:10,987 --> 00:38:11,270
+Travis Hutchinson: that
+
+1181
+00:38:11,270 --> 00:38:12,754
+Travis Hutchinson: overall
+um and to create a
+
+1182
+00:38:12,754 --> 00:38:14,592
+Travis Hutchinson: bigger
+better experience um on
+
+1183
+00:38:14,592 --> 00:38:14,804
+Travis Hutchinson: the
+
+1184
+00:38:14,804 --> 00:38:15,440
+Travis Hutchinson: platform.
+
+1185
+00:38:15,440 --> 00:38:18,306
+Tim Jurka: We've actually, I mean, just
+through the stuff that you and I've
+
+1186
+00:38:18,306 --> 00:38:20,956
+Tim Jurka: been working on, like
+reduced to like 40% of the first time,
+
+1187
+00:38:20,956 --> 00:38:21,280
+Tim Jurka: right?
+
+1188
+00:38:21,280 --> 00:38:23,600
+Tim Jurka: Like 40% slow
+reviews on the actual.
+
+1189
+00:38:23,600 --> 00:38:24,880
+Travis Hutchinson: Yeah,
+that's exactly right.
+
+1190
+00:38:24,880 --> 00:38:26,618
+Travis Hutchinson: And we're
+actually in the midst of
+
+1191
+00:38:26,618 --> 00:38:28,356
+Travis Hutchinson: ranking
+something right now that
+
+1192
+00:38:28,356 --> 00:38:31,583
+Travis Hutchinson: we're actually probably
+gonna drop it even more on AI slot more
+
+1193
+00:38:31,583 --> 00:38:32,080
+Travis Hutchinson: commons.
+
+1194
+00:38:32,400 --> 00:38:34,140
+Travis Hutchinson: So know
+that this is something that
+
+1195
+00:38:34,140 --> 00:38:36,000
+Travis Hutchinson: we are
+actively actively working on.
+
+1196
+00:38:36,240 --> 00:38:38,480
+Travis Hutchinson: A couple
+other things for creators.
+
+1197
+00:38:38,880 --> 00:38:41,468
+Travis Hutchinson: Think
+about what you are trying to
+
+1198
+00:38:41,468 --> 00:38:43,778
+Travis Hutchinson: say as a
+medium that fits it the
+
+1199
+00:38:43,778 --> 00:38:44,240
+Travis Hutchinson: best.
+
+1200
+00:38:44,240 --> 00:38:46,276
+Travis Hutchinson: So not
+everything has to be a video and
+
+1201
+00:38:46,276 --> 00:38:48,246
+Travis Hutchinson: not
+everything has to be a textbook,
+
+1202
+00:38:48,246 --> 00:38:48,640
+Travis Hutchinson: right?
+
+1203
+00:38:48,640 --> 00:38:50,706
+Travis Hutchinson: If you
+have an idea that's best
+
+1204
+00:38:50,706 --> 00:38:52,936
+Travis Hutchinson: conveyed
+by images, go ahead and
+
+1205
+00:38:52,936 --> 00:38:53,350
+Travis Hutchinson: post a
+
+1206
+00:38:53,350 --> 00:38:55,498
+Travis Hutchinson: carousel
+and post three images
+
+1207
+00:38:55,498 --> 00:38:57,894
+Travis Hutchinson: related
+to your idea and put a topic
+
+1208
+00:38:57,894 --> 00:38:58,224
+Travis Hutchinson: line
+
+1209
+00:38:58,224 --> 00:38:58,720
+Travis Hutchinson: above.
+
+1210
+00:38:58,960 --> 00:39:02,560
+Travis Hutchinson: If you're posting
+a video, absolutely post a video.
+
+1211
+00:39:02,560 --> 00:39:04,000
+Travis Hutchinson: Make sure
+to use burning captions.
+
+1212
+00:39:04,080 --> 00:39:07,195
+Travis Hutchinson: Burning captions just
+tend to do extremely well because uh
+
+1213
+00:39:07,195 --> 00:39:10,310
+Travis Hutchinson: it's something like
+50 plus percent of users are not always
+
+1214
+00:39:10,310 --> 00:39:13,171
+Travis Hutchinson: listening to the,
+they're they're not listening to it
+
+1215
+00:39:13,171 --> 00:39:13,680
+Travis Hutchinson: audibly.
+
+1216
+00:39:13,680 --> 00:39:15,440
+Travis Hutchinson: And so they're
+looking at it on their phone.
+
+1217
+00:39:15,440 --> 00:39:17,800
+Travis Hutchinson: And so
+providing burning captions
+
+1218
+00:39:17,800 --> 00:39:20,160
+Travis Hutchinson: provides
+a bunch of context for us.
+
+1219
+00:39:20,160 --> 00:39:21,680
+Tim Jurka: Also helps
+attempt accessibility.
+
+1220
+00:39:21,680 --> 00:39:23,760
+Travis Hutchinson: And it helps
+attempt with accessibility, exactly.
+
+1221
+00:39:23,760 --> 00:39:24,240
+Travis Hutchinson: Right.
+
+1222
+00:39:24,720 --> 00:39:26,542
+Travis Hutchinson: Oftentimes
+another thing is if
+
+1223
+00:39:26,542 --> 00:39:28,575
+Travis Hutchinson: you're
+posting a video, sometimes
+
+1224
+00:39:28,575 --> 00:39:28,856
+Travis Hutchinson: it's
+
+1225
+00:39:28,856 --> 00:39:31,169
+Travis Hutchinson: worthwhile
+to actually put a caption or
+
+1226
+00:39:31,169 --> 00:39:33,272
+Travis Hutchinson: a couple
+of texts above it in order to
+
+1227
+00:39:33,272 --> 00:39:34,954
+Travis Hutchinson: give the
+classifier a better
+
+1228
+00:39:34,954 --> 00:39:37,197
+Travis Hutchinson: representation
+of kind of what you're
+
+1229
+00:39:37,197 --> 00:39:37,688
+Travis Hutchinson: talking
+
+1230
+00:39:37,688 --> 00:39:39,790
+Travis Hutchinson: about and
+to give people a sense when
+
+1231
+00:39:39,790 --> 00:39:41,963
+Travis Hutchinson: they come
+to the actual post, oh, this
+
+1232
+00:39:41,963 --> 00:39:43,646
+Travis Hutchinson: is what
+this is about and then
+
+1233
+00:39:43,646 --> 00:39:45,749
+Travis Hutchinson: actually
+being able to view through
+
+1234
+00:39:45,749 --> 00:39:46,309
+Travis Hutchinson: the video
+
+1235
+00:39:46,309 --> 00:39:46,800
+Travis Hutchinson: as well.
+
+1236
+00:39:46,800 --> 00:39:50,080
+Travis Hutchinson: So and then the
+last piece is um is consistency.
+
+1237
+00:39:50,080 --> 00:39:51,903
+Travis Hutchinson: I think
+it's important to show up
+
+1238
+00:39:51,903 --> 00:39:53,929
+Travis Hutchinson: consistently
+to discuss your ideas
+
+1239
+00:39:53,929 --> 00:39:54,131
+Travis Hutchinson: and
+
+1240
+00:39:54,131 --> 00:39:56,089
+Travis Hutchinson: rather
+than considering it as, oh,
+
+1241
+00:39:56,089 --> 00:39:58,115
+Travis Hutchinson: I'm becoming
+a creator or something
+
+1242
+00:39:58,115 --> 00:39:58,250
+Travis Hutchinson: of
+
+1243
+00:39:58,250 --> 00:40:00,006
+Travis Hutchinson: the sort
+it's much more of oh I'm
+
+1244
+00:40:00,006 --> 00:40:01,896
+Travis Hutchinson: adding
+to the conversation about
+
+1245
+00:40:01,896 --> 00:40:02,166
+Travis Hutchinson: this
+
+1246
+00:40:02,166 --> 00:40:03,989
+Travis Hutchinson: subject
+matter I'm adding to the
+
+1247
+00:40:03,989 --> 00:40:05,610
+Travis Hutchinson: conversation
+about product
+
+1248
+00:40:05,610 --> 00:40:06,285
+Travis Hutchinson: management
+
+1249
+00:40:06,285 --> 00:40:08,378
+Travis Hutchinson: I'm adding
+to the conversation about
+
+1250
+00:40:08,378 --> 00:40:10,404
+Travis Hutchinson: media or
+entertainment or whatever
+
+1251
+00:40:10,404 --> 00:40:12,294
+Travis Hutchinson: domain
+that you're in or whatever
+
+1252
+00:40:12,294 --> 00:40:13,915
+Travis Hutchinson: domain
+that you want to be in,
+
+1253
+00:40:13,915 --> 00:40:14,320
+Travis Hutchinson: right?
+
+1254
+00:40:14,320 --> 00:40:16,654
+Travis Hutchinson: And that'll
+come in posts sometimes and
+
+1255
+00:40:16,654 --> 00:40:19,200
+Travis Hutchinson: sometimes
+that'll add comments comments.
+
+1256
+00:40:19,600 --> 00:40:21,839
+Travis Hutchinson: And so I
+think between those we should
+
+1257
+00:40:21,839 --> 00:40:24,222
+Travis Hutchinson: you know
+we're already seeing a massive
+
+1258
+00:40:24,222 --> 00:40:26,533
+Travis Hutchinson: growth for
+kind of creators overall on
+
+1259
+00:40:26,533 --> 00:40:28,772
+Travis Hutchinson: the platform
+and so I think people are
+
+1260
+00:40:28,772 --> 00:40:30,938
+Travis Hutchinson: really
+beginning to get the message
+
+1261
+00:40:30,938 --> 00:40:32,960
+Travis Hutchinson: about uh
+growing both growing as a
+
+1262
+00:40:32,960 --> 00:40:33,466
+Travis Hutchinson: creator
+
+1263
+00:40:33,466 --> 00:40:35,344
+Travis Hutchinson: as well
+as kind of growing their
+
+1264
+00:40:35,344 --> 00:40:37,799
+Travis Hutchinson: professional
+kind of network across the
+
+1265
+00:40:37,799 --> 00:40:38,160
+Travis Hutchinson: game.
+
+1266
+00:40:38,160 --> 00:40:41,104
+Tim Jurka: Yeah, and I mean on that,
+like, you you listed a lot of things that
+
+1267
+00:40:41,104 --> 00:40:43,993
+Tim Jurka: like, you know, I think we
+can try to do to kind of game, game that
+
+1268
+00:40:43,993 --> 00:40:44,160
+Tim Jurka: go.
+
+1269
+00:40:44,720 --> 00:40:46,552
+Tim Jurka: And it's like
+it's not, honestly, it's
+
+1270
+00:40:46,552 --> 00:40:48,269
+Tim Jurka: like it's a
+losing battle to to trend
+
+1271
+00:40:48,269 --> 00:40:48,441
+Tim Jurka: the
+
+1272
+00:40:48,441 --> 00:40:50,215
+Tim Jurka: imaging that
+but like what what trend
+
+1273
+00:40:50,215 --> 00:40:52,104
+Tim Jurka: works today is
+not necessarily going to
+
+1274
+00:40:52,104 --> 00:40:52,333
+Tim Jurka: work
+
+1275
+00:40:52,333 --> 00:40:54,336
+Tim Jurka: tomorrow um like
+ultimately like you know
+
+1276
+00:40:54,336 --> 00:40:56,225
+Tim Jurka: we talk a lot
+about like our systems that
+
+1277
+00:40:56,225 --> 00:40:58,171
+Tim Jurka: are thinking
+we're treatable for making
+
+1278
+00:40:58,171 --> 00:40:59,888
+Tim Jurka: like what we're
+trying to do and like
+
+1279
+00:40:59,888 --> 00:41:00,117
+Tim Jurka: what
+
+1280
+00:41:00,117 --> 00:41:02,121
+Tim Jurka: our engineering
+product teams are trying
+
+1281
+00:41:02,121 --> 00:41:03,952
+Tim Jurka: to do every
+single day is make sure that
+
+1282
+00:41:03,952 --> 00:41:05,727
+Tim Jurka: we're surfacing
+the most insightful
+
+1283
+00:41:05,727 --> 00:41:07,730
+Tim Jurka: content, the
+stuff that's authentic, the
+
+1284
+00:41:07,730 --> 00:41:08,016
+Tim Jurka: stuff
+
+1285
+00:41:08,016 --> 00:41:09,905
+Tim Jurka: that meets people
+at their moment, that
+
+1286
+00:41:09,905 --> 00:41:11,279
+Tim Jurka: is like resonating starting
+
+1287
+00:41:11,279 --> 00:41:12,080
+Tim Jurka: conversations.
+
+1288
+00:41:12,080 --> 00:41:14,551
+Tim Jurka: And like, you
+know, I've seen every
+
+1289
+00:41:14,551 --> 00:41:16,937
+Tim Jurka: friggin' myth
+uh because like put
+
+1290
+00:41:16,937 --> 00:41:17,277
+Tim Jurka: your
+
+1291
+00:41:17,277 --> 00:41:19,919
+Tim Jurka: link in the
+comment or, you know, like
+
+1292
+00:41:19,919 --> 00:41:22,560
+Tim Jurka: there's like
+there's like 50 others.
+
+1293
+00:41:22,560 --> 00:41:26,160
+Tim Jurka: Like, these things work
+one day, they don't work the next.
+
+1294
+00:41:26,160 --> 00:41:28,240
+Tim Jurka: Like there's no
+correlation between these things.
+
+1295
+00:41:28,560 --> 00:41:30,861
+Tim Jurka: And so it's really
+about kind of staying true to
+
+1296
+00:41:30,861 --> 00:41:33,280
+Tim Jurka: to what the professional
+network is trying to do.
+
+1297
+00:41:33,280 --> 00:41:36,166
+Tim Jurka: Like treat this like,
+you know, if if this professional
+
+1298
+00:41:36,166 --> 00:41:39,053
+Tim Jurka: network is a really
+well-run workplace, professional
+
+1299
+00:41:39,053 --> 00:41:39,680
+Tim Jurka: workplace.
+
+1300
+00:41:39,680 --> 00:41:40,800
+Tim Jurka: Like how would
+you you sho showw up?
+
+1301
+00:41:40,800 --> 00:41:44,320
+Tim Jurka: Like how would up as your
+authentic self in in that environment?
+
+1302
+00:41:44,720 --> 00:41:48,440
+Tim Jurka: My guess is you would not
+be spamming your coworkers with like
+
+1303
+00:41:48,440 --> 00:41:52,160
+Tim Jurka: link in bio, link in comment,
+like I can't exist information.
+
+1304
+00:41:52,320 --> 00:41:54,966
+Tim Jurka: So so don't bury
+those and like you know just
+
+1305
+00:41:54,966 --> 00:41:57,760
+Tim Jurka: show up, give the
+insights when you have them.
+
+1306
+00:41:57,760 --> 00:41:59,680
+Tim Jurka: Um yeah.
+
+1307
+00:41:59,680 --> 00:42:03,120
+Tim Jurka: Should we I mean I'm
+curious like how are we doing on time?
+
+1308
+00:42:03,120 --> 00:42:05,440
+Tim Jurka: I think I think we're
+we're we're getting close.
+
+1309
+00:42:05,440 --> 00:42:06,960
+Tim Jurka: We're getting
+close, you're right.
+
+1310
+00:42:07,440 --> 00:42:11,120
+Tim Jurka: I want to make sure I'm not
+uh stealing somebody else's time here.
+
+1311
+00:42:11,120 --> 00:42:12,260
+Tim Jurka: Um let's let's close
+
+1312
+00:42:12,260 --> 00:42:16,191
+Tim Jurka: it out with like what what do
+you want the takeaways to be here for
+
+1313
+00:42:16,191 --> 00:42:18,342
+Tim Jurka: creators who
+people use LinkedIn,
+
+1314
+00:42:18,342 --> 00:42:20,567
+Tim Jurka: people who
+are building businesses
+
+1315
+00:42:20,567 --> 00:42:24,720
+Tim Jurka: on LinkedIn, like how should
+they show up to their best on LinkedIn?
+
+1316
+00:42:25,600 --> 00:42:27,360
+Tim Jurka: I think easy question.
+
+1317
+00:42:27,360 --> 00:42:28,240
+Travis Hutchinson: Easy question.
+
+1318
+00:42:30,480 --> 00:42:32,800
+Travis Hutchinson: I think we've been
+talking about this authenticity thing.
+
+1319
+00:42:32,800 --> 00:42:34,640
+Travis Hutchinson: I'm going
+to continue to drive this on.
+
+1320
+00:42:35,200 --> 00:42:38,160
+Travis Hutchinson: Your thoughts
+are like deeply, deeply valuable.
+
+1321
+00:42:38,160 --> 00:42:41,445
+Travis Hutchinson: And I wanna I I
+wanna like take a step back and we need
+
+1322
+00:42:41,445 --> 00:42:45,200
+Travis Hutchinson: to recognize what
+the origin of social media actually is.
+
+1323
+00:42:45,200 --> 00:42:48,534
+Travis Hutchinson: Historically, in order
+to receive information, you would go
+
+1324
+00:42:48,534 --> 00:42:51,477
+Travis Hutchinson: to a newspaper or
+the television in which it was a large
+
+1325
+00:42:51,477 --> 00:42:54,549
+Travis Hutchinson: group of people who
+made the determination about what is
+
+1326
+00:42:54,549 --> 00:42:57,688
+Travis Hutchinson: appropriate and
+what's the zeitgeist and what you should
+
+1327
+00:42:57,688 --> 00:42:58,080
+Travis Hutchinson: watch.
+
+1328
+00:42:58,080 --> 00:43:00,880
+Travis Hutchinson: And social media has
+completely changed that entirely, right?
+
+1329
+00:43:00,880 --> 00:43:02,634
+Travis Hutchinson: There
+are no individual, there
+
+1330
+00:43:02,634 --> 00:43:04,320
+Travis Hutchinson: are not
+gatekeepers anymore.
+
+1331
+00:43:04,320 --> 00:43:07,440
+Travis Hutchinson: So your
+opinion is actually valuable.
+
+1332
+00:43:07,440 --> 00:43:10,440
+Travis Hutchinson: And there are
+individuals like myself, like Tim, that
+
+1333
+00:43:10,440 --> 00:43:13,440
+Travis Hutchinson: are working to make
+sure that your opinion gets viewed
+
+1334
+00:43:13,440 --> 00:43:16,173
+Travis Hutchinson: by other people
+who have an interest in your topic
+
+1335
+00:43:16,173 --> 00:43:16,640
+Travis Hutchinson: matter.
+
+1336
+00:43:16,640 --> 00:43:18,296
+Travis Hutchinson: Never
+before in the history of
+
+1337
+00:43:18,296 --> 00:43:20,284
+Travis Hutchinson: civilization
+have we had something
+
+1338
+00:43:20,284 --> 00:43:20,880
+Travis Hutchinson: like that.
+
+1339
+00:43:20,880 --> 00:43:22,544
+Travis Hutchinson: And so I
+want all everyone in
+
+1340
+00:43:22,544 --> 00:43:24,497
+Travis Hutchinson: this
+room, all the creators, all
+
+1341
+00:43:24,497 --> 00:43:24,714
+Travis Hutchinson: the
+
+1342
+00:43:24,714 --> 00:43:28,404
+Travis Hutchinson: thinkers, to take deep
+advantage of this and say, my ideas are
+
+1343
+00:43:28,404 --> 00:43:29,200
+Travis Hutchinson: worthwhile.
+
+1344
+00:43:29,200 --> 00:43:31,383
+Travis Hutchinson: It doesn't
+matter if 10 people view it or a
+
+1345
+00:43:31,383 --> 00:43:33,438
+Travis Hutchinson: thousand
+people view it, but my idea is
+
+1346
+00:43:33,438 --> 00:43:34,080
+Travis Hutchinson: something.
+
+1347
+00:43:34,640 --> 00:43:36,160
+Travis Hutchinson: I'm an
+educated individual.
+
+1348
+00:43:36,160 --> 00:43:36,960
+Travis Hutchinson: I have thoughts.
+
+1349
+00:43:36,960 --> 00:43:37,600
+Travis Hutchinson: I have ideas.
+
+1350
+00:43:37,600 --> 00:43:39,625
+Travis Hutchinson: Those ideas
+are recorded and then put
+
+1351
+00:43:39,625 --> 00:43:41,520
+Travis Hutchinson: them out
+there into the real world.
+
+1352
+00:43:41,520 --> 00:43:44,480
+Travis Hutchinson: And I'm not saying that
+that's like an easy thing by any means.
+
+1353
+00:43:44,480 --> 00:43:45,600
+Travis Hutchinson: It is, it is not.
+
+1354
+00:43:45,600 --> 00:43:47,442
+Travis Hutchinson: I'm
+becoming a creator, I'm in the
+
+1355
+00:43:47,442 --> 00:43:49,481
+Travis Hutchinson: process
+of like learning the creator
+
+1356
+00:43:49,481 --> 00:43:49,876
+Travis Hutchinson: entity
+
+1357
+00:43:49,876 --> 00:43:51,784
+Travis Hutchinson: and it is
+hard it is brutally hard um
+
+1358
+00:43:51,784 --> 00:43:53,692
+Travis Hutchinson: one it's
+hard to hey this idea that I
+
+1359
+00:43:53,692 --> 00:43:53,955
+Travis Hutchinson: have
+
+1360
+00:43:53,955 --> 00:43:55,797
+Travis Hutchinson: how do I
+show it in the right way and
+
+1361
+00:43:55,797 --> 00:43:57,705
+Travis Hutchinson: then two
+it's hard to say oh I put all
+
+1362
+00:43:57,705 --> 00:43:59,744
+Travis Hutchinson: this work
+into this I did the editing I
+
+1363
+00:43:59,744 --> 00:44:01,783
+Travis Hutchinson: did this
+idea I thought through this I
+
+1364
+00:44:01,783 --> 00:44:03,691
+Travis Hutchinson: wrote down
+this and then not having
+
+1365
+00:44:03,691 --> 00:44:05,599
+Travis Hutchinson: yet a ton
+of distribution but I will
+
+1366
+00:44:05,599 --> 00:44:05,796
+Travis Hutchinson: say
+
+1367
+00:44:05,796 --> 00:44:07,901
+Travis Hutchinson: that posts
+that have not received a ton
+
+1368
+00:44:07,901 --> 00:44:10,204
+Travis Hutchinson: of distribution
+have actually had people
+
+1369
+00:44:10,204 --> 00:44:12,177
+Travis Hutchinson: reach out
+to me in messages and say oh
+
+1370
+00:44:12,177 --> 00:44:14,151
+Travis Hutchinson: actually
+I never thought about that
+
+1371
+00:44:14,151 --> 00:44:14,480
+Travis Hutchinson: that.
+
+1372
+00:44:14,480 --> 00:44:16,000
+Travis Hutchinson: That's a
+really interesting idea.
+
+1373
+00:44:16,000 --> 00:44:17,834
+Travis Hutchinson: Or people
+in the office coming to me and
+
+1374
+00:44:17,834 --> 00:44:19,840
+Travis Hutchinson: saying, oh,
+I actually had a similar idea.
+
+1375
+00:44:19,840 --> 00:44:21,040
+Travis Hutchinson: Let's
+chat more about that.
+
+1376
+00:44:21,040 --> 00:44:23,488
+Travis Hutchinson: And so you
+really truly, ideas that sit in
+
+1377
+00:44:23,488 --> 00:44:26,080
+Travis Hutchinson: your head
+can't really do anything, right?
+
+1378
+00:44:26,400 --> 00:44:28,240
+Travis Hutchinson: We are
+no longer a society of
+
+1379
+00:44:28,240 --> 00:44:29,920
+Travis Hutchinson: ideas,
+we are a society of
+
+1380
+00:44:29,920 --> 00:44:30,560
+Travis Hutchinson: viewers.
+
+1381
+00:44:30,560 --> 00:44:33,183
+Travis Hutchinson: And so I think that
+there is a huge opportunity here to
+
+1382
+00:44:33,183 --> 00:44:36,105
+Travis Hutchinson: transition yourself
+from being someone who is a thinker or
+
+1383
+00:44:36,105 --> 00:44:39,146
+Travis Hutchinson: someone who might do
+something or a baby to getting your ideas
+
+1384
+00:44:39,146 --> 00:44:42,425
+Travis Hutchinson: out there, broadcasting
+consistently and having opportunities
+
+1385
+00:44:42,425 --> 00:44:43,200
+Travis Hutchinson: show up for you.
+
+1386
+00:44:43,200 --> 00:44:46,900
+Travis Hutchinson: And as folks who have
+not had this experience, or I'm really
+
+1387
+00:44:46,900 --> 00:44:50,751
+Travis Hutchinson: talking about people
+who are marginalized, this is a massive
+
+1388
+00:44:50,751 --> 00:44:51,280
+Travis Hutchinson: change.
+
+1389
+00:44:51,280 --> 00:44:53,210
+Travis Hutchinson: Like this
+is a massive opportunity to
+
+1390
+00:44:53,210 --> 00:44:55,078
+Travis Hutchinson: get our
+ideas out there and not have a
+
+1391
+00:44:55,078 --> 00:44:57,133
+Travis Hutchinson: gatekeeper
+saying, oh, because you're
+
+1392
+00:44:57,133 --> 00:44:58,939
+Travis Hutchinson: ex or
+because you didn't Y school or
+
+1393
+00:44:58,939 --> 00:45:00,870
+Travis Hutchinson: because
+you didn't do something, you
+
+1394
+00:45:00,870 --> 00:45:02,800
+Travis Hutchinson: still have
+an opportunity to do this.
+
+1395
+00:45:02,800 --> 00:45:06,320
+Travis Hutchinson: We need to recognize
+how important permissionless society is.
+
+1396
+00:45:06,400 --> 00:45:09,943
+Travis Hutchinson: And so I'm encouraging
+everybody to, I wasn't I'm not saying to
+
+1397
+00:45:09,943 --> 00:45:13,554
+Travis Hutchinson: become a creator, but
+to push yourself slightly outside of your
+
+1398
+00:45:13,554 --> 00:45:16,960
+Travis Hutchinson: comfort zone and say,
+here's this idea I have, let me post it.
+
+1399
+00:45:16,960 --> 00:45:18,640
+Travis Hutchinson: Here's this
+essay I've been wanting to write.
+
+1400
+00:45:18,640 --> 00:45:22,571
+Travis Hutchinson: I've been wanting to
+write about, you know, what is the purpose
+
+1401
+00:45:22,571 --> 00:45:26,426
+Travis Hutchinson: of free speech versus
+not or versus leveraging classifiers,
+
+1402
+00:45:26,426 --> 00:45:26,880
+Travis Hutchinson: right?
+
+1403
+00:45:27,520 --> 00:45:29,600
+Travis Hutchinson: Your idea
+is actually worthwhile.
+
+1404
+00:45:29,600 --> 00:45:32,050
+Travis Hutchinson: So whether
+it's a post or an essay or
+
+1405
+00:45:32,050 --> 00:45:34,584
+Travis Hutchinson: a video or
+a comment put the ideas out
+
+1406
+00:45:34,584 --> 00:45:37,288
+Travis Hutchinson: there and
+I guarantee I truly mean this
+
+1407
+00:45:37,288 --> 00:45:39,822
+Travis Hutchinson: that that
+it will come back around in
+
+1408
+00:45:39,822 --> 00:45:42,272
+Travis Hutchinson: some way
+if nothing else to develop
+
+1409
+00:45:42,272 --> 00:45:44,806
+Travis Hutchinson: your own
+thesis because I have had to
+
+1410
+00:45:44,806 --> 00:45:45,144
+Travis Hutchinson: test
+
+1411
+00:45:45,144 --> 00:45:47,848
+Travis Hutchinson: my whole
+theses about what I believe as
+
+1412
+00:45:47,848 --> 00:45:50,720
+Travis Hutchinson: a product
+manager in producing content.
+
+1413
+00:45:50,720 --> 00:45:53,024
+Travis Hutchinson: Do I truly believe
+that classifiers should exist
+
+1414
+00:45:53,024 --> 00:45:55,440
+Travis Hutchinson: to prevent the
+dissemination of horrible content?
+
+1415
+00:45:55,440 --> 00:45:57,120
+Travis Hutchinson: Let me
+think about that for a moment.
+
+1416
+00:45:57,120 --> 00:45:58,691
+Travis Hutchinson: Okay,
+actually I do believe that
+
+1417
+00:45:58,691 --> 00:46:00,320
+Travis Hutchinson: and here's
+the reason why, right?
+
+1418
+00:46:00,320 --> 00:46:01,657
+Travis Hutchinson: So that
+critical th critical
+
+1419
+00:46:01,657 --> 00:46:03,106
+Travis Hutchinson: thinking
+that everybody talks
+
+1420
+00:46:03,106 --> 00:46:03,440
+Travis Hutchinson: about.
+
+1421
+00:46:03,440 --> 00:46:04,560
+Travis Hutchinson: But but it's serious.
+
+1422
+00:46:04,560 --> 00:46:06,432
+Travis Hutchinson: We need to be
+thinking critically and we need to
+
+1423
+00:46:06,432 --> 00:46:08,400
+Travis Hutchinson: be having these
+open discussions and discourse.
+
+1424
+00:46:08,400 --> 00:46:10,720
+Travis Hutchinson: And this is
+what social media needs to be.
+
+1425
+00:46:10,720 --> 00:46:12,387
+Travis Hutchinson: Listen,
+short form video is, you
+
+1426
+00:46:12,387 --> 00:46:14,055
+Travis Hutchinson: know,
+talking about whatever it
+
+1427
+00:46:14,055 --> 00:46:14,240
+Travis Hutchinson: is.
+
+1428
+00:46:14,240 --> 00:46:14,800
+Travis Hutchinson: It's cool.
+
+1429
+00:46:14,800 --> 00:46:15,920
+Travis Hutchinson: It's a
+form of expression.
+
+1430
+00:46:15,920 --> 00:46:18,112
+Travis Hutchinson: But short form
+video is also an opportunity to
+
+1431
+00:46:18,112 --> 00:46:20,649
+Travis Hutchinson: express ideas in
+a really meaningful and thoughtful
+
+1432
+00:46:20,649 --> 00:46:20,880
+Travis Hutchinson: way.
+
+1433
+00:46:20,880 --> 00:46:22,880
+Travis Hutchinson: And those are the
+things that we should be pushing for.
+
+1434
+00:46:22,880 --> 00:46:25,536
+Travis Hutchinson: Those are the things
+that LinkedIn or any platform for that
+
+1435
+00:46:25,536 --> 00:46:28,193
+Travis Hutchinson: matter can do, which
+is to get your ideas out there and have a
+
+1436
+00:46:28,193 --> 00:46:29,711
+Travis Hutchinson: conversation
+with society about
+
+1437
+00:46:29,711 --> 00:46:31,120
+Travis Hutchinson: the
+things that are important.
+
+1438
+00:46:31,120 --> 00:46:34,475
+Travis Hutchinson: When we're on our
+deathbed, nobody's going to care about,
+
+1439
+00:46:34,475 --> 00:46:37,760
+Travis Hutchinson: you know, this idea
+that you maybe uh thought about once.
+
+1440
+00:46:37,760 --> 00:46:40,400
+Travis Hutchinson: They're going to think
+about the art of all your thinking.
+
+1441
+00:46:40,400 --> 00:46:41,911
+Travis Hutchinson: And so I
+want us to think about
+
+1442
+00:46:41,911 --> 00:46:43,548
+Travis Hutchinson: social
+media as the body of work
+
+1443
+00:46:43,548 --> 00:46:43,737
+Travis Hutchinson: and
+
+1444
+00:46:43,737 --> 00:46:45,500
+Travis Hutchinson: our
+representation of the things
+
+1445
+00:46:45,500 --> 00:46:47,074
+Travis Hutchinson: that we
+think and then meeting
+
+1446
+00:46:47,074 --> 00:46:47,325
+Travis Hutchinson: with
+
+1447
+00:46:47,325 --> 00:46:49,025
+Travis Hutchinson: like-minded
+people to be able to
+
+1448
+00:46:49,025 --> 00:46:50,725
+Travis Hutchinson: have
+those conversations on the
+
+1449
+00:46:50,725 --> 00:46:51,040
+Travis Hutchinson: call.
+
+1450
+00:46:59,680 --> 00:47:01,600
+Tim Jurka: Hold on the microphone.
+
+1451
+00:47:05,280 --> 00:47:07,280
+Tim Jurka: I mean, that's
+a great note to end on.
+
+1452
+00:47:07,280 --> 00:47:10,718
+Tim Jurka: I mean, I'll just say I wish
+for for those of you who have been in in
+
+1453
+00:47:10,718 --> 00:47:14,156
+Tim Jurka: this industry for a half
+second, like I think all of us wish we had
+
+1454
+00:47:14,156 --> 00:47:17,788
+Tim Jurka: something like the LinkedIn
+feed when we were starting our careers
+
+1455
+00:47:17,788 --> 00:47:20,966
+Tim Jurka: and to have people
+mentoring, to have people sharing their
+
+1456
+00:47:20,966 --> 00:47:21,680
+Tim Jurka: experience.
+
+1457
+00:47:21,920 --> 00:47:24,963
+Tim Jurka: And for people who are
+entering the workforce now and like
+
+1458
+00:47:24,963 --> 00:47:28,196
+Tim Jurka: trying to navigate exactly
+what you said, it's a challenging
+
+1459
+00:47:28,196 --> 00:47:28,640
+Tim Jurka: moment.
+
+1460
+00:47:28,640 --> 00:47:30,400
+Tim Jurka: Like it's not about the degree.
+
+1461
+00:47:30,400 --> 00:47:31,360
+Tim Jurka: It's about the skill set.
+
+1462
+00:47:31,360 --> 00:47:32,160
+Tim Jurka: It's about what you can do.
+
+1463
+00:47:32,160 --> 00:47:34,240
+Tim Jurka: It's about
+showcasing what you can do.
+
+1464
+00:47:34,240 --> 00:47:35,959
+Tim Jurka: And if you're
+able to bring that on
+
+1465
+00:47:35,959 --> 00:47:38,047
+Tim Jurka: LinkedIn and
+showcase your expertise to
+
+1466
+00:47:38,047 --> 00:47:38,231
+Tim Jurka: get
+
+1467
+00:47:38,231 --> 00:47:40,380
+Tim Jurka: economic
+opportunity, but then also give
+
+1468
+00:47:40,380 --> 00:47:42,099
+Tim Jurka: back to the
+community for the next
+
+1469
+00:47:42,099 --> 00:47:42,713
+Tim Jurka: generation
+
+1470
+00:47:42,713 --> 00:47:44,739
+Tim Jurka: of folks that
+are that are starting out,
+
+1471
+00:47:44,739 --> 00:47:46,887
+Tim Jurka: that just becomes
+an incredibly powerful
+
+1472
+00:47:46,887 --> 00:47:47,440
+Tim Jurka: flywheel.
+
+1473
+00:47:47,600 --> 00:47:50,557
+Tim Jurka: And so I mean yeah my my
+recommendation to all of you is like
+
+1474
+00:47:50,557 --> 00:47:53,760
+Tim Jurka: get out there show your
+expertise share back with the network.
+
+1475
+00:47:54,000 --> 00:47:55,425
+Tim Jurka: All of this just enriches the
+
+1476
+00:47:55,425 --> 00:47:57,147
+Tim Jurka: community
+and that's like, that's
+
+1477
+00:47:57,147 --> 00:47:57,741
+Tim Jurka: ultimately
+
+1478
+00:47:57,741 --> 00:47:59,344
+Tim Jurka: how to be
+successful, not just on
+
+1479
+00:47:59,344 --> 00:48:01,066
+Tim Jurka: LinkedIn,
+but literally to create
+
+1480
+00:48:01,066 --> 00:48:01,541
+Tim Jurka: economic
+
+1481
+00:48:01,541 --> 00:48:04,926
+Tim Jurka: opportunity for the network
+and for every every person in the global
+
+1482
+00:48:04,926 --> 00:48:05,520
+Tim Jurka: workforce.
+
+1483
+00:48:05,520 --> 00:48:08,000
+Tim Jurka: So that's it for us today.
+
+1484
+00:48:08,000 --> 00:48:10,278
+Tim Jurka: Thank you everyone
+for joining and we're
+
+1485
+00:48:10,278 --> 00:48:12,757
+Tim Jurka: looking forward
+to chatting with you around
+
+1486
+00:48:12,757 --> 00:48:13,360
+Tim Jurka: Afrotech.
+
+1487
+00:48:13,360 --> 00:48:15,360
+Tim Jurka: Chat's near going to
+be around, so happy to chat.
+
+1488
+00:48:15,600 --> 00:48:16,400
+Tim Jurka: A sing.
+
+1489
+00:48:16,400 --> 00:48:17,040
+Tim Jurka: Thank you all.
+
+1490
+00:48:26,240 --> 00:48:28,160
+Tim Jurka: Let's give it up for Tim and
+
+1491
+00:48:28,160 --> 00:48:29,440
+Speaker 4: Travis one more time.
+
+1492
+00:48:36,000 --> 00:48:38,320
+Speaker 4: So this moment
+is about to go on break.
+
+1493
+00:48:38,320 --> 00:48:40,004
+Speaker 4: So I want you
+to go out of here, go meet
+
+1494
+00:48:40,004 --> 00:48:41,743
+Speaker 4: some people,
+go connect, go grab some
+
+1495
+00:48:41,743 --> 00:48:42,080
+Speaker 4: lunch.
+
+1496
+00:48:42,080 --> 00:48:44,370
+Speaker 4: I heard Houston
+barbecue is good, but it's not
+
+1497
+00:48:44,370 --> 00:48:46,720
+Speaker 4: better than Memphis
+and he was back on the bill.
+
+1498
+00:48:47,200 --> 00:48:49,325
+Speaker 4: No grabs too
+much, but he's making it
+
+1499
+00:48:49,325 --> 00:48:51,520
+Speaker 4: if he does that
+ear right against him.
+
+1500
+00:48:51,520 --> 00:48:57,760
+Speaker 4: All right,
+have a good one everyone.
+
+1501
+00:48:57,760 --> 00:49:01,880
+Speaker 4: If someone left
+their phone, it's back here at
+
+1502
+00:49:01,880 --> 00:49:06,000
+Speaker 4: the audio mix
+position if you lost your phone.
+
+1503
+00:49:12,000 --> 00:49:13,600
+Speaker 3: AI audience.
+
+1504
+00:49:24,480 --> 00:49:27,920
+Speaker 3: I know exactly our eight of us.

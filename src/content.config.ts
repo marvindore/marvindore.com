@@ -9,6 +9,10 @@ const blog = defineCollection({
         pubDate: z.coerce.date(),
         /** The YouTube video ID this post accompanies (the part after `v=`). */
         youtubeId: z.string().optional(),
+        /** Audio + transcript players shown under the article. `id` is the file stem, see TranscriptPlayer. */
+        talks: z
+            .array(z.object({ id: z.string(), title: z.string(), description: z.string().optional() }))
+            .default([]),
         tags: z.array(z.string()).default([]),
         draft: z.boolean().default(false),
     }),

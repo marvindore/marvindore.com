@@ -1,0 +1,2807 @@
+1
+00:00:01,120 --> 00:00:02,400
+All right.
+
+2
+00:00:02,400 --> 00:00:04,480
+How we doing today?
+
+3
+00:00:05,360 --> 00:00:08,080
+Afro technical building, 10 years.
+
+4
+00:00:08,080 --> 00:00:10,240
+Let's go, let's go.
+
+5
+00:00:10,240 --> 00:00:11,280
+All right.
+
+6
+00:00:11,280 --> 00:00:17,760
+I am here with the good friend,
+the commissioner, Steve Stout.
+
+7
+00:00:17,760 --> 00:00:21,600
+Listen, it's my first
+time at AfroTime zone.
+
+8
+00:00:21,600 --> 00:00:22,400
+First time?
+
+9
+00:00:22,400 --> 00:00:24,880
+It's my first time, and
+I'm so happy to be here.
+
+10
+00:00:24,880 --> 00:00:25,760
+Absolutely.
+
+11
+00:00:25,760 --> 00:00:30,382
+I mean, look, me and Steve, I've had the
+privilege of knowing Steve probably almost
+
+12
+00:00:30,382 --> 00:00:34,870
+10 years now, maybe a little bit longer,
+and a lot of the conversations that we've
+
+13
+00:00:34,870 --> 00:00:36,880
+had today or throughout this entire
+
+14
+00:00:36,880 --> 00:00:39,157
+conference are things that we talk about
+
+15
+00:00:39,157 --> 00:00:39,492
+every
+
+16
+00:00:39,492 --> 00:00:39,760
+day.
+
+17
+00:00:39,760 --> 00:00:42,936
+And that's why I thought it
+was very fitting just to have
+
+18
+00:00:42,936 --> 00:00:46,320
+this conversation around
+culture, capital, and control.
+
+19
+00:00:46,320 --> 00:00:48,728
+And especially going into 10 years in
+
+20
+00:00:48,728 --> 00:00:51,059
+Afrotech and how we think about just
+
+21
+00:00:51,059 --> 00:00:51,680
+culture.
+
+22
+00:00:51,680 --> 00:00:54,250
+I mean, you are literally the pioneer when
+
+23
+00:00:54,250 --> 00:00:57,040
+it comes to bridging
+culture and innovation.
+
+24
+00:00:57,120 --> 00:00:59,532
+And so just to kind of
+start off with, I think
+
+25
+00:00:59,532 --> 00:01:01,944
+one of the things that
+you are super, super,
+
+26
+00:01:01,944 --> 00:01:02,279
+super
+
+27
+00:01:02,279 --> 00:01:04,490
+strong on and one of the messages across
+
+28
+00:01:04,490 --> 00:01:07,304
+everything is ownership
+and I feel like when we're
+
+29
+00:01:07,304 --> 00:01:07,773
+talking
+
+30
+00:01:07,773 --> 00:01:11,861
+about technology, when we're talking
+about you know founders, starting
+
+31
+00:01:11,861 --> 00:01:16,350
+companies working at the tech these tech
+businesses, ownership has always been
+
+32
+00:01:16,350 --> 00:01:20,638
+kind of the the core fundamental from
+your businesses and also how you see the
+
+33
+00:01:20,638 --> 00:01:21,040
+world.
+
+34
+00:01:21,040 --> 00:01:25,800
+And so just given the fact that not
+only you've been successful in the
+
+35
+00:01:25,800 --> 00:01:30,978
+entertainment industry, but also in
+the technology industry too, tell me
+
+36
+00:01:30,978 --> 00:01:35,739
+how you think about ownership in
+2026, especially from the this lens
+
+37
+00:01:35,739 --> 00:01:36,240
+today.
+
+38
+00:01:36,240 --> 00:01:41,868
+Well, ownership was something that
+for a long time, specifically in
+
+39
+00:01:41,868 --> 00:01:47,200
+the music business, the artists
+never got a chance to own the art.
+
+40
+00:01:47,200 --> 00:01:53,600
+And that it was almost blasphemous
+if an artist asked to own the art.
+
+41
+00:01:55,840 --> 00:02:00,845
+Because the the people who would invest
+in the the artists, whether it be
+
+42
+00:02:00,845 --> 00:02:06,018
+the record companies or some of the
+patrons of the art, the galleries, they
+
+43
+00:02:06,018 --> 00:02:10,689
+never made the artist feel as if
+ownership was something that truly
+
+44
+00:02:10,689 --> 00:02:11,440
+mattered.
+
+45
+00:02:11,440 --> 00:02:16,359
+Over time, as technology started to
+disrupt industries, it was clear that
+
+46
+00:02:16,359 --> 00:02:21,358
+the mode that some of these companies
+had had before, like distribution and
+
+47
+00:02:21,358 --> 00:02:25,721
+marketing or or um and the financial
+capital to do that, that those
+
+48
+00:02:25,721 --> 00:02:30,085
+barriers were now democratized
+and they didn't have that control
+
+49
+00:02:30,085 --> 00:02:30,720
+anymore.
+
+50
+00:02:30,720 --> 00:02:35,623
+So when I started United Masters, what I
+wanted to do for the first time was give
+
+51
+00:02:35,623 --> 00:02:40,450
+artists a platform so that they can
+distribute music and own 100% of the music
+
+52
+00:02:40,450 --> 00:02:41,280
+themselves.
+
+53
+00:02:41,280 --> 00:02:45,536
+It has been a fantastic journey
+over the last nine years of
+
+54
+00:02:45,536 --> 00:02:50,236
+building this company where we
+have artists who you may not even
+
+55
+00:02:50,236 --> 00:02:55,202
+know, but because they own their
+art, they're making seven figures
+
+56
+00:02:55,202 --> 00:02:56,000
+annually.
+
+57
+00:02:56,320 --> 00:03:01,011
+Because of that ownership, and had it
+been in the 90s, they would have sold
+
+58
+00:03:01,011 --> 00:03:05,779
+that art initially for a couple hundred
+thousand dollars and then be broke
+
+59
+00:03:05,779 --> 00:03:06,240
+today.
+
+60
+00:03:06,240 --> 00:03:09,397
+So there was a dramatic
+dramatic shift in the music
+
+61
+00:03:09,397 --> 00:03:12,405
+industry and as a result
+of what we started in the
+
+62
+00:03:12,405 --> 00:03:15,337
+United Nations nine years
+ago if any of you guys
+
+63
+00:03:15,337 --> 00:03:18,344
+are in the music business
+or paying attention to
+
+64
+00:03:18,344 --> 00:03:18,569
+it,
+
+65
+00:03:18,569 --> 00:03:18,795
+the
+
+66
+00:03:18,795 --> 00:03:23,832
+entire industry now is shifted to that
+model because the major labels, which for
+
+67
+00:03:23,832 --> 00:03:28,643
+years took advantage of the artists by
+taking ownership, can no longer offer
+
+68
+00:03:28,643 --> 00:03:30,898
+that as a business model because the
+
+69
+00:03:30,898 --> 00:03:33,454
+artists are refusing and they're saying
+
+70
+00:03:33,454 --> 00:03:33,680
+no.
+
+71
+00:03:33,680 --> 00:03:34,400
+Yep.
+
+72
+00:03:35,040 --> 00:03:39,000
+And then also if you think about now today
+with the tools from Substack to just
+
+73
+00:03:39,000 --> 00:03:43,269
+even being able to control and own your
+own own audiences, whether you're starting
+
+74
+00:03:43,269 --> 00:03:43,349
+a
+
+75
+00:03:43,349 --> 00:03:47,662
+company or whether you're, you know, even
+kind of creating your own businesses now,
+
+76
+00:03:47,662 --> 00:03:51,869
+just really kind of taking that lens and
+thinking about it from the ownership side
+
+77
+00:03:51,869 --> 00:03:52,240
+first.
+
+78
+00:03:52,240 --> 00:03:55,991
+And so I mean especially as from a
+founder standpoint you know one of
+
+79
+00:03:55,991 --> 00:03:59,742
+the things that I I pr particularly
+found interesting I think that a
+
+80
+00:03:59,742 --> 00:04:03,962
+lot of people in the audience can relate
+to is your evolution from working in
+
+81
+00:04:03,962 --> 00:04:08,517
+entertainment to going and starting
+translation, to working in the advertising
+
+82
+00:04:08,517 --> 00:04:09,120
+industry.
+
+83
+00:04:09,120 --> 00:04:13,413
+You know, you were young when you decided
+to make that pivot and go into an
+
+84
+00:04:13,413 --> 00:04:17,993
+industry where you had understanding,
+but you never actually had the actual
+
+85
+00:04:17,993 --> 00:04:19,997
+background in and so I mean a lot of
+
+86
+00:04:19,997 --> 00:04:22,358
+people here today are either in extreme
+
+87
+00:04:22,358 --> 00:04:22,788
+either
+
+88
+00:04:22,788 --> 00:04:23,575
+just started
+
+89
+00:04:23,575 --> 00:04:28,154
+a career in technology or interested in
+moving into the space you know but for
+
+90
+00:04:28,154 --> 00:04:32,305
+people who are unfamiliar with your
+journey and how uh you got into the
+
+91
+00:04:32,305 --> 00:04:36,884
+advertising business, uh it'd be great
+for you just to share a little bit more
+
+92
+00:04:36,884 --> 00:04:37,600
+about that.
+
+93
+00:04:37,600 --> 00:04:40,480
+So a lot of it is betting on yourself.
+
+94
+00:04:40,480 --> 00:04:41,680
+So I want to talk to you.
+
+95
+00:04:41,680 --> 00:04:47,732
+Whether you're an entrepreneur currently
+or it's something that you aspire to be,
+
+96
+00:04:47,732 --> 00:04:53,520
+the idea of taking the risk embedding it
+in yourself is a necessary ingredient.
+
+97
+00:04:53,520 --> 00:04:56,400
+So when I was 20, I I grew
+up in the record business.
+
+98
+00:04:56,400 --> 00:05:00,640
+I worked at Sony Records, I worked
+
+99
+00:05:00,640 --> 00:05:04,880
+with Nas, I managed Mary J. Blige.
+
+100
+00:05:05,200 --> 00:05:09,920
+I was in the industry as a
+manager and and record executive.
+
+101
+00:05:09,920 --> 00:05:14,596
+And then I went to Inniscope and
+worked on MM and Enrique Glacius
+
+102
+00:05:14,596 --> 00:05:19,360
+and what you know a a bunch of
+artists that were super successful.
+
+103
+00:05:20,640 --> 00:05:24,880
+When I left the music business to
+go into the advertising business.
+
+104
+00:05:24,880 --> 00:05:28,156
+The reason why I went into
+the advertising business is
+
+105
+00:05:28,156 --> 00:05:31,723
+because they were just very
+archaic in the way they seen the
+
+106
+00:05:31,723 --> 00:05:32,160
+world.
+
+107
+00:05:32,160 --> 00:05:36,226
+They actually thought
+that people were still
+
+108
+00:05:36,226 --> 00:05:40,400
+willing to be spoken to
+through demographics.
+
+109
+00:05:40,400 --> 00:05:44,256
+So there was African Americans, Hispanics,
+
+110
+00:05:44,256 --> 00:05:47,278
+and other, which was white people,
+
+111
+00:05:47,278 --> 00:05:48,320
+obviously.
+
+112
+00:05:48,320 --> 00:05:52,560
+And and unlike in the music
+business, it doesn't work that way.
+
+113
+00:05:52,560 --> 00:05:56,120
+Like in the music business,
+black kids buy MM
+
+114
+00:05:56,120 --> 00:05:59,680
+and white kids buy DMX
+and it doesn't matter.
+
+115
+00:05:59,840 --> 00:06:02,590
+Like we don't market it through that
+
+116
+00:06:02,590 --> 00:06:04,881
+channel so why do you do that in
+
+117
+00:06:04,881 --> 00:06:06,165
+communications
+
+118
+00:06:06,165 --> 00:06:09,189
+and in in in in the advertising business
+
+119
+00:06:09,189 --> 00:06:11,939
+thing and then the one thing that was
+
+120
+00:06:11,939 --> 00:06:12,489
+really
+
+121
+00:06:12,489 --> 00:06:16,706
+disturbing was that that let's
+say it was a $100 million
+
+122
+00:06:16,706 --> 00:06:21,289
+budget, they would spend $13.3
+or $13 million of that budget
+
+123
+00:06:21,289 --> 00:06:25,872
+towards African Americans
+because it was prorated with the
+
+124
+00:06:25,872 --> 00:06:26,880
+population.
+
+125
+00:06:27,120 --> 00:06:31,760
+$13 million, you know, 13% of the
+population is African American.
+
+126
+00:06:31,760 --> 00:06:34,602
+And I'm like, well, why
+doesn't somebody, I
+
+127
+00:06:34,602 --> 00:06:37,444
+get that, but why are
+you measuring African
+
+128
+00:06:37,444 --> 00:06:40,049
+Americans by population and you're not
+
+129
+00:06:40,049 --> 00:06:42,576
+measuring African Americans by their
+
+130
+00:06:42,576 --> 00:06:43,207
+cultural
+
+131
+00:06:43,207 --> 00:06:43,760
+impact.
+
+132
+00:06:44,320 --> 00:06:47,045
+Because if you measure African Americans
+
+133
+00:06:47,045 --> 00:06:49,303
+by their cultural impact, you'd be
+
+134
+00:06:49,303 --> 00:06:49,926
+spending
+
+135
+00:06:49,926 --> 00:06:55,143
+north of half of your budget connecting
+with the culture that African Americans
+
+136
+00:06:55,143 --> 00:06:56,000
+influenced.
+
+137
+00:06:56,000 --> 00:07:00,586
+And it was too much staring at
+me of an opportunity if they
+
+138
+00:07:00,586 --> 00:07:05,075
+thought that was the way to
+do things, that I could bring
+
+139
+00:07:05,075 --> 00:07:06,246
+innovation of
+
+140
+00:07:06,246 --> 00:07:11,515
+such to that category and I started
+a company and the name of it was
+
+141
+00:07:11,515 --> 00:07:16,784
+translation and I was going to
+translate culture for Fortune 500
+
+142
+00:07:16,784 --> 00:07:17,760
+companies.
+
+143
+00:07:17,760 --> 00:07:22,637
+So I left the music business and I took
+the instincts that I got from the music
+
+144
+00:07:22,637 --> 00:07:24,959
+business and and brought it into the
+
+145
+00:07:24,959 --> 00:07:27,359
+advertising business and sometimes
+
+146
+00:07:27,359 --> 00:07:28,210
+ignorance is
+
+147
+00:07:28,210 --> 00:07:30,764
+actually the best approach because you
+
+148
+00:07:30,764 --> 00:07:33,629
+don't have any preconceived
+notions of what
+
+149
+00:07:33,629 --> 00:07:33,861
+you
+
+150
+00:07:33,861 --> 00:07:34,480
+can't do.
+
+151
+00:07:34,880 --> 00:07:39,877
+And I got into the advertising
+business and the first thing,
+
+152
+00:07:39,877 --> 00:07:44,474
+and I can go into length about
+this, but it was work on I'm
+
+153
+00:07:44,474 --> 00:07:49,171
+loving it for McDonald's in
+2004 um and you know bringing
+
+154
+00:07:49,171 --> 00:07:54,567
+Farelli to work on the mnemonic
+um the da-da-da-da-da and having
+
+155
+00:07:54,567 --> 00:07:59,564
+the like but like bringing new
+ideas and people who actually
+
+156
+00:07:59,564 --> 00:08:05,060
+touched the people to work on this
+stuff, which was some obviously
+
+157
+00:08:05,060 --> 00:08:05,360
+new
+
+158
+00:08:05,360 --> 00:08:07,040
+to that to that industry.
+
+159
+00:08:07,040 --> 00:08:11,755
+And now, obviously, uh the
+word culture could not be the
+
+160
+00:08:11,755 --> 00:08:16,368
+most abused term in advertising
+and you hear it all the
+
+161
+00:08:16,368 --> 00:08:16,880
+time.
+
+162
+00:08:16,880 --> 00:08:20,361
+But when I said that word in
+
+163
+00:08:20,361 --> 00:08:24,000
+2004, um no one even knew it.
+
+164
+00:08:24,560 --> 00:08:27,360
+Not even knew, gave it any value.
+
+165
+00:08:27,360 --> 00:08:28,800
+It wasn't valued.
+
+166
+00:08:28,800 --> 00:08:31,760
+And now it's the most valued thing.
+
+167
+00:08:32,160 --> 00:08:36,402
+And then I think, you know, even when
+you said when you talk about culture,
+
+168
+00:08:36,402 --> 00:08:40,574
+um, not only Ben always says it's culture
+is a a set of beliefs and it's not
+
+169
+00:08:40,574 --> 00:08:44,469
+you know what you do it is but it's
+what you do is who you are and so when
+
+170
+00:08:44,469 --> 00:08:48,989
+you think about culture especially when
+you're starting businesses and when
+
+171
+00:08:48,989 --> 00:08:53,370
+you're thinking about things, you always
+say that the you said that the core
+
+172
+00:08:53,370 --> 00:08:57,403
+ingredients require three things
+when starting a company or having a
+
+173
+00:08:57,403 --> 00:09:01,715
+business, which is culture, you need
+technology, and then you also need to
+
+174
+00:09:01,715 --> 00:09:02,480
+incorporate
+
+175
+00:09:02,720 --> 00:09:03,680
+storytelling.
+
+176
+00:09:03,840 --> 00:09:07,151
+And so that's literally, if you
+think about your trilogy of
+
+177
+00:09:07,151 --> 00:09:10,327
+companies that you've you've
+been able to in your entire
+
+178
+00:09:10,327 --> 00:09:10,800
+career.
+
+179
+00:09:10,880 --> 00:09:12,240
+Convergence of those things.
+
+180
+00:09:12,400 --> 00:09:15,472
+I believe that whatever
+you're building, the
+
+181
+00:09:15,472 --> 00:09:19,433
+convergence of culture,
+technology, and storytelling is
+
+182
+00:09:19,433 --> 00:09:20,160
+critical.
+
+183
+00:09:20,160 --> 00:09:25,120
+And historically, the culture guys,
+the cool guys, they would look at
+
+184
+00:09:25,120 --> 00:09:29,652
+the technology guys, the nerd guys
+or girls, and they put them in
+
+185
+00:09:29,652 --> 00:09:34,356
+another side of the room and the
+cool people would be on this side of
+
+186
+00:09:34,356 --> 00:09:35,040
+the room.
+
+187
+00:09:35,040 --> 00:09:37,304
+And the storytellers would
+be writing their story and
+
+188
+00:09:37,304 --> 00:09:39,266
+they'd be hiding it
+because, you know, they're
+
+189
+00:09:39,266 --> 00:09:39,920
+storytellers.
+
+190
+00:09:39,920 --> 00:09:42,160
+They don't want to share their work.
+
+191
+00:09:42,960 --> 00:09:47,158
+And what we built by
+having the advertising
+
+192
+00:09:47,158 --> 00:09:51,356
+company and United Masters within the same
+
+193
+00:09:51,356 --> 00:09:56,254
+proximities, my company
+is is everyone is working
+
+194
+00:09:56,254 --> 00:09:57,537
+bilaterally
+
+195
+00:09:57,537 --> 00:10:03,018
+with storytellers, technologists,
+and people who lead
+
+196
+00:10:03,018 --> 00:10:07,799
+culture because you can't
+disrupt or bring value
+
+197
+00:10:07,799 --> 00:10:12,697
+unless you have those three
+mindsets, those three
+
+198
+00:10:12,697 --> 00:10:13,280
+skill
+
+199
+00:10:13,280 --> 00:10:16,640
+sets have a seat at the
+table with equal voice.
+
+200
+00:10:16,640 --> 00:10:18,320
+It's very, very important.
+
+201
+00:10:18,320 --> 00:10:22,759
+And I believe that whatever you're
+building, the storytelling and
+
+202
+00:10:22,759 --> 00:10:26,960
+the technology and its connection
+to culture is is is critical.
+
+203
+00:10:27,520 --> 00:10:30,240
+Well, how how do you think that
+that applies in today's world?
+
+204
+00:10:30,240 --> 00:10:33,537
+I think that in 2026 the
+only word that I know
+
+205
+00:10:33,537 --> 00:10:37,200
+that's overused more than
+culture is AI, right?
+
+206
+00:10:37,200 --> 00:10:39,533
+And in a world where
+where you can literally
+
+207
+00:10:39,533 --> 00:10:41,995
+create anything, you
+can use unlimited types
+
+208
+00:10:41,995 --> 00:10:43,939
+of storytelling, the technology is
+
+209
+00:10:43,939 --> 00:10:46,208
+important, you know, especially with you
+
+210
+00:10:46,208 --> 00:10:46,532
+from a
+
+211
+00:10:46,532 --> 00:10:47,115
+marketing
+
+212
+00:10:47,115 --> 00:10:50,873
+lens, but also what's happening right
+now with the future of the music
+
+213
+00:10:50,873 --> 00:10:54,956
+industry and all types of content creators
+and you know AI music and this and
+
+214
+00:10:54,956 --> 00:10:55,280
+that.
+
+215
+00:10:55,280 --> 00:10:59,424
+Like what is your lens
+on on where culture and
+
+216
+00:10:59,424 --> 00:11:04,576
+innovation happen with with
+this new medium happening
+
+217
+00:11:04,576 --> 00:11:05,360
+with AI.
+
+218
+00:11:05,440 --> 00:11:09,181
+I um I can first talk about it
+
+219
+00:11:09,181 --> 00:11:14,224
+specifically in the industries that
+
+220
+00:11:14,224 --> 00:11:15,200
+I'm in.
+
+221
+00:11:15,200 --> 00:11:19,256
+So in the music business, AI is actually
+
+222
+00:11:19,256 --> 00:11:22,697
+considered a threat to most of the
+
+223
+00:11:22,697 --> 00:11:23,680
+artists.
+
+224
+00:11:24,000 --> 00:11:29,741
+The artists feel like you, most of
+you, the customer, would migrate
+
+225
+00:11:29,741 --> 00:11:35,174
+away from an artist who's a human
+being to an artificial artist,
+
+226
+00:11:35,174 --> 00:11:35,891
+someone
+
+227
+00:11:35,891 --> 00:11:41,632
+who can sing or who doesn't exist
+and that that's where you're gonna
+
+228
+00:11:41,632 --> 00:11:47,680
+it's gonna take your attention and
+they're very concerned about that.
+
+229
+00:11:47,680 --> 00:11:51,662
+I'm not sure how you feel
+about that, but I do know that
+
+230
+00:11:51,662 --> 00:11:56,097
+that's a threat that the artist
+community are rejecting at
+
+231
+00:11:56,097 --> 00:11:56,640
+large.
+
+232
+00:11:57,120 --> 00:12:02,593
+At the same time, producers love the
+fact that artificial intelligence
+
+233
+00:12:02,593 --> 00:12:07,884
+allows them another opportunity to
+paint new pictures and create new
+
+234
+00:12:07,884 --> 00:12:12,628
+sounds and do more, no different
+than the electronic keyboard
+
+235
+00:12:12,628 --> 00:12:17,280
+when it was invented or the drum
+machine when it was invented.
+
+236
+00:12:17,280 --> 00:12:19,360
+It didn't put drums out of business.
+
+237
+00:12:19,360 --> 00:12:22,880
+The electric keyboard didn't
+put the piano out of business.
+
+238
+00:12:22,880 --> 00:12:27,840
+It's just another instrument uh
+to create to uh for creativity.
+
+239
+00:12:27,840 --> 00:12:31,515
+So the producers are really
+excited about it, but the
+
+240
+00:12:31,515 --> 00:12:35,440
+artists on the other hand are
+having negative pushback.
+
+241
+00:12:35,440 --> 00:12:40,174
+In the advertising business,
+you're going to be able
+
+242
+00:12:40,174 --> 00:12:44,800
+to buy media at large without
+needing humans at all.
+
+243
+00:12:44,800 --> 00:12:48,499
+You can actually start
+to create commercials
+
+244
+00:12:48,499 --> 00:12:52,393
+without having humans at
+all make it by giving it
+
+245
+00:12:52,393 --> 00:12:52,880
+pros.
+
+246
+00:12:53,840 --> 00:12:57,170
+So it's disrupting the
+industry in that from
+
+247
+00:12:57,170 --> 00:13:00,230
+that perspective um with it and all that i
+
+248
+00:13:00,230 --> 00:13:00,590
+find
+
+249
+00:13:00,590 --> 00:13:04,010
+nothing but opportunity
+i do believe that you
+
+250
+00:13:04,010 --> 00:13:07,340
+know when you see these
+sort of techno techno
+
+251
+00:13:07,340 --> 00:13:10,670
+uh technical changes
+take place on the other
+
+252
+00:13:10,670 --> 00:13:14,000
+side of that is innovation
+and new ideas that
+
+253
+00:13:14,000 --> 00:13:17,240
+come away that come out
+of it and rather than
+
+254
+00:13:17,240 --> 00:13:20,570
+resisting that change,
+it's going to happen
+
+255
+00:13:20,570 --> 00:13:21,200
+anyway.
+
+256
+00:13:21,440 --> 00:13:25,920
+I tend to be optimistic that on the other
+side of that change is no opportunity.
+
+257
+00:13:25,920 --> 00:13:26,560
+Yeah.
+
+258
+00:13:26,560 --> 00:13:29,397
+I mean I think that literally
+it I mean one of the
+
+259
+00:13:29,397 --> 00:13:32,307
+things I mean me and Morgan
+we talked about this a
+
+260
+00:13:32,307 --> 00:13:34,926
+decade ago about how
+important it was for an
+
+261
+00:13:34,926 --> 00:13:37,982
+engineer to, especially
+when you move down Silica
+
+262
+00:13:37,982 --> 00:13:38,418
+Valley
+
+263
+00:13:38,418 --> 00:13:41,110
+to be able to know how to
+code or be able to have
+
+264
+00:13:41,110 --> 00:13:44,311
+technology skills and now,
+you know, with companies
+
+265
+00:13:44,311 --> 00:13:46,784
+like Cursor or you can
+go on and on that you
+
+266
+00:13:46,784 --> 00:13:49,258
+can literally code up an entire website,
+
+267
+00:13:49,258 --> 00:13:49,694
+entire
+
+268
+00:13:49,694 --> 00:13:50,640
+applications.
+
+269
+00:13:50,640 --> 00:13:53,929
+And so it feels almost like
+the democratization of
+
+270
+00:13:53,929 --> 00:13:57,532
+software to some degree that
+allows now anybody to have
+
+271
+00:13:57,532 --> 00:13:58,080
+access.
+
+272
+00:13:58,080 --> 00:14:02,460
+And also just from leveling the playing
+field you know in terms of ever like this
+
+273
+00:14:02,460 --> 00:14:06,640
+is a new tool that everybody's learning
+every day and with new new new pieces
+
+274
+00:14:06,640 --> 00:14:07,038
+coming
+
+275
+00:14:07,038 --> 00:14:11,152
+out and new tools and new models just
+you know it gives us the opportunity to
+
+276
+00:14:11,152 --> 00:14:15,200
+kind of get the the the the power back
+and really try and take things going.
+
+277
+00:14:16,080 --> 00:14:19,792
+So I mean one of the like as as
+you think about just with the
+
+278
+00:14:19,792 --> 00:14:23,819
+evolution of technology and
+ownership and you know how do you
+
+279
+00:14:23,819 --> 00:14:24,135
+feel
+
+280
+00:14:24,135 --> 00:14:29,268
+like even just corporate America and and
+the industries are kind of how are you
+
+281
+00:14:29,268 --> 00:14:34,480
+seeing their adoption and in moving
+towards where different trends are going?
+
+282
+00:14:34,480 --> 00:14:36,522
+Like if people were wanted to start new
+
+283
+00:14:36,522 --> 00:14:38,308
+businesses today or if you saww ne
+
+284
+00:14:38,308 --> 00:14:39,456
+opportunities given
+
+285
+00:14:39,456 --> 00:14:41,817
+all these tools how
+would you suggest people
+
+286
+00:14:41,817 --> 00:14:44,241
+where would you suggest
+people to spend their
+
+287
+00:14:44,241 --> 00:14:44,560
+time?
+
+288
+00:14:44,720 --> 00:14:50,755
+Look, you know, there was a stat that
+came out last year, earlier this year
+
+289
+00:14:50,755 --> 00:14:53,525
+rather, that for the first time in
+
+290
+00:14:53,525 --> 00:14:56,790
+American history, the more 1099s filed
+
+291
+00:14:56,790 --> 00:14:57,185
+than
+
+292
+00:14:57,185 --> 00:14:57,680
+W-2s.
+
+293
+00:14:57,680 --> 00:14:58,240
+Wow.
+
+294
+00:14:58,240 --> 00:14:59,200
+Okay.
+
+295
+00:14:59,520 --> 00:15:03,840
+So the idea of entrepreneurialism
+is at an all-time high.
+
+296
+00:15:03,840 --> 00:15:07,490
+People are going to start
+companies, companies of less than
+
+297
+00:15:07,490 --> 00:15:10,630
+three people are the fastest
+growing segment of the
+
+298
+00:15:10,630 --> 00:15:11,360
+workforce.
+
+299
+00:15:11,360 --> 00:15:13,440
+That's not going to change.
+
+300
+00:15:13,440 --> 00:15:17,106
+AI and other tools are going to help be
+
+301
+00:15:17,106 --> 00:15:20,772
+responsible uh for accelerating the
+
+302
+00:15:20,772 --> 00:15:21,600
+growth.
+
+303
+00:15:21,600 --> 00:15:28,302
+I do believe that this entrepreneur
+that's emerging and like whether
+
+304
+00:15:28,302 --> 00:15:35,004
+you're building a business that's
+uh you're an influencer or you're a
+
+305
+00:15:35,004 --> 00:15:35,351
+DIY
+
+306
+00:15:35,351 --> 00:15:41,360
+artist or, you know, um podcaster,
+I don't believe that a lot of
+
+307
+00:15:41,360 --> 00:15:47,369
+industries are actually looking
+at those businesses as small
+
+308
+00:15:47,369 --> 00:15:48,640
+businesses.
+
+309
+00:15:48,640 --> 00:15:51,993
+So the insurance companies,
+a lot of the finance
+
+310
+00:15:51,993 --> 00:15:54,927
+companies, the banks, they don't look at a
+
+311
+00:15:54,927 --> 00:15:55,598
+streamer
+
+312
+00:15:55,598 --> 00:15:58,951
+and go, you're a small
+business, let me actually
+
+313
+00:15:58,951 --> 00:16:02,305
+have financial programs
+that are beneficial to
+
+314
+00:16:02,305 --> 00:16:02,640
+you.
+
+315
+00:16:02,640 --> 00:16:06,892
+They'll have it for a bodega or a
+flower shop because they recognize
+
+316
+00:16:06,892 --> 00:16:11,296
+that's a small business and the
+streamer can be making three times the
+
+317
+00:16:11,296 --> 00:16:11,752
+amount
+
+318
+00:16:11,752 --> 00:16:16,156
+of money as that flower shop but yet
+there's no financial services and
+
+319
+00:16:16,156 --> 00:16:20,560
+tools and insurance etc that are
+built for that or recognized as such.
+
+320
+00:16:20,560 --> 00:16:25,203
+So you're going to start to see
+that or you hopefully quickly see a
+
+321
+00:16:25,203 --> 00:16:30,103
+shift in which more of these small
+businesses would be recognized by
+
+322
+00:16:30,103 --> 00:16:35,434
+much broader financial services and
+other different categories in which
+
+323
+00:16:35,434 --> 00:16:40,248
+they've been led to to sort of adapt
+to this new economic and this new
+
+324
+00:16:40,248 --> 00:16:41,280
+marketplace.
+
+325
+00:16:41,280 --> 00:16:44,764
+So almost basically you should
+even two, three people as a
+
+326
+00:16:44,764 --> 00:16:48,320
+team is is almost like their
+own small medium business now.
+
+327
+00:16:48,320 --> 00:16:52,880
+You're saying every single person now
+can't we're yeah in that exact same space.
+
+328
+00:16:52,880 --> 00:16:58,458
+Look everybody I don't want to say
+everybody but most people, if you're
+
+329
+00:16:58,458 --> 00:17:03,564
+in the business of so if you're
+using the social networks in in any
+
+330
+00:17:03,564 --> 00:17:08,764
+shape, form, or fashion around
+your business, you're a mini media
+
+331
+00:17:08,764 --> 00:17:09,520
+company.
+
+332
+00:17:09,840 --> 00:17:11,360
+I mean, you are.
+
+333
+00:17:11,360 --> 00:17:13,760
+You're a mini media company.
+
+334
+00:17:14,320 --> 00:17:15,920
+You're trying to get reach.
+
+335
+00:17:15,920 --> 00:17:17,680
+You're trying to get advertising.
+
+336
+00:17:17,680 --> 00:17:19,760
+You're trying to develop a following.
+
+337
+00:17:19,760 --> 00:17:22,720
+Like that's what media companies are.
+
+338
+00:17:22,720 --> 00:17:27,288
+And you don't have to be Disney
+or ESPN or whatever, but
+
+339
+00:17:27,288 --> 00:17:31,145
+you can be on your way of
+building that level of
+
+340
+00:17:31,145 --> 00:17:32,160
+influence.
+
+341
+00:17:32,160 --> 00:17:36,560
+So that's to be taken seriously.
+
+342
+00:17:36,560 --> 00:17:39,941
+I I've leaned into this from the
+time I started my company and I
+
+343
+00:17:39,941 --> 00:17:43,520
+realized the power of what these
+tools are unlocking for people.
+
+344
+00:17:43,520 --> 00:17:49,331
+And we've seen the seismic rise of
+many, you know, small one or two-person
+
+345
+00:17:49,331 --> 00:17:55,428
+companies become $100 million billion
+dollar companies as a result of these
+
+346
+00:17:55,428 --> 00:17:56,000
+tools.
+
+347
+00:17:56,000 --> 00:18:00,800
+So it is to be taken seriously and I'm
+proud of all of the entrepreneurs who've
+
+348
+00:18:00,800 --> 00:18:05,600
+decided that this is what they want to do
+next and it's never too late to start.
+
+349
+00:18:05,600 --> 00:18:07,120
+It's never too late to start.
+
+350
+00:18:07,120 --> 00:18:10,560
+And somebody asked me a question like,
+how do you know you're an entrepreneur?
+
+351
+00:18:10,560 --> 00:18:13,388
+Like and it's like if
+you have this thing in
+
+352
+00:18:13,388 --> 00:18:16,217
+your head that you can't
+sleep and to get it
+
+353
+00:18:16,217 --> 00:18:16,459
+out
+
+354
+00:18:16,459 --> 00:18:19,530
+of your head like there's
+nothing you can do to
+
+355
+00:18:19,530 --> 00:18:22,358
+get it out of your head
+then you gotta go for
+
+356
+00:18:22,358 --> 00:18:25,509
+it you can't just have
+this thing you don't want
+
+357
+00:18:25,509 --> 00:18:28,580
+to be that person that,
+you know, 30 years from
+
+358
+00:18:28,580 --> 00:18:31,570
+now, whatever it is,
+looks back and says, you
+
+359
+00:18:31,570 --> 00:18:34,318
+know, that I I had that
+idea and I didn't do
+
+360
+00:18:34,318 --> 00:18:34,560
+it.
+
+361
+00:18:34,560 --> 00:18:36,720
+I don't want to live
+with that regret, right?
+
+362
+00:18:36,720 --> 00:18:41,249
+So like if you if you have that, if
+you don't have anything like that
+
+363
+00:18:41,249 --> 00:18:45,696
+that that disturbs you because you
+know you gotta do it, then it's
+
+364
+00:18:45,696 --> 00:18:50,308
+probably not the best thing to do
+to just start throwing drugs at the
+
+365
+00:18:50,308 --> 00:18:50,720
+wall.
+
+366
+00:18:50,720 --> 00:18:55,721
+But if you have a real idea that you have
+conviction about and most people tell
+
+367
+00:18:55,721 --> 00:19:00,566
+you it's a bad idea you probably got a
+great idea that you should do and go for
+
+368
+00:19:00,566 --> 00:19:00,800
+it.
+
+369
+00:19:01,120 --> 00:19:01,840
+Exactly.
+
+370
+00:19:01,840 --> 00:19:04,080
+We call it good ideas
+that look like bad ideas.
+
+371
+00:19:04,080 --> 00:19:07,701
+Like, you know, Ben's like, who thought
+it was a good idea to sleep in a
+
+372
+00:19:07,701 --> 00:19:11,512
+stranger's car and you know ended up
+Lyft and Uber ended up trans you know
+
+373
+00:19:11,512 --> 00:19:15,894
+transforming the transportation industry
+or you know Airbnb sleeping in a random
+
+374
+00:19:15,894 --> 00:19:16,720
+person's home.
+
+375
+00:19:16,720 --> 00:19:19,672
+Like comp like these sound
+like crazy ideas, but this is
+
+376
+00:19:19,672 --> 00:19:22,880
+actually where some of the real
+innovation really happens.
+
+377
+00:19:22,880 --> 00:19:27,535
+So um well when for kind of taking that
+next step because you know you have the
+
+378
+00:19:27,535 --> 00:19:29,900
+privilege of also raising hundreds of
+
+379
+00:19:29,900 --> 00:19:32,190
+millions of dollars and founders are
+
+380
+00:19:32,190 --> 00:19:32,634
+always
+
+381
+00:19:32,634 --> 00:19:37,511
+looking at you know looking at equity in
+terms of their businesses so if the next
+
+382
+00:19:37,511 --> 00:19:38,028
+stage is
+
+383
+00:19:38,028 --> 00:19:40,318
+for a founder to actually go and raise
+
+384
+00:19:40,318 --> 00:19:42,683
+capital um what are do you have any kind
+
+385
+00:19:42,683 --> 00:19:42,831
+of
+
+386
+00:19:42,831 --> 00:19:47,929
+advice or wisdom that you could share just
+as they can think about navigating these
+
+387
+00:19:47,929 --> 00:19:52,880
+these spaces as as they're starting to
+expand their business and really start to
+
+388
+00:19:52,880 --> 00:19:55,917
+take take the next stage into into whether
+
+389
+00:19:55,917 --> 00:19:59,040
+it's venture capital or
+you know PE or name.
+
+390
+00:19:59,040 --> 00:20:01,729
+What for me, I had built the business um
+
+391
+00:20:01,729 --> 00:20:04,250
+from scratch and in the advertising
+
+392
+00:20:04,250 --> 00:20:05,006
+business,
+
+393
+00:20:05,006 --> 00:20:10,720
+it's like you don't really until you get a
+client is when you have to start to scale.
+
+394
+00:20:10,720 --> 00:20:13,800
+So you can you can really start if you're
+
+395
+00:20:13,800 --> 00:20:17,440
+talented enough with
+yourself and then get get
+
+396
+00:20:17,440 --> 00:20:18,000
+going.
+
+397
+00:20:18,000 --> 00:20:20,960
+And then as you start
+adding on accounts, you
+
+398
+00:20:20,960 --> 00:20:24,000
+start adding on people
+and that kind of thing.
+
+399
+00:20:24,000 --> 00:20:30,800
+I had gotten my business up to, you know,
+70, 80 people by the time I raised money.
+
+400
+00:20:31,280 --> 00:20:35,671
+So I did it, I don't want to say I had
+leverage, but I definitely had a proof
+
+401
+00:20:35,671 --> 00:20:40,283
+point that I could be successful with
+or without the money and that the money
+
+402
+00:20:40,283 --> 00:20:45,040
+would only accelerate my growth and they
+would be able to participate in that.
+
+403
+00:20:45,040 --> 00:20:50,547
+And because I had leverage,
+because I had business success,
+
+404
+00:20:50,547 --> 00:20:55,723
+I got, you know, ownership and
+equity that was in my favor
+
+405
+00:20:55,723 --> 00:21:01,120
+because I was taking a risk with
+the business I already had.
+
+406
+00:21:01,120 --> 00:21:07,389
+I would tell any founder in this
+room or any founder whether in this
+
+407
+00:21:07,389 --> 00:21:13,316
+room or not that really take it as
+far as you can before you raise
+
+408
+00:21:13,316 --> 00:21:14,000
+money.
+
+409
+00:21:14,240 --> 00:21:20,450
+Really try to prove the idea because what
+you don't want is go in there with no
+
+410
+00:21:20,450 --> 00:21:26,562
+real proof point you get money but then
+you give away most of the company as a
+
+411
+00:21:26,562 --> 00:21:30,012
+result of that so the
+further you can get on
+
+412
+00:21:30,012 --> 00:21:33,561
+without taking a huge investment of money,
+
+413
+00:21:33,561 --> 00:21:36,617
+the more you will be able to retain the
+
+414
+00:21:36,617 --> 00:21:39,771
+company and control the outcome of the
+
+415
+00:21:39,771 --> 00:21:40,560
+company.
+
+416
+00:21:40,560 --> 00:21:45,736
+I've seen a lot of people raise
+money and get big evaluations very
+
+417
+00:21:45,736 --> 00:21:51,008
+early and it made them feel good
+you know that the headlines and the
+
+418
+00:21:51,008 --> 00:21:56,185
+headlines and they felt great and
+then they could never live up to
+
+419
+00:21:56,185 --> 00:22:01,073
+that valuation, A, or they gave
+away most of the company in the
+
+420
+00:22:01,073 --> 00:22:01,840
+process.
+
+421
+00:22:01,840 --> 00:22:04,640
+And they never felt good about that.
+
+422
+00:22:04,640 --> 00:22:07,022
+So the first thing to do is go as far as
+
+423
+00:22:07,022 --> 00:22:09,563
+you can with the least amount with your
+
+424
+00:22:09,563 --> 00:22:09,801
+own
+
+425
+00:22:09,801 --> 00:22:12,184
+resources um first before you start
+
+426
+00:22:12,184 --> 00:22:14,725
+looking to go outside and and and raise
+
+427
+00:22:14,725 --> 00:22:15,360
+capital.
+
+428
+00:22:15,360 --> 00:22:18,080
+It will you'd be much happier in the end.
+
+429
+00:22:18,080 --> 00:22:20,877
+Yeah and like into in 2026 the tools that
+
+430
+00:22:20,877 --> 00:22:23,759
+will actually allow you kind of like what
+
+431
+00:22:23,759 --> 00:22:24,014
+you
+
+432
+00:22:24,014 --> 00:22:27,065
+mentioned I mean you
+don't need to you don't
+
+433
+00:22:27,065 --> 00:22:29,948
+need to have graise $1
+million to have a 50
+
+434
+00:22:29,948 --> 00:22:30,456
+person
+
+435
+00:22:30,456 --> 00:22:30,880
+team.
+
+436
+00:22:30,880 --> 00:22:34,489
+I mean you can literally if you know how
+to use agents or different types of these
+
+437
+00:22:34,489 --> 00:22:38,152
+tools can have you know one person working
+five different organizations at this
+
+438
+00:22:38,152 --> 00:22:38,480
+point.
+
+439
+00:22:38,480 --> 00:22:43,125
+So the even the whole model of back in
+the day is of needing to raise all this
+
+440
+00:22:43,125 --> 00:22:48,227
+capital is completely changed until you
+actually find partners.s That.' right
+
+441
+00:22:48,227 --> 00:22:48,455
+You
+
+442
+00:22:48,455 --> 00:22:53,481
+can go a lot further with less and have
+develop the idea of using the tools that's
+
+443
+00:22:53,481 --> 00:22:58,735
+available, which gives you a tremendous
+advantage over the entrepreneur 10 years
+
+444
+00:22:58,735 --> 00:22:59,040
+ago.
+
+445
+00:22:59,040 --> 00:23:00,400
+Yep, yep, yep.
+
+446
+00:23:00,640 --> 00:23:05,164
+Um so uh we only we got a few minutes
+left I wanted to ask just a couple rapid
+
+447
+00:23:05,164 --> 00:23:10,139
+fire questions just because um just to
+kind of bring everything together as a as
+
+448
+00:23:10,139 --> 00:23:15,040
+what is when when you're looking at a
+deal or you're looking at an opportunity?
+
+449
+00:23:15,040 --> 00:23:18,766
+I mean, especially when it comes to
+with translation or if we're trying
+
+450
+00:23:18,766 --> 00:23:22,240
+to find an artist, you now have the
+op the the the power on your side.
+
+451
+00:23:22,240 --> 00:23:26,880
+How do you know when a deal is the right
+deal to actually move forward with?
+
+452
+00:23:26,880 --> 00:23:31,523
+I mean you've had uh successful
+partnerships and relationships
+
+453
+00:23:31,523 --> 00:23:35,822
+with State Firm to McDonald's to
+the MBA go on and on and on and
+
+454
+00:23:35,822 --> 00:23:36,080
+on.
+
+455
+00:23:36,080 --> 00:23:39,794
+How do you know when this is of the
+right deal actually to work with
+
+456
+00:23:39,794 --> 00:23:43,714
+versus this is probably not this is
+not something that my team should
+
+457
+00:23:43,714 --> 00:23:43,920
+do.
+
+458
+00:23:43,920 --> 00:23:45,827
+Like how do you have
+the discernment when it
+
+459
+00:23:45,827 --> 00:23:47,734
+comes to actually
+figuring out what what if
+
+460
+00:23:47,734 --> 00:23:49,588
+if you're getting in the because if you're
+
+461
+00:23:49,588 --> 00:23:51,389
+getting into relationship for the right
+
+462
+00:23:51,389 --> 00:23:51,760
+reason.
+
+463
+00:23:52,560 --> 00:23:56,480
+Great partnerships work
+because they're shared values.
+
+464
+00:23:56,480 --> 00:24:00,915
+Like if you and I are going
+through a partnership,
+
+465
+00:24:00,915 --> 00:24:05,675
+there has to be some shared
+value that we both believe
+
+466
+00:24:05,675 --> 00:24:06,000
+in.
+
+467
+00:24:06,000 --> 00:24:09,915
+If you're doing it because
+it's convenient and there's no
+
+468
+00:24:09,915 --> 00:24:13,748
+shared values, that usually
+ends, does not end well very
+
+469
+00:24:13,748 --> 00:24:14,400
+quickly.
+
+470
+00:24:14,400 --> 00:24:19,328
+So the greatest relationships I've
+had and partnerships that I've
+
+471
+00:24:19,328 --> 00:24:24,080
+had is when there was a clear mutual
+desire around a shared value.
+
+472
+00:24:24,400 --> 00:24:29,276
+So it forget the economics because the
+economics can start here and they can
+
+473
+00:24:29,276 --> 00:24:33,920
+go anywhere, they can grow, it cannot
+work out the way it was intended to.
+
+474
+00:24:33,920 --> 00:24:36,160
+That's all fine.
+
+475
+00:24:36,160 --> 00:24:40,000
+But it's certainly not going to get any
+movement if there's no shared values.
+
+476
+00:24:40,000 --> 00:24:44,952
+There's no reason of being it it fac int
+people don't even look from the outside
+
+477
+00:24:44,952 --> 00:24:50,133
+don't even look at the partnership and
+believe in it unless there's shared values
+
+478
+00:24:50,133 --> 00:24:55,314
+and I don't care if it's a partnership or
+you see like um brands doing partnerships
+
+479
+00:24:55,314 --> 00:24:55,619
+with
+
+480
+00:24:55,619 --> 00:25:00,419
+athletes or artists and you're like what
+the that brand what does that brand
+
+481
+00:25:00,419 --> 00:25:04,838
+have to do with this artist or what is
+that like I don't why are they even
+
+482
+00:25:04,838 --> 00:25:09,714
+together and it looks just like a check
+or transaction, because you don't see
+
+483
+00:25:09,714 --> 00:25:10,400
+the shared
+
+484
+00:25:10,400 --> 00:25:11,200
+value.
+
+485
+00:25:11,200 --> 00:25:15,774
+The shared value is a very important
+um aspect of of how you can
+
+486
+00:25:15,774 --> 00:25:20,886
+measure if something's going to
+have believability and any success
+
+487
+00:25:20,886 --> 00:25:25,908
+and that's that's more of like not
+looking at from an IQ perspective
+
+488
+00:25:25,908 --> 00:25:26,177
+but
+
+489
+00:25:26,177 --> 00:25:29,405
+the EQ and the feeling
+and the relationship
+
+490
+00:25:29,405 --> 00:25:32,185
+which goes along with it so um another
+
+491
+00:25:32,185 --> 00:25:32,903
+question
+
+492
+00:25:32,903 --> 00:25:36,131
+for you just if you could
+bet on one artist or
+
+493
+00:25:36,131 --> 00:25:39,360
+one founder right now,
+who would you bet on?
+
+494
+00:25:39,360 --> 00:25:40,880
+An artist or founder?
+
+495
+00:25:40,880 --> 00:25:41,920
+Yeah.
+
+496
+00:25:42,320 --> 00:25:44,320
+I have to pick the artist and the founder?
+
+497
+00:25:44,320 --> 00:25:46,320
+Yeah, let's do it.
+
+498
+00:25:47,760 --> 00:25:48,640
+What artists?
+
+499
+00:25:50,000 --> 00:25:54,032
+That you see that's that is
+from a from a just brand
+
+500
+00:25:54,032 --> 00:25:58,653
+standpoint that you see is
+literally about to be the next
+
+501
+00:25:58,653 --> 00:25:59,440
+big star.
+
+502
+00:25:59,440 --> 00:26:02,944
+I mean you've you've worked with
+the I mean you literally went to
+
+503
+00:26:02,944 --> 00:26:06,845
+Queensbridge to find Naj so like you
+know how to you know who the next big
+
+504
+00:26:06,845 --> 00:26:07,440
+stars are.
+
+505
+00:26:07,440 --> 00:26:11,520
+No, well, you know,
+it's sort of different.
+
+506
+00:26:11,520 --> 00:26:16,641
+It's it's it's a little different
+now because of the way music it's
+
+507
+00:26:16,641 --> 00:26:21,761
+more it's there's more the song
+business than the artist business
+
+508
+00:26:21,761 --> 00:26:22,320
+today.
+
+509
+00:26:22,320 --> 00:26:25,755
+People listen to songs and
+actually don't know and like
+
+510
+00:26:25,755 --> 00:26:29,040
+the song and don't even know
+who the artist really is.
+
+511
+00:26:29,680 --> 00:26:31,840
+That's more of what you're seeing.
+
+512
+00:26:31,840 --> 00:26:35,899
+So unfortunately, you you don't it's
+not like back in the day where there
+
+513
+00:26:35,899 --> 00:26:39,957
+were so many artists that people bought
+into the artist the way they used
+
+514
+00:26:39,957 --> 00:26:40,160
+to.
+
+515
+00:26:41,600 --> 00:26:46,224
+However, we have an artist and
+I I think he just released an
+
+516
+00:26:46,224 --> 00:26:51,040
+album yesterday, Big X the plug,
+he's from he's from Dallas.
+
+517
+00:26:52,240 --> 00:26:53,600
+The biggest.
+
+518
+00:26:54,800 --> 00:27:00,080
+And you know, in the last five years,
+he's grown as an artist tremendously.
+
+519
+00:27:00,080 --> 00:27:04,326
+He's reached me, he's put out uh uh,
+you know, obviously a couple rap
+
+520
+00:27:04,326 --> 00:27:08,950
+albums but he put out a country album
+that was massively successful and on
+
+521
+00:27:08,950 --> 00:27:13,499
+that country album he had Ella Langley
+and and Paul Spallone and and Luke
+
+522
+00:27:13,499 --> 00:27:13,878
+Combs
+
+523
+00:27:13,878 --> 00:27:18,502
+and all the great country artists were
+on his album and the reason why they
+
+524
+00:27:18,502 --> 00:27:23,051
+were on his album because they believe
+him and they believe that he's the
+
+525
+00:27:23,051 --> 00:27:27,600
+future of, you know, at least what
+country rap music could and should be.
+
+526
+00:27:28,160 --> 00:27:33,148
+So yeah, I I would bet on
+big ex the plumb for sure
+
+527
+00:27:33,148 --> 00:27:38,393
+100 um founders you know
+you you you get a chance to
+
+528
+00:27:38,393 --> 00:27:43,765
+meet so many founders sitting
+in my seat with great
+
+529
+00:27:43,765 --> 00:27:48,369
+ideas and uh work I
+think that is absolutely
+
+530
+00:27:48,369 --> 00:27:50,160
+unprecedented.
+
+531
+00:27:53,120 --> 00:27:58,587
+When I I met Travis Cownick uh
+when he built Uber early on and
+
+532
+00:27:58,587 --> 00:28:04,166
+I remember I learned so much
+from him, just his dedication to
+
+533
+00:28:04,166 --> 00:28:09,187
+hiring and the amount of rigor
+he had around the hiring
+
+534
+00:28:09,187 --> 00:28:10,080
+process.
+
+535
+00:28:10,080 --> 00:28:13,040
+So he would always get great people.
+
+536
+00:28:13,040 --> 00:28:17,600
+And firing fast was also obviously
+that's that's batteries included.
+
+537
+00:28:17,600 --> 00:28:21,600
+You can't have things fail for too long.
+
+538
+00:28:21,680 --> 00:28:26,953
+Travis has now obviously started a new
+company called Adam that you guys and
+
+539
+00:28:26,953 --> 00:28:32,142
+Andreasen Horwitz is back and I would
+bet on him being successful again for
+
+540
+00:28:32,142 --> 00:28:32,560
+sure.
+
+541
+00:28:32,560 --> 00:28:33,600
+100%.
+
+542
+00:28:33,840 --> 00:28:36,960
+He's definitely, I mean
+He's a force of nature.
+
+543
+00:28:36,960 --> 00:28:39,360
+Rule number one has never
+been against Travis.
+
+544
+00:28:39,360 --> 00:28:40,560
+Yeah.
+
+545
+00:28:40,560 --> 00:28:46,385
+Yeah, Travis started Uber um and
+he was Travis was living at home
+
+546
+00:28:46,385 --> 00:28:52,320
+uh with his parents after failing
+in his 30s when he started Uber.
+
+547
+00:28:52,320 --> 00:28:54,720
+Yeah, never too late, never too late.
+
+548
+00:28:54,720 --> 00:28:59,626
+Um well look Steve it's this is one
+we we are grateful for you for you
+
+549
+00:28:59,626 --> 00:29:04,800
+to be here and to share all your
+wisdom and and and conversation today.
+
+550
+00:29:04,800 --> 00:29:10,080
+I think I would like to leave it with,
+you know, it's ten years of Afrotech.
+
+551
+00:29:10,080 --> 00:29:14,813
+You know, I I was, you know,
+fortunate enough to even to see all
+
+552
+00:29:14,813 --> 00:29:19,731
+10 years and and to see the
+evolution of Afrotech and technology
+
+553
+00:29:19,731 --> 00:29:24,742
+and our culture just getting more
+engrossed into just the future
+
+554
+00:29:24,742 --> 00:29:25,021
+of,
+
+555
+00:29:25,021 --> 00:29:30,218
+I always call it culture and
+innovation and I'm more optimistic now
+
+556
+00:29:30,218 --> 00:29:35,043
+than ever for us to kind of continue
+on to the path of ownership,
+
+557
+00:29:35,043 --> 00:29:40,240
+you know, bridging the gap between
+working with some of the world's
+
+558
+00:29:40,240 --> 00:29:42,360
+leading technology companies and starting
+
+559
+00:29:42,360 --> 00:29:44,480
+our own businesses in
+the technology space.
+
+560
+00:29:44,480 --> 00:29:48,190
+You know, I was always a firm believer
+that the next generation of wealth
+
+561
+00:29:48,190 --> 00:29:52,085
+was happening within the technology
+industry and, you know, even from here
+
+562
+00:29:52,085 --> 00:29:55,981
+today, it's it's super important to
+have access to the information because
+
+563
+00:29:55,981 --> 00:29:59,629
+that's the number one thing when it
+comes to really understanding this
+
+564
+00:29:59,629 --> 00:30:00,000
+space.
+
+565
+00:30:00,000 --> 00:30:05,392
+What do you project or what would be
+your final words for if someone did not
+
+566
+00:30:05,392 --> 00:30:10,696
+come for Afrotech until the next 10
+years that you would give them on some
+
+567
+00:30:10,696 --> 00:30:16,000
+some some trailing advice to actually
+go out and do go go out and prosper?
+
+568
+00:30:16,240 --> 00:30:21,600
+I think what you guys are doing
+here at Afrotech is outstanding.
+
+569
+00:30:22,240 --> 00:30:26,409
+The the people that you're getting
+to come and share wisdom, but also
+
+570
+00:30:26,409 --> 00:30:30,651
+the fact that people can come together
+and network and, you know, it's
+
+571
+00:30:30,651 --> 00:30:34,893
+similar have you know similar
+circumstances you're gonna see people
+
+572
+00:30:34,893 --> 00:30:35,185
+like
+
+573
+00:30:35,185 --> 00:30:38,111
+yourself and you get a
+chance to talk and discuss
+
+574
+00:30:38,111 --> 00:30:41,036
+and that's how great things
+happen when you find
+
+575
+00:30:41,036 --> 00:30:44,035
+people again shared values
+they use share values
+
+576
+00:30:44,035 --> 00:30:46,960
+with that you can speak
+to about what's going on.
+
+577
+00:30:48,240 --> 00:30:50,400
+The time is now.
+
+578
+00:30:50,400 --> 00:30:52,160
+The time is now.
+
+579
+00:30:52,160 --> 00:30:56,902
+We have technology on our side as
+it relates to the fact that you
+
+580
+00:30:56,902 --> 00:31:01,371
+don't need you know millions
+and millions of dollars to get
+
+581
+00:31:01,371 --> 00:31:06,570
+started because technology is at
+your fingertips number one number
+
+582
+00:31:06,570 --> 00:31:06,843
+two
+
+583
+00:31:06,843 --> 00:31:12,680
+your insights, what comes naturally to
+you because of the circumstances you
+
+584
+00:31:12,680 --> 00:31:18,334
+grew up in, your household, your
+relationship with your uncle, your aunt,
+
+585
+00:31:18,334 --> 00:31:24,080
+your family, whatever it is as African
+Americans that you've gone through,
+
+586
+00:31:24,080 --> 00:31:28,360
+that's actually a necessary perspective in
+
+587
+00:31:28,360 --> 00:31:32,640
+the world that's
+constantly taking from us.
+
+588
+00:31:32,640 --> 00:31:34,240
+Bring that to the table.
+
+589
+00:31:34,240 --> 00:31:38,920
+Bring a hundred percent of
+you to the table I've always
+
+590
+00:31:38,920 --> 00:31:43,912
+found the my most success when
+it was something that was my
+
+591
+00:31:43,912 --> 00:31:49,112
+good instinct that was shaped
+by Queens New York my friends,
+
+592
+00:31:49,112 --> 00:31:49,320
+my
+
+593
+00:31:49,320 --> 00:31:54,312
+circumstance, my family, when
+I brought that to the table
+
+594
+00:31:54,312 --> 00:31:59,200
+and then mixed it with, you
+know, data and the technology
+
+595
+00:31:59,200 --> 00:32:04,088
+and you know all the sciences
+around it, that's when I got
+
+596
+00:32:04,088 --> 00:32:04,400
+the
+
+597
+00:32:04,400 --> 00:32:05,200
+best result.
+
+598
+00:32:05,200 --> 00:32:10,182
+When I did not bring my full self
+to the table and I just allowed
+
+599
+00:32:10,182 --> 00:32:15,360
+the information to be what it was
+in front of me, it never worked.
+
+600
+00:32:15,360 --> 00:32:17,600
+You're the actual difference.
+
+601
+00:32:17,600 --> 00:32:21,455
+So just know that whatever
+you're building or if
+
+602
+00:32:21,455 --> 00:32:25,214
+you're at at work, bring
+that perspective with
+
+603
+00:32:25,214 --> 00:32:25,600
+you.
+
+604
+00:32:25,600 --> 00:32:27,440
+Don't leave it at home.
+
+605
+00:32:27,440 --> 00:32:32,645
+What you think and how you feel and
+everything that you've gone through
+
+606
+00:32:32,645 --> 00:32:37,851
+to shape the experiences that is the
+life that you live today is exactly
+
+607
+00:32:37,851 --> 00:32:42,880
+the missing ingredient for the success
+that you want in front of you.
+
+608
+00:32:43,040 --> 00:32:46,400
+Commissioner Steve Stout,
+thank you very much.
+
+609
+00:32:47,040 --> 00:32:47,520
+Thank you.
+
+610
+00:32:47,520 --> 00:32:49,360
+Congratulations, Oregon.
+

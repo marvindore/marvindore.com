@@ -1,6 +1,7 @@
 ---
 import { render } from "astro:content";
 import RelatedPosts from "../../components/blog/RelatedPosts.astro";
+import TranscriptPlayer from "../../components/blog/TranscriptPlayer.astro";
 import SubscribeCta from "../../components/blog/SubscribeCta.astro";
 import YouTubeEmbed from "../../components/blog/YouTubeEmbed.astro";
 import { channels } from "../../data/youtube";
@@ -15,7 +16,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props as { post: Post };
-const { title, description, pubDate, youtubeId, tags } = post.data;
+const { title, description, pubDate, youtubeId, tags, talks } = post.data;
 const { Content } = await render(post);
 ---
 
@@ -33,6 +34,14 @@ const { Content } = await render(post);
     </p>
     {youtubeId && <YouTubeEmbed videoId={youtubeId} {title} />}
     <article class="prose"><Content /></article>
+    {
+        talks.length > 0 && (
+            <section class="talks" id="talks" aria-labelledby="talks-heading">
+                <h2 id="talks-heading">Audio and transcripts</h2>
+                {talks.map((talk) => <TranscriptPlayer {...talk} />)}
+            </section>
+        )
+    }
     <SubscribeCta channel={channels[0]} />
     <RelatedPosts currentId={post.id} />
 </PageLayout>
@@ -42,6 +51,10 @@ const { Content } = await render(post);
         margin-top: 0.5rem;
         color: var(--text-muted);
         font-size: 0.9rem;
+    }
+
+    .talks {
+        margin-top: 2.5rem;
     }
 
     .prose {

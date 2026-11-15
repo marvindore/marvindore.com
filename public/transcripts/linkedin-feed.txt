@@ -1,0 +1,351 @@
+Travis, I want to start because we're going to be talking a lot about how the feed empowers people, how people are able to represent themselves as experts in their fields, how they can reflect on their nonlinear career paths and find a way into an industry or in in in into a role.
+
+And so since that's gonna be underpinning some of our discussion here, I'd love to hear like how did you plan this role? You've been working in social media for a while, you've worked at IG, you've worked at LinkedIn, like how did you get here?
+
+Yeah, for sure. What's up everybody? How's it going? Good? Cool. So I actually started my career. I I had my first dabble in technology I worked on, the Hillary Clinton campaign and then uh I worked at a management consulting firm and I was actually gonna leave corporate entirely.
+
+I was like I don't think this corporate thing is for me I'm not filling the vibes here I didn't want wear a seat in time to work every day and so I was actually going to apply and get my MSA in playwright and I had a friend of mine who was like listen you've done some tech stuff because I worked in data and analytics so I'm going to replay the campaign what does it look like for you to apply that to like social media and work at Facebook every time?
+
+And I said, I don't know. And so I applied, he kind of helped me through the process and I ended up getting a job at Meta. And so I got into Meta and I've been in machine learning, which is what we call AI the entire time.
+
+And I focused on first kind of how do we create like representations of human beings? We call like embeddings, right? So each, and we'll get into this later, but LinkedIn is powered by embeddings, right?
+
+So what's our representation of users? Using that and then working on Instagram Explorer and then going from Instagram Explorer to being on the founding team of Instagram Reels. So I was there when we first launched Reels uh people like literally didn't know how to use the app at all and then to Reels becoming kind of what it is today.
+
+And so a few years ago I got really interested in there's you know what does the concept that serve you, but then how do you make the determination of what do we not serve you, right? What what kind of content is inappropriate to a certain platform?
+
+So we call that content trust brought. So then I moved over to LinkedIn and I worked on content trusts. And then over the last kind of year or so I've been focusing on the feed working with Simon team on comments, comments ranking, how do we make you have an authentic experience on the LinkedIn platform through comments?
+
+And so that's in my experience so far it's been absolutely fantastic and uh yeah Taylor would love to hear about your experience I hate talking about myself um I'll I I will talk to my talk about myself just so I can like frame up what LinkedIn is about.
+
+Um so so I've been I've been working on LinkedIn the year for like over a decade now. Um I I was in grad school for political science. Uh when I was in the graduate political science, I was working with this amazing advisor at Amber Winston, who was basically studying like how how messages in multiple implementation shapes the American electorate and how it influences building patterns.
+
+Super fascinating stuff. And over here, day of infection day, and we saw a lot of interesting self-play out there as a byproduct of our democratic process here in the US. And so that's not a natural path yet into like, you know, industry machine learning.
+
+I was doing a lot of applied L. I was classifying a lot of political communication and then processing against electro data. Um but life is never predictable.
+
+Um so so my dad got racing. I had to drop out of grad school. Um and I had to figure out a way to like just provide. Um I I ended up looking at some startups, trying to figure out like is there is there a way in for grad students that are doing some quite well?
+
+There was one startup that decided to take a cancel on me. It was like, I know you don't have any like industry general experience, but we're gonna take a cancel on you. That can be what's called Pulse. It was required by LinkedIn.
+
+And when I joined LinkedIn, like our we were we were required within like a year of rejoining. And our job was, hey, there's no feed on LinkedIn. We want to create a content experience.
+
+Uh like how do we do it? So step one, if you want to create a feed, you actually need content and you need creators. So we built a publishing platform and our influencer platform.
+
+We had Richard Branson and a bunch of folks that like about 100 influencers. It was around the time, I think, when when Barack Obama was elected president, like he was one of the influencers on our platform. It was just like freaking incredible to see that like people wanted to go to this trusted place where they could have these conversations.
+
+And then the next thing once you have that content is actually figuring out how to personalize it. At the time we had hundreds and millions of numbers already and we had to figure out how to distribute this whole thing. And so like I've seen the entire journey from recency-based to like you know optimizing with ML to the pandemic and all the crazy stuff that happened in the like misinformation during the pandemic to other test issues that have evolved, the Rise of AI and the AI slot, we're probably gonna talk about all of it.
+
+And so it's been a really interesting journey. But I think I think the most interesting thing about it is when I was dropping out of grad school in this moment where it was just like like my life really took took a turn.
+
+I freaking wish I had a LinkedIn feed at that moment. Like there was there was nothing out there where people were leaving their breadcrumbs of hey like I may not know your full path but I've been on a portion of it and like you're gonna be okay.
+
+You're gonna be okay pivoting out of grad school and like and picking something else up. You're gonna be justified. And so something that we've probably talk abouting a lot is uh, you know, I I really hope all of you, I mean you know, whether you're a student, whether you're early career professional, whether you're starting SMB, yesterday we had this amazing event with SMBs that you've linked in.
+
+Um, Tiffany yeah, was, we were going to read Tiffany was the president of the Ted Birch Foundation. She was just like, use LinkedIn to establish yourself as an expert, contribute to LinkedIn, share your insights when you have something to share, because somebody might be looking for that exact thing in that moment that's like the best way to use the platform um because people are on a bunch of non-linear career paths like the people the the there's not like a traditional passion where to get into these things um it's a it's a switch hitter game.
+
+I think we should uh I think we should talk a little bit about that. Tip, what are you seeing? I guess maybe you go from the engineering side and I'll go to the product side. How are you seeing kind of the landscape evolve for engineers with this modern day market with the advent of AI, with kind of the changes everything going on in technology.
+
+What are you seeing progress? You I mean you I think we were talking passage about such a like my one of my first managers was like, with those of you who are baseball fans, switchers, you know, baseball players that can bat left, not right, they're amazing players.
+
+They make the game unpredictable for for the pitcher. Um and uh increasingly, like with AI and kind of making the tech parts of the job simpler, the people who are like best in their roles and are just like killing it are people who are searchers who like came from some other domain, came into atta withck like a perspective and a worldview about something that's completely not like completely connected to necessarily what they do day to day and that external perspective is giving them the context they need to actually do a phenomenal job.
+
+And then they're using all these AI tools to to build out solutions that actually solve the problem that like they're identifying because they have that unique view. And so I mean that's what I'm seeing.
+
+I'm seeing people who are you know using AI tools but then because of this like switch packer mentality they're able to play the product role they're able to play a little bit of the design role they're able to play a little bit of the engineering role and like quickly piece together a solution that works way better than if you had designed by committee with every function kind of like coordinating, creating a PRD here and a spec there and a mock here.
+
+So that's what I'm seeing and I'm curious, I mean curious what you're seeing, because the product role has also evolved quite a ton like in even like since January. Oh, the game has changed completely.
+
+Um how many this is the question the question, how many like product design engineering people in the room? You just like raise your hand? Alright, so good then. Okay. I would argue that the product manager is no longer just your classic, oh, here's what to do broadly.
+
+It's like here's what to do and then the engineer looks at you and goes, okay, so you go do it. And so it's at the point where if I come up with an idea and I'll obviously You're complaining about the time sizes.
+
+Find the GPUs. Exactly. So to give you guys a sense, I work on comments right now. So I make a determination often about when to show you comments on the feed, what comment to actually show you, etc., etc.
+
+Historically, in order to do my job, I would have created an idea of, okay, this is wrong what I want the comments to look like, and maybe start to like label some of, you know, the comments, okay, this is strong, this is a great, you know, this is a great experience.
+
+Now it's at the point where I both come up with the idea, figure out and label comments, and then actually get into working with large and small language models to actually do the detection and thro theugh evaluation and then actually submitting what we call the PR pull requests.
+
+And so end-to-end nowadays product managers are increasingly just defining the entire scope. And so historically it used to be about, you know, can you think about this problem and now it's much more, can you think about this problem and actually come up with a solution and do it end-to-end, which is a total game changer.
+
+And it's also empowering for everybody here in Miami because you now have the opportunity to say, oh, I might be able to do something. This is this idea that I have and post about it.
+
+I've seen people on LinkedIn post full kind of like websites and full apps end-to-end that you can go and like get on the app store and so this is kind of the change of the dynamic overall and I just think it's I and I truly mean this like it's a phenomenal time to be a builder because the cost of building is just going straight down and so for all the people that are up and coming and trying to figure out how to pivot or think about these, I kid you not, share, do the work, learn the tools, and then share your work on LinkedIn.
+
+And I guarantee you, it's literally our job to find the individuals that are seeking out this kind of information and to be able to pair them with the right information. So I really think it's a a phenomenal time to be able to.
+
+Awesome. Alright let's give a people they want. Let's talk about uh let's talk about what the lead about. So Charles, maybe I can ask you, like, what is the lead about? You know, why should people use it? How should people be using it from the product perspective?
+
+What do you think about those of crop principles the feed and white? Absolutely. So when we think about the feed internally of LinkedIn, we think about it as a economy, right?
+
+We often refer to it as the knowledge marketplace, right? It's a place where you have somebody who has an idea for goods or service and you have somebody who wants to consume that idea.
+
+But it's an economy where in order for it to work well you need people to be consumers and also producers. So if you consume a piece of content, you should also be thinking, hey, how do I actually add to that conversation?
+
+How do I make what we call the flywheel, which is somebody who consumes and then creates and then is part of this like larger conversation about how to make the world a better place, right?
+
+How to make things work, how to earn money, how to live life. And so when we think about these, we design kind of principles that we operate with. And so, you know, one of our principles is making sure that members are always seeing the content that is like appropriate for them, right?
+
+Another one of our principles is we want to show you things that are relevant to you, but then also allow you to explore things that are outside of your domain so that you can get exposure to other things that are relevant to you but might not be exactly what you work in.
+
+So if you work in sports management also showing you something about business that might not be directly related to sports. And so that's broadly how we think about kind of the feed overall.
+
+And specifically I work on comics. And so what what we think a lot about is, hey, how do we get people to actually feel like a useful participant within this ecosystem?
+
+And we have some classics, right? If somebody makes a comment, they are four to seven times more likely to say that they have a phenomenal experience on the platform, right? So simply by engaging rather than just kind of scrolling and saying, oh, that's cool, but getting involved in the conversation, people are going to have a better experience.
+
+And when people tend to have better experiences, they tend to have significantly more opportunities down the line. And very frankly, like I'm up here speaking because I started posting about my work and the things that I do at LinkedIn consistently.
+
+And so I think that's the power of the feed and how we think about kind of the knowledge marketplace for individuals, broadly speaking. It's pretty it's pretty crazy. I mean, you know, we think about the feed as you just get a bunch of posts and like you just work on like if the product can be the interest comments portion of the feed like talk like talk about like should like the problems like that must be like a unique problem in itself people must post some interesting stuff in the comment section you don't want to talk about Oh no, I want to talk about it.
+
+I want to talk about it. Okay. So to give you guys a sense, we have roughly, we call it impression, so the number of people. We have about 700 million comments that get you on a daily basis.
+
+That's a ton of comments. And so if we walk down, we call this the pump, right? How do people first identify a comment? So if you're on the LinkedIn feed, some pumps don't have comments shown, and then others do have comments shown.
+
+And so we make a determination about when should we show you a comment. And then is that comment the appropriate comment for you to be engaged in? And then let's say you find a post that you find oh man Travis he posted this let me click into it then there's that next set of comments right there's a whole set of comments on that what order do we show them to you in do we allow them to pin comments which we recently launched and then once you begin to type, oh, this is an interesting idea, let me support my idea, how do you consider that comment within the larger ecosystem?
+
+Now, this is the baseline experience, but then we have the other side of it, which is uh unfortunately there are some people who are defectors, right? So for those individuals um that are leading to I said defective defective.
+
+De factor, defective, yes, okay. Defective. When people make comments that are maybe less tasteful or not appropriate for the platform, thinking about, I want to rank the least comments for you, I want to make sure you're seeing the best comments and making sure you're seeing the prop the comments that are shooting, making sure you're not seeing the comments that are problematic.
+
+And so that's a whole nother different kind of category of this. And so we consistently think about this whole ecosystem and what do we show? W dohen we not show? And when do we provide kind of like that experience when you're answering this problem?
+
+So something as simple as, and this is just comments, something as simple as comments that you think, oh, I just made a comment is actually a massive infrastructure with literally millions, maybe even more, millions of lines of code that are making a determination of what to show you on a day in and day out basis.
+
+And that's only on common. So think about how large and complicated this gets from the entire feed overall. And so I'm going to pause right here because I'm an expert on feed, but Tim is the the key expert on feed.
+
+And so we can really get into, you know, everybody wants to know about the algorithm how do the algorithm work Tim can you begin to break down uh from a high level maybe and then let's get all the way into kind of the nitty-gritty details of when somebody enters into the ecosystem, right, I come on to link what's happening from an algorithmic standpoint to provide them with the information that they see.
+
+Alright, that's it. I'll tap you in because you you have some of the details here that I know. I mean so so like any recommender system, feed in particular, I mean there's three big components to it.
+
+There's the retrieval, which is like of all the you know millions of pieces of content on LinkedIn, like how do we actually retrieve the stuff that we think is meeting the professional bar and also relevant to you as a professional based on your identity looking device.
+
+There's a ranking where we start personalizing things based on things that you give up some engagement. There's certain people in your network that you probably engage more with. There's certain topics that you care about.
+
+There may be a salient news event that's happening and we we pick up that based on your past interests. You're probably interested in it. And then there's the what we call the multi-objective optimization.
+
+So we have comments, we have reshares, we have private messages, we have all sorts of ways that you can engage with with compound then. And for each of these we actually have like a separate ML model.
+
+So we have a model that predicts likely that you're going to comment on this thing, likely that you're going to send a private message, likely that you're going to like it, likely that you're gonna reshare it. Each of these is like its own prediction and we need to figure out how to compose that for every member.
+
+Some people are looking to pass this role to read. They want to like learn, they want like information from people they they admire to kind of just like inspire them, to learn from them, to learn on topic.
+
+There are some people who are looking to build their SMB or build their brand, like professional creators, they want to get out there, they want to engage their audience, they want to have that conversation with their audience.
+
+And so you can see how you would like tune this multi-objective formula differently depending on what outcomes somebody cares about. And so there's a lot of innovation that goes through treatable ranking and this multi-objective optimization to ultimately present you a set of updates that is is useful for you, but also, I mean, balanced in the marketplace, useful for the the the creator the the person who created a LinkedIn they have a reason to create they they're looking to to achieve some outcome and we have to kind of balance one of those factors to make sure that it really is this kind of give and take.
+
+Um, so let let's let's just actually make sure this is clear for the audience. So so retrieval, we're breaking that down. This is literally there are billions of posts in LinkedIn's database, right?
+
+And we're we're deciding, hey, what's the thousand or so candidates that might be appropriate for you as an individual, right? So that's retrieval. And then we move to the ranking.
+
+So we truncate some of them and then we say, hey, one at the top, let's call it however many number. And then we say ranking is about actually saying which of those should be in position one, exactly.
+
+Two, three. Exactly. So we're reorder we're essentially reordering them based on what you've done in the past. And then we get some the multi-objective function where we're essentially saying, hey, based on all of this that we know, based on your past actions, what do you think uh you're actually going to do?
+
+What is the probability that you're gonna do something right? and And each of these plays are pretty equal. So actually, given your background and trust, like we should start with retrieval. Retrieval is not just about getting the full set of things that might be relevant to you.
+
+It's also about, this is where like all our trust and safety stuff goes in, making sure that there's that we have a very safe platform, a trusted platform. It's where we make sure we enforce kind of like we don't want AI swap to just be like freaking vital platform so this is where we have those checks and you deal with this all all the freaking time so I mean you're probably better to talk to like what are the checks that happen retrieval like what what do we actually deal with the size of the models that actually power it and and all runs up our views for like embedding matching and all that.
+
+Yeah, yeah. So uh Tim was mentioning what we we call this face of trust and safety broadly right how do we prevent you from seeing essentially inappropriate content, right?
+
+And I was talking about this a little bit earlier, but effectively the way that we do this is we say, hey, what is let's say we wanted to design a classifier for K teach, right?
+
+Everybody objectively says like pay not appropriate on the platform. I agree. I hope most people can agree on that today. So let's walk through the process somehow, right? Okay. We have to decide what constitutes a state speech, right?
+
+And so we work with the legal team, we work with the policy team, we work with product editors, engineers, a bunch of different people that sit together and really make a determination of, okay, we want to be very explicit about what this is.
+
+And then we kind of work with the engineering team to say, okay, let's build what we broadly called a classifier, right? Or something that's able to detect this content. And so what Tim is saying is in that retrieval phase we we bring in the classifier and say, hey, this content entering, is this potentially hate speech?
+
+And the classifier will say, yes, it is. And so then we'll remove that from being eligible to get distribution throughout the platform. And so this is like a massive, massive part of social media in the modern day.
+
+It's what I think a lot of social media companies in the past have been flagged for for not you know doing a good job or excuse me not strengthening but I think at LinkedIn you know I got hired explicitly to focus on this and we have a team of a couple of product managers and a huge team of engineers that's focusing explicitly on this area.
+
+So this is like, and I'll put it this way, if we did not have kind of trust and safety classifiers, your LinkedIn or all your social media experiences would be an entirely, entirely different kind of experience overall.
+
+And so that's how we think about this kind of going into the ecosystem and past this stage it goes into the retrieval ranking and multi-agenda problem. So you touched on on one example which is like super clear, right?
+
+It's like but like we've been talking a lot about AI slot. I mean every every freaking platform is dealing with this right now. Like that's not as clear cut. Like you kind of know when you see it, but like people are going to use AI tools that's like like we're asking everybody to use AI tools like I advertise so like how do you how do you have those those cases where it's much more subjective like what's what's the strategy there?
+
+Yeah uh one this is difficult because if I were to ask you, you, and you about what AI slot is, you would all have a different opinion on this, right?
+
+And so the way that we think about this is actually two-sided. On the first side, we make an objective determination about the blatantly kind of like, oh, this is clearly AI's love, no effort went into this.
+
+There's like emojis, there's m dashes, there's every possible thing, and it's not actually saying something. Maybe it's like repeating the exact post back or it's talking about a whole different topic that the uh that the post wasn't about, right?
+
+So that's that's part one. And then we go through that process that I talked about earlier where we said, okay, what is the policy? How do we engineer this? Let's work with, you know, legal policy.
+
+We get re- I mean, and these conversations get really, really intense because everybody has a really strong opinion. And so half of my job is just mediating the room to make sure that we're all on the same page while we have these conversations.
+
+And then so we launched the classifier and then at the same time and this comfortable circle focusing on the actual ranking of it. So we want to uprank comments that are worthwhile and add it into the conversation.
+
+So these two pieces now you can see actually work together. You want to convey the comments that are perfect for you and you and you based on your experiences, and then you want to reduce the comments that are going to create a deleterious experience for you guys.
+
+The AI spot comments, the hateful speech comments, all the problematic and we have, you know, plenty of different policies across all of this. And so when you put all of these together, this is how we end up with the extremely complicated ecosystem that is LinkedIn.
+
+But I absolutely love it. I wouldn't I wouldn't want to do anything else. And I think every time I see you know problematic comments being taken down or somebody having a really good experience on the platform, it just makes my job uh and fills my heart so it's absolutely fantastic.
+
+Yeah I might I might just add a few things especially especially on the iSlot, like, because we we just went through like a scamp on this. It is a challenging problem. I think there's a lot of facets to it. There's obviously kind of like the classifier bit.
+
+We introduced a, it seems like the iSlot button like a few weeks ago, trying to get some signal from the community because it's so subjective. Like like what what do you feel seems like AI slot? We also have a global editorial team that helps us iterate on the on the policies of like what is AI slot because it's evolving.
+
+This is like it's it's an adversarial thing though. Like it's it's changing, you need to evolve, you need to have these technologies available to really adapt quickly. And so getting a little bit into like the weeds on AI slot because it helps kind of illustrate how how we respond to these kinds of things.
+
+We essentially take like a really, really, I'm thinking we were like the largest LM you you can, pick your favorite from geo model. And we provided a lot of fine-tuned data from member reports, from our editorial team, like all sorts of sources to say, here's AI swap.
+
+And we get to a point where like this this LM can predict the X law pretty reliably. The thing is you can never serve this thing online. Like nobody wants to serve, you know, I don't know your your like some 27 billion round or model online like in production for the amount of queries per second that like come into length and feed it like a billion members, like it's, it's, you'd melt a few few data centers like that.
+
+And so we essentially take this approach where we we take that model, we call it a teacher model, and we take a much much smaller model that's like efficient enough that can be served online call that the student model and we essentially have the student model learn from the teacher model and it distills down all this information to get into like a very small representation and that's how we're able to then have an AI small classifier that like the student model becomes that and it can be served at like you know billion plus member scale.
+
+And this is like a very rapid loop where you can just like if if something changes you provide a few more examples to your teacher and you just till down the student. You just we do this like when we had our initial AI slot sprint we did it in five days.
+
+Five days and like people are like five days to put the AI slot button in the feed like you guys are slow it's like no the slot button took took like an hour like it's it's it's like getting the data and stilling down the model that like sorry but it takes us you know a little bit of time just to still that down a few training cycles a few iterations um but that's how like we're super, super adaptive in in that space.
+
+Should we talk about ranking? Yeah. Is there anything else you want to talk about in treatment? No, let's get into ranking again. Alright. So ranking. So we we talked about like, okay, we we've identified the stuff that's you know eligible for you that to that that we want to service to you that's toply matched to you on the retrieval stage.
+
+So in ranking it's like how to make sure the absolute best stuff is in position 1, 2, 3, 4, 5 to make like a really, really good feed for you. And so, you know, I'm kind of curious, like, this is where a lot of the product principles will start to shine through in terms of like what do we expect the link compute to be about, right?
+
+And so like if you were to like kind of riff on like what is the actual best stuff that we want people to see in general in position one like what is it like what kind of like creators are creating that content like what kind of factors factor into being in management for like a viewer on the website yeah absolutely.
+
+So we look at or we set principles across a bunch of domains. I think the biggest one is authenticity, right? We want the content that is showing up to be authentic to that person, to be original from that person, and to be deeply insightful, right?
+
+And insight has a couple of different meanings and we debate this a lot because some people believe that, hey, you know, LinkedIn should only be, you know super professional kind of super buttoned up content and I think over time we've actually relaxed this and we've made a determination of hey whatever you find appropriate for yourself on LinkedIn it's broadly going to be professionally related but if it ends up being some jokes or someone like corporate Natalie who's cracking jokes about the kind of corporate experience or something that's very serious about in-depth kind of three-tier ranking systems, then like that's the appropriate determination overall.
+
+But we set a principle of saying, hey, we want this to broadly be kind of professionally related, we want this to be authentic, and we want to make sure that um uh that our individuals are having a phenomenal experience and so we look at mentorings to make a determination of how is this content doing on the platform for this individual kind of overall.
+
+Yeah, and I mean behind the scenes to like actually like make this determination, um, there's a lot that we've we've adapted from the LLM space. So if you think about like LLMs as, you know, they essentially like predict strings of tokens tokens being words and then like we've built a bunch of systems on top of this now to like do reasoning etc um but if you think about like elements being like hey I have this word and I'm going to predict the next X words.
+
+When we start going to ranking, we've actually built what we call just large-scale sequence models. And instead of the token being a word, it's actually like a post, a post you've engaged with, a post you've you know tech spent time reading and what we're trying to predict is like you know what rabbit hole are we taking you down professionally here uh did you start like researching like you know nuclear reactors and now you want to go deeper into like modular nuclear reactors, like what's what's the path of of information that you're kind of like chasing down?
+
+And it really tries to get at like that intent, outcome, like what you're interested in. And so whereas like our retrieval systems use LLMs and we use word representations to understand what the content is about and it's like is this roughly a good match of Travis.
+
+When we start getting into the first the ranking phase it's about like, all right, what is the last thousand things that Travis engaged with Red on LinkedIn, maybe the type of job. Like what's what is he doing on LinkedIn?
+
+Let's try to predict pieces of content that are going to support him in his job search or or help him go deeper in a particular topic. And so a lot of the work that the team does is around how you actually construct those sequences to make sure that they represent and represent people.
+
+One of the hardest problems is like in the absence of any sequence, something interesting going up in the draft is the in the absence of of having that sequence data, like you have to try to solve this kind of like we call a cold star problem, something kind of related to the fresh uh and we don't know anything about them then i think like i'm curious like what signals do we we do we look at like in terms of i mean you probably know this like what what are the things like profile identity like like what what do we look at in in in the ColdStar case for for feed to attract on content?
+
+Yeah, ColdStar I think is one of the hardest problems overall when you enter into the platform and you never actually engage with it. So we have your profile and kind of all the things that are listed on your profile.
+
+So if you say if you're a product manager, you're more likely to receive product manager related things. If you're a creator, you're more likely to see creator related things. And so we have a representation for the profile. Which which which means by the way if you're like starting on LinkedIn, whether you're like starting with some feed or you're a creator starting link, you should have a profile that's filled out.
+
+Yes. Because like because it it helps it helps you it helps us match the audience. It helps you like get the feed that you're looking for, right? Yeah, yeah, exactly. And then we have a there's a machine learning technique that we call collaborative filtering.
+
+It's just a really fancy way of saying, um, let's say that Travis is new to the field, you don't know a ton about him. But Travis's profile is very similar to John's profile.
+
+And John is also a product manager who's also working in technology. So we're actually going to take a representation of John and look at other things that he's looked at and use that actually as a representation for track.
+
+So we call this broadly collaborative filtering. So between what you create it on the profile and then what other individuals similar to your profile do, then we begin to show you content based on that.
+
+And then based on your interactions with that, we begin to create what we call an embedding or representation of you overall on the platform. So I mean ranking is kind of like two phases.
+
+One is who are you? What's your professional identity? Try to what you're creating on the platform or you're using for the first time. We're trying to match on that um and then as you use the the product like we get these signals construct a sequence to say like where are you going what's the outcome what's what's your heading and let us help you there let us like start servicing voices that are going to run alongside you on that trajectory, give you perspectives that are going to help if you're looking for a job, if you're starting a business.
+
+Let's get those people running alongside you wherever they may exist in in the 1 billion plus like network. So we've been talking a lot about, you know, technical, we talked about retrieval, because we really wanted you guys to understand the sausage.
+
+But now we want to talk a little bit about, you know, Tim, what advice do we have for individuals who want to be creators? What kind of content or what kind of formats or how should they be thinking about hosting on LinkedIn?
+
+And then we'll start right there and then go off into the kind of the creator domain to help people understand how their concept is going to get distribution process. I mean if Tiffany is an audience maybe she'd make it but like she should just give this page because she gave it to me yesterday so she could she could probably do it way better than I can in a much more inspirational way.
+
+I mean I think I think there's a few things. First of all, and this ties back to like how we started here. Like your authentic self. I mean, like, people create authenticity, especially now.
+
+Like like the the entire world is a wash in AI stuff and like people are just craving human connection authenticity. Like is this a real perspective you had or did you dump the Chat GPT out with the bank?
+
+And so authenticity is big on LinkedIn. We obviously have, you know, 100 million plus verified members on LinkedIn. That means they are real people who have verified that they are real people. This is not some somebody who paid, you know, for, you know, a blue check mark um and it needs to be real um sorry for the shade um uh so so authenticity is huge um I think the next thing is like give back give back to your network um you know network is something that's so freaking valuable um that people I mean like people tap into this in in in the moments in the when we were talking with like SMB owners, entrepreneurs yesterday, it's like I tap into my network because I need something now.
+
+But that means that like you can't always just take from that network. You have to give back. Give back the perspectives, give back the problems you solve, give back how you're building because you don't know like you may have solved that problem but that might be the path for somebody who's just right behind you and is like where where do I go where do I go now?
+
+Actually like this is a probably good moment. We we just had our intern class um at LinkedIn and I do I do ground back sessions with all our interns and I was just like how's the summer going like what could we do better like what are you doing and like first of all it was awkward because like sometimes we're scared to speak up because they're like, am I not gonna get an offer or like am I supposed to be like?
+
+Safe space, safe space. Um and they're like, hey, I'm in college right now and freaking every professor's telling me I can't use AI. They're like, ple,ase please don't.
+
+And then you're I'm coming to LinkedIn and you're like, if you don't use AI, you're not going to get a job offer. Like, like, like, how do I reconcile this? And the fact is, there are tons of people who have internships or have just started at like a companies who have been onboarding these companies and understand the expectations that have been changing over the last 12, 18, 24 months and they've been changing super rapidly.
+
+I mean CLI, competent CLI, plot CLI, post started in January, like those went up around a year ago. And so if if they can get access to those perspectives on LinkedIn, people who have literally just crossed that boundary and they understand what's inspected on them well before they even enter the workforce maybe like as they're graduating or in their senior year they're like got it like this is what caused me to operate that's super valuable and we just need people to be giving back to that network giving back um to people who are going to be following in their footsteps.
+
+And the last actually like the last is like just working around AISOL. Like AI not being a ghostwriter, you know, using AI for editing object writing.
+
+Actually like you're better talk to this than I am because I see you hanging your head in your hands and it is just like, man, like the things I feel like so I mean you talk a little bit about like you know the the AI authenticity thing like how how do you actually use AI effectively without coming off as like a robot?
+
+Yeah it's a difficult problem. So broadly speaking, the advice that we give is to you can use AI absolutely, but make sure before you hit the comment button or the post button that it sounds like you.
+
+Like, is this something that John would say? And if the answer is no, please don't post it. Like, just just don't post it. And the reason is I was speaking earlier about ST classifiers is we actively want to make sure that that's the kind of content that's not perforating throughout the platform.
+
+And so make sure it has your own voice, make sure it's not using kind of telltale signs of AI broadly, and make sure it's adding to the actual conversation the number of comments that we see that's just repeating the post back is like it it's it's it's far too many at this point and so we're actively trying to kind of reduce that overall um and to create a bigger better experience um on the platform.
+
+We've actually, I mean, just through the stuff that you and I've been working on, like reduced to like 40% of the first time, right? Like 40% slow reviews on the actual. Yeah, that's exactly right. And we're actually in the midst of ranking something right now that we're actually probably gonna drop it even more on AI slot more commons.
+
+So know that this is something that we are actively actively working on. A couple other things for creators. Think about what you are trying to say as a medium that fits it the best.
+
+So not everything has to be a video and not everything has to be a textbook, right? If you have an idea that's best conveyed by images, go ahead and post a carousel and post three images related to your idea and put a topic line above.
+
+If you're posting a video, absolutely post a video. Make sure to use burning captions. Burning captions just tend to do extremely well because uh it's something like 50 plus percent of users are not always listening to the, they're they're not listening to it audibly.
+
+And so they're looking at it on their phone. And so providing burning captions provides a bunch of context for us. Also helps attempt accessibility. And it helps attempt with accessibility, exactly.
+
+Right. Oftentimes another thing is if you're posting a video, sometimes it's worthwhile to actually put a caption or a couple of texts above it in order to give the classifier a better representation of kind of what you're talking about and to give people a sense when they come to the actual post, oh, this is what this is about and then actually being able to view through the video as well.
+
+So and then the last piece is um is consistency. I think it's important to show up consistently to discuss your ideas and rather than considering it as, oh, I'm becoming a creator or something of the sort it's much more of oh I'm adding to the conversation about this subject matter I'm adding to the conversation about product management I'm adding to the conversation about media or entertainment or whatever domain that you're in or whatever domain that you want to be in, right?
+
+And that'll come in posts sometimes and sometimes that'll add comments comments. And so I think between those we should you know we're already seeing a massive growth for kind of creators overall on the platform and so I think people are really beginning to get the message about uh growing both growing as a creator as well as kind of growing their professional kind of network across the game.
+
+Yeah, and I mean on that, like, you you listed a lot of things that like, you know, I think we can try to do to kind of game, game that go. And it's like it's not, honestly, it's like it's a losing battle to to trend the imaging that but like what what trend works today is not necessarily going to work tomorrow um like ultimately like you know we talk a lot about like our systems that are thinking we're treatable for making like what we're trying to do and like what our engineering product teams are trying to do every single day is make sure that we're surfacing the most insightful content, the stuff that's authentic, the stuff that meets people at their moment, that is like resonating starting conversations.
+
+And like, you know, I've seen every friggin' myth uh because like put your link in the comment or, you know, like there's like there's like 50 others.
+
+Like, these things work one day, they don't work the next. Like there's no correlation between these things. And so it's really about kind of staying true to to what the professional network is trying to do.
+
+Like treat this like, you know, if if this professional network is a really well-run workplace, professional workplace. Like how would you you sho showw up? Like how would up as your authentic self in in that environment?
+
+My guess is you would not be spamming your coworkers with like link in bio, link in comment, like I can't exist information. So so don't bury those and like you know just show up, give the insights when you have them.
+
+Um yeah. Should we I mean I'm curious like how are we doing on time? I think I think we're we're we're getting close. We're getting close, you're right. I want to make sure I'm not uh stealing somebody else's time here.
+
+Um let's let's close it out with like what what do you want the takeaways to be here for creators who people use LinkedIn, people who are building businesses on LinkedIn, like how should they show up to their best on LinkedIn?
+
+I think easy question. Easy question. I think we've been talking about this authenticity thing. I'm going to continue to drive this on. Your thoughts are like deeply, deeply valuable. And I wanna I I wanna like take a step back and we need to recognize what the origin of social media actually is.
+
+Historically, in order to receive information, you would go to a newspaper or the television in which it was a large group of people who made the determination about what is appropriate and what's the zeitgeist and what you should watch.
+
+And social media has completely changed that entirely, right? There are no individual, there are not gatekeepers anymore. So your opinion is actually valuable. And there are individuals like myself, like Tim, that are working to make sure that your opinion gets viewed by other people who have an interest in your topic matter.
+
+Never before in the history of civilization have we had something like that. And so I want all everyone in this room, all the creators, all the thinkers, to take deep advantage of this and say, my ideas are worthwhile.
+
+It doesn't matter if 10 people view it or a thousand people view it, but my idea is something. I'm an educated individual. I have thoughts. I have ideas. Those ideas are recorded and then put them out there into the real world.
+
+And I'm not saying that that's like an easy thing by any means. It is, it is not. I'm becoming a creator, I'm in the process of like learning the creator entity and it is hard it is brutally hard um one it's hard to hey this idea that I have how do I show it in the right way and then two it's hard to say oh I put all this work into this I did the editing I did this idea I thought through this I wrote down this and then not having yet a ton of distribution but I will say that posts that have not received a ton of distribution have actually had people reach out to me in messages and say oh actually I never thought about that that.
+
+That's a really interesting idea. Or people in the office coming to me and saying, oh, I actually had a similar idea. Let's chat more about that. And so you really truly, ideas that sit in your head can't really do anything, right?
+
+We are no longer a society of ideas, we are a society of viewers. And so I think that there is a huge opportunity here to transition yourself from being someone who is a thinker or someone who might do something or a baby to getting your ideas out there, broadcasting consistently and having opportunities show up for you.
+
+And as folks who have not had this experience, or I'm really talking about people who are marginalized, this is a massive change. Like this is a massive opportunity to get our ideas out there and not have a gatekeeper saying, oh, because you're ex or because you didn't Y school or because you didn't do something, you still have an opportunity to do this.
+
+We need to recognize how important permissionless society is. And so I'm encouraging everybody to, I wasn't I'm not saying to become a creator, but to push yourself slightly outside of your comfort zone and say, here's this idea I have, let me post it.
+
+Here's this essay I've been wanting to write. I've been wanting to write about, you know, what is the purpose of free speech versus not or versus leveraging classifiers, right? Your idea is actually worthwhile.
+
+So whether it's a post or an essay or a video or a comment put the ideas out there and I guarantee I truly mean this that that it will come back around in some way if nothing else to develop your own thesis because I have had to test my whole theses about what I believe as a product manager in producing content.
+
+Do I truly believe that classifiers should exist to prevent the dissemination of horrible content? Let me think about that for a moment. Okay, actually I do believe that and here's the reason why, right? So that critical th critical thinking that everybody talks about.
+
+But but it's serious. We need to be thinking critically and we need to be having these open discussions and discourse. And this is what social media needs to be. Listen, short form video is, you know, talking about whatever it is.
+
+It's cool. It's a form of expression. But short form video is also an opportunity to express ideas in a really meaningful and thoughtful way. And those are the things that we should be pushing for. Those are the things that LinkedIn or any platform for that matter can do, which is to get your ideas out there and have a conversation with society about the things that are important.
+
+When we're on our deathbed, nobody's going to care about, you know, this idea that you maybe uh thought about once. They're going to think about the art of all your thinking. And so I want us to think about social media as the body of work and our representation of the things that we think and then meeting with like-minded people to be able to have those conversations on the call.
+
+Hold on the microphone. I mean, that's a great note to end on. I mean, I'll just say I wish for for those of you who have been in in this industry for a half second, like I think all of us wish we had something like the LinkedIn feed when we were starting our careers and to have people mentoring, to have people sharing their experience.
+
+And for people who are entering the workforce now and like trying to navigate exactly what you said, it's a challenging moment. Like it's not about the degree. It's about the skill set. It's about what you can do.
+
+It's about showcasing what you can do. And if you're able to bring that on LinkedIn and showcase your expertise to get economic opportunity, but then also give back to the community for the next generation of folks that are that are starting out, that just becomes an incredibly powerful flywheel.
+
+And so I mean yeah my my recommendation to all of you is like get out there show your expertise share back with the network. All of this just enriches the community and that's like, that's ultimately how to be successful, not just on LinkedIn, but literally to create economic opportunity for the network and for every every person in the global workforce.
+
+So that's it for us today. Thank you everyone for joining and we're looking forward to chatting with you around Afrotech. Chat's near going to be around, so happy to chat. A sing.
+
+Thank you all. Let's give it up for Tim and Travis one more time. So this moment is about to go on break. So I want you to go out of here, go meet some people, go connect, go grab some lunch. I heard Houston barbecue is good, but it's not better than Memphis and he was back on the bill.
+
+No grabs too much, but he's making it if he does that ear right against him. All right, have a good one everyone.
+
+If someone left their phone, it's back here at the audio mix position if you lost your phone. AI audience. I know exactly our eight of us.

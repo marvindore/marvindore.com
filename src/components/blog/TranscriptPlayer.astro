@@ -1,0 +1,237 @@
+---
+import { formatTime, loadTranscript } from "../../lib/transcript";
+import Icon from "../ui/Icon.astro";
+
+interface Props {
+    /** File stem shared by /audio/<id>.m4a, /transcripts/<id>.{txt,srt} and src/data/transcripts/<id>.srt */
+    id: string;
+    title: string;
+    description?: string;
+}
+
+const { id, title, description } = Astro.props;
+const turns = loadTranscript(id);
+const duration = turns.at(-1)?.cues.at(-1)?.end ?? 0;
+---
+
+<section class="talk" id={id} data-talk aria-labelledby={`${id}-title`}>
+    <h3 id={`${id}-title`}>{title}</h3>
+    {description && <p class="description">{description}</p>}
+
+    <audio controls preload="none" src={`/audio/${id}.m4a`}></audio>
+
+    <p class="downloads">
+        <a href={`/audio/${id}.m4a`} download><Icon name="download" size={16} /> Audio (.m4a)</a>
+        <a href={`/transcripts/${id}.txt`} download><Icon name="download" size={16} /> Transcript (.txt)</a>
+        <a href={`/transcripts/${id}.srt`} download><Icon name="download" size={16} /> Captions (.srt)</a>
+    </p>
+
+    <div class="toolbar">
+        <span>Transcript · {formatTime(duration)}</span>
+        <label><input type="checkbox" data-follow checked /> Follow along</label>
+    </div>
+
+    <div class="transcript" data-transcript tabindex="0" role="region" aria-label={`${title} transcript`}>
+        {
+            turns.map((turn) => (
+                <p class="turn">
+                    <span class="head">
+                        <button type="button" class="stamp" data-seek={turn.start}>
+                            {formatTime(turn.start)}
+                        </button>
+                        {turn.speaker && <strong class="speaker">{turn.speaker}</strong>}
+                    </span>
+                    {turn.cues.map((cue) => (
+                        <span class="cue" data-start={cue.start} data-end={cue.end}>
+                            {cue.text}{" "}
+                        </span>
+                    ))}
+                </p>
+            ))
+        }
+    </div>
+</section>
+
+<style>
+    .talk {
+        margin-top: 2rem;
+        padding: 1.25rem;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        background: var(--surface);
+        box-shadow: var(--shadow-card);
+        scroll-margin-top: 1rem;
+    }
+
+    h3 {
+        margin: 0 0 0.25rem;
+        line-height: 1.25;
+    }
+
+    .description {
+        margin: 0 0 0.9rem;
+        color: var(--text-muted);
+        font-size: 0.95rem;
+    }
+
+    audio {
+        width: 100%;
+        margin-top: 0.5rem;
+    }
+
+    .downloads {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem 1.1rem;
+        margin: 0.75rem 0 1.1rem;
+        font-size: 0.9rem;
+    }
+
+    .downloads a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        color: var(--link);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+    }
+
+    .toolbar {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        padding-bottom: 0.5rem;
+        color: var(--text-muted);
+        font-size: 0.85rem;
+    }
+
+    .toolbar label {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        cursor: pointer;
+    }
+
+    .transcript {
+        max-height: 26rem;
+        overflow-y: auto;
+        padding: 0.9rem 1rem;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        background: var(--surface-muted);
+        font-size: 1rem;
+        line-height: 1.7;
+        overscroll-behavior: contain;
+        position: relative; /* makes the box the offsetParent for auto-scroll */
+    }
+
+    .turn {
+        margin: 0 0 1rem;
+    }
+
+    .head {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        margin-bottom: 0.15rem;
+    }
+
+    .speaker {
+        font-size: 0.85rem;
+    }
+
+    .stamp {
+        padding: 0.05rem 0.5rem;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        background: var(--surface);
+        color: var(--link);
+        font: inherit;
+        font-size: 0.78rem;
+        font-variant-numeric: tabular-nums;
+        cursor: pointer;
+    }
+
+    .cue {
+        cursor: pointer;
+        border-radius: 4px;
+        transition: background-color 0.15s ease;
+    }
+
+    .cue:hover {
+        background: color-mix(in srgb, var(--brand-from) 10%, transparent);
+    }
+
+    .cue.active {
+        background: color-mix(in srgb, var(--brand-from) 28%, transparent);
+        box-decoration-break: clone;
+        -webkit-box-decoration-break: clone;
+    }
+</style>
+
+<script>
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+    document.querySelectorAll<HTMLElement>("[data-talk]").forEach((talk) => {
+        const audio = talk.querySelector("audio")!;
+        const box = talk.querySelector<HTMLElement>("[data-transcript]")!;
+        const follow = talk.querySelector<HTMLInputElement>("[data-follow]")!;
+        const cues = [...talk.querySelectorAll<HTMLElement>(".cue")];
+        const starts = cues.map((c) => Number(c.dataset.start));
+        const ends = cues.map((c) => Number(c.dataset.end));
+        let active = -1;
+
+        const seek = (seconds: number) => {
+            audio.currentTime = seconds;
+            if (audio.paused) void audio.play().catch(() => {});
+        };
+
+        /** Index of the last cue that has started (binary search), or -1 before the first. */
+        const indexAt = (t: number) => {
+            let lo = 0;
+            let hi = starts.length - 1;
+            let found = -1;
+            while (lo <= hi) {
+                const mid = (lo + hi) >> 1;
+                if (starts[mid] <= t) {
+                    found = mid;
+                    lo = mid + 1;
+                } else hi = mid - 1;
+            }
+            return found;
+        };
+
+        const update = () => {
+            const t = audio.currentTime;
+            let i = indexAt(t);
+            if (i >= 0 && t > ends[i] + 1.5) i = -1; // in a long silence, nothing is being said
+            if (i === active) return;
+            if (active >= 0) cues[active].classList.remove("active");
+            if (i >= 0) {
+                cues[i].classList.add("active");
+                if (follow.checked && !audio.paused) {
+                    const top = cues[i].offsetTop - box.clientHeight / 3;
+                    box.scrollTo({ top, behavior: reduceMotion.matches ? "auto" : "smooth" });
+                }
+            }
+            active = i;
+        };
+
+        audio.addEventListener("timeupdate", update);
+        audio.addEventListener("seeked", update);
+        // Only one talk plays at a time.
+        audio.addEventListener("play", () => {
+            document.querySelectorAll("[data-talk] audio").forEach((other) => {
+                if (other !== audio) (other as HTMLAudioElement).pause();
+            });
+        });
+
+        box.addEventListener("click", (event) => {
+            const target = event.target as HTMLElement;
+            const stamp = target.closest<HTMLElement>("[data-seek]");
+            if (stamp) return seek(Number(stamp.dataset.seek));
+            const cue = target.closest<HTMLElement>(".cue");
+            if (cue) seek(Number(cue.dataset.start));
+        });
+    });
+</script>
